@@ -1,0 +1,918 @@
+{
+    "marketList": [
+        {
+            "mainKey": 4001,
+            "sumCount": 21203,
+            "totalSumCount": 319092905,
+            "name": "Minério de Ferro",
+            "grade": 0,
+            "minPrice": 590
+        },
+        {
+            "mainKey": 4002,
+            "sumCount": 38742,
+            "totalSumCount": 105884271,
+            "name": "Minério de Chumbo",
+            "grade": 0,
+            "minPrice": 3160
+        },
+        {
+            "mainKey": 4003,
+            "sumCount": 22784,
+            "totalSumCount": 293913797,
+            "name": "Minério de Cobre",
+            "grade": 0,
+            "minPrice": 490
+        },
+        {
+            "mainKey": 4004,
+            "sumCount": 1826,
+            "totalSumCount": 104157395,
+            "name": "Minério de Estanho",
+            "grade": 0,
+            "minPrice": 1740
+        },
+        {
+            "mainKey": 4005,
+            "sumCount": 45850,
+            "totalSumCount": 178637289,
+            "name": "Minério de Zinco",
+            "grade": 0,
+            "minPrice": 2230
+        },
+        {
+            "mainKey": 4006,
+            "sumCount": 0,
+            "totalSumCount": 17931425,
+            "name": "Pedra Áspera",
+            "grade": 0,
+            "minPrice": 3770
+        },
+        {
+            "mainKey": 4007,
+            "sumCount": 28546,
+            "totalSumCount": 182447055,
+            "name": "Carvão",
+            "grade": 0,
+            "minPrice": 875
+        },
+        {
+            "mainKey": 4008,
+            "sumCount": 11441,
+            "totalSumCount": 21003042,
+            "name": "Minério de Vanádio",
+            "grade": 0,
+            "minPrice": 3530
+        },
+        {
+            "mainKey": 4009,
+            "sumCount": 0,
+            "totalSumCount": 19432917,
+            "name": "Minério de Titânio",
+            "grade": 0,
+            "minPrice": 1810
+        },
+        {
+            "mainKey": 4010,
+            "sumCount": 4099,
+            "totalSumCount": 406215,
+            "name": "Enxofre",
+            "grade": 0,
+            "minPrice": 1460
+        },
+        {
+            "mainKey": 4011,
+            "sumCount": 44701,
+            "totalSumCount": 69442389,
+            "name": "Minério de Ferrugem",
+            "grade": 0,
+            "minPrice": 3180
+        },
+        {
+            "mainKey": 4013,
+            "sumCount": 5154,
+            "totalSumCount": 149018,
+            "name": "Minério de Níquel",
+            "grade": 0,
+            "minPrice": 4980
+        },
+        {
+            "mainKey": 4051,
+            "sumCount": 15195,
+            "totalSumCount": 66514874,
+            "name": "Fragmento do Ferro Derretido",
+            "grade": 0,
+            "minPrice": 2130
+        },
+        {
+            "mainKey": 4052,
+            "sumCount": 30643,
+            "totalSumCount": 29970588,
+            "name": "Lingote de Ferro",
+            "grade": 0,
+            "minPrice": 8500
+        },
+        {
+            "mainKey": 4053,
+            "sumCount": 4540,
+            "totalSumCount": 2644266,
+            "name": "Essência de Ferro Puro",
+            "grade": 0,
+            "minPrice": 297000
+        },
+        {
+            "mainKey": 4054,
+            "sumCount": 1220,
+            "totalSumCount": 4906816,
+            "name": "Fragmento do Chumbo Derretido",
+            "grade": 0,
+            "minPrice": 1270
+        },
+        {
+            "mainKey": 4055,
+            "sumCount": 10823,
+            "totalSumCount": 3619238,
+            "name": "Lingote de Chumbo",
+            "grade": 0,
+            "minPrice": 8600
+        },
+        {
+            "mainKey": 4056,
+            "sumCount": 48,
+            "totalSumCount": 227463,
+            "name": "Essência de Chumbo Puro",
+            "grade": 0,
+            "minPrice": 149000
+        },
+        {
+            "mainKey": 4057,
+            "sumCount": 5277,
+            "totalSumCount": 57704265,
+            "name": "Fragmento do Cobre Derretido",
+            "grade": 0,
+            "minPrice": 1480
+        },
+        {
+            "mainKey": 4058,
+            "sumCount": 14515,
+            "totalSumCount": 28883397,
+            "name": "Lingote de Cobre",
+            "grade": 0,
+            "minPrice": 8400
+        },
+        {
+            "mainKey": 4059,
+            "sumCount": 2097,
+            "totalSumCount": 414950,
+            "name": "Essência de Cobre Puro",
+            "grade": 0,
+            "minPrice": 264000
+        },
+        {
+            "mainKey": 4060,
+            "sumCount": 8389,
+            "totalSumCount": 14641316,
+            "name": "Fragmento do Estanho Derretido",
+            "grade": 0,
+            "minPrice": 3530
+        },
+        {
+            "mainKey": 4061,
+            "sumCount": 19341,
+            "totalSumCount": 4572105,
+            "name": "Lingote de Estanho",
+            "grade": 0,
+            "minPrice": 8500
+        },
+        {
+            "mainKey": 4062,
+            "sumCount": 0,
+            "totalSumCount": 37688,
+            "name": "Essência de Estanho Puro",
+            "grade": 0,
+            "minPrice": 154000
+        },
+        {
+            "mainKey": 4063,
+            "sumCount": 19336,
+            "totalSumCount": 32866423,
+            "name": "Fragmento do Zinco Derretido",
+            "grade": 0,
+            "minPrice": 8600
+        },
+        {
+            "mainKey": 4064,
+            "sumCount": 43254,
+            "totalSumCount": 35144694,
+            "name": "Lingote de Zinco",
+            "grade": 0,
+            "minPrice": 38700
+        },
+        {
+            "mainKey": 4065,
+            "sumCount": 3217,
+            "totalSumCount": 181711,
+            "name": "Essência de Zinco Puro",
+            "grade": 0,
+            "minPrice": 52500
+        },
+        {
+            "mainKey": 4066,
+            "sumCount": 12658,
+            "totalSumCount": 9152921,
+            "name": "Lingote de Latão",
+            "grade": 0,
+            "minPrice": 19900
+        },
+        {
+            "mainKey": 4067,
+            "sumCount": 10611,
+            "totalSumCount": 8798874,
+            "name": "Lingote de Bronze",
+            "grade": 0,
+            "minPrice": 14900
+        },
+        {
+            "mainKey": 4068,
+            "sumCount": 0,
+            "totalSumCount": 3709506,
+            "name": "Pedra Polida",
+            "grade": 0,
+            "minPrice": 17100
+        },
+        {
+            "mainKey": 4070,
+            "sumCount": 29448,
+            "totalSumCount": 8427886,
+            "name": "Carvão Processado",
+            "grade": 0,
+            "minPrice": 2280
+        },
+        {
+            "mainKey": 4077,
+            "sumCount": 9292,
+            "totalSumCount": 35341476,
+            "name": "Aço",
+            "grade": 0,
+            "minPrice": 7400
+        },
+        {
+            "mainKey": 4078,
+            "sumCount": 8053,
+            "totalSumCount": 2123325,
+            "name": "Fragmento do Vanádio Derretido",
+            "grade": 0,
+            "minPrice": 8450
+        },
+        {
+            "mainKey": 4079,
+            "sumCount": 13078,
+            "totalSumCount": 2223948,
+            "name": "Lingote de Vanádio",
+            "grade": 0,
+            "minPrice": 32900
+        },
+        {
+            "mainKey": 4080,
+            "sumCount": 5135,
+            "totalSumCount": 2313268,
+            "name": "Essência de Vanádio Puro",
+            "grade": 0,
+            "minPrice": 336000
+        },
+        {
+            "mainKey": 4081,
+            "sumCount": 0,
+            "totalSumCount": 3008494,
+            "name": "Fragmento do Titânio Derretido",
+            "grade": 0,
+            "minPrice": 3600
+        },
+        {
+            "mainKey": 4082,
+            "sumCount": 326,
+            "totalSumCount": 1508991,
+            "name": "Lingote de Titânio",
+            "grade": 0,
+            "minPrice": 16200
+        },
+        {
+            "mainKey": 4083,
+            "sumCount": 10542,
+            "totalSumCount": 1447799,
+            "name": "Essência de Titanium Puro",
+            "grade": 0,
+            "minPrice": 309000
+        },
+        {
+            "mainKey": 4084,
+            "sumCount": 37,
+            "totalSumCount": 281943,
+            "name": "Benevolente de Margoria",
+            "grade": 0,
+            "minPrice": 510000
+        },
+        {
+            "mainKey": 4085,
+            "sumCount": 87097,
+            "totalSumCount": 1326002,
+            "name": "Fragmento de Ferrugem Derretido",
+            "grade": 0,
+            "minPrice": 4170
+        },
+        {
+            "mainKey": 4086,
+            "sumCount": 23592,
+            "totalSumCount": 1902368,
+            "name": "Lingote de Ferrugem",
+            "grade": 0,
+            "minPrice": 10600
+        },
+        {
+            "mainKey": 4087,
+            "sumCount": 7422,
+            "totalSumCount": 424621,
+            "name": "Essência de Ferrugem Puro",
+            "grade": 0,
+            "minPrice": 349000
+        },
+        {
+            "mainKey": 4088,
+            "sumCount": 52,
+            "totalSumCount": 4775,
+            "name": "Pedaço de Níquel Derretido",
+            "grade": 0,
+            "minPrice": 6150
+        },
+        {
+            "mainKey": 4089,
+            "sumCount": 3115,
+            "totalSumCount": 10866,
+            "name": "Lingote de Níquel",
+            "grade": 0,
+            "minPrice": 56500
+        },
+        {
+            "mainKey": 4090,
+            "sumCount": 16,
+            "totalSumCount": 32,
+            "name": "Cristal de Níquel Genuíno",
+            "grade": 0,
+            "minPrice": 173000
+        },
+        {
+            "mainKey": 4201,
+            "sumCount": 714,
+            "totalSumCount": 4191001,
+            "name": "Minério de Prata",
+            "grade": 0,
+            "minPrice": 7050
+        },
+        {
+            "mainKey": 4202,
+            "sumCount": 911,
+            "totalSumCount": 3455745,
+            "name": "Minério de Ouro",
+            "grade": 0,
+            "minPrice": 6200
+        },
+        {
+            "mainKey": 4203,
+            "sumCount": 51102,
+            "totalSumCount": 16679003,
+            "name": "Minério de Platina",
+            "grade": 0,
+            "minPrice": 2410
+        },
+        {
+            "mainKey": 4204,
+            "sumCount": 58413,
+            "totalSumCount": 8563969,
+            "name": "Opala Bruta",
+            "grade": 0,
+            "minPrice": 1310
+        },
+        {
+            "mainKey": 4206,
+            "sumCount": 0,
+            "totalSumCount": 187525,
+            "name": "Mithril",
+            "grade": 0,
+            "minPrice": 40000
+        },
+        {
+            "mainKey": 4251,
+            "sumCount": 6078,
+            "totalSumCount": 4034435,
+            "name": "Fragmento de Prata Derretido",
+            "grade": 0,
+            "minPrice": 13700
+        },
+        {
+            "mainKey": 4252,
+            "sumCount": 4059,
+            "totalSumCount": 324638,
+            "name": "Lingotes de Prata",
+            "grade": 0,
+            "minPrice": 60000
+        },
+        {
+            "mainKey": 4253,
+            "sumCount": 2081,
+            "totalSumCount": 172664,
+            "name": "Essência de Prata Pura",
+            "grade": 0,
+            "minPrice": 119000
+        },
+        {
+            "mainKey": 4254,
+            "sumCount": 507,
+            "totalSumCount": 2866573,
+            "name": "Fragmento de Ouro Derretido",
+            "grade": 0,
+            "minPrice": 11600
+        },
+        {
+            "mainKey": 4255,
+            "sumCount": 25,
+            "totalSumCount": 496444,
+            "name": "Lingotes de Ouro",
+            "grade": 0,
+            "minPrice": 89500
+        },
+        {
+            "mainKey": 4256,
+            "sumCount": 5613,
+            "totalSumCount": 194002,
+            "name": "Essência de Ouro Puro",
+            "grade": 0,
+            "minPrice": 418000
+        },
+        {
+            "mainKey": 4257,
+            "sumCount": 24526,
+            "totalSumCount": 6080232,
+            "name": "Fragmento do Platina Derretida",
+            "grade": 0,
+            "minPrice": 12800
+        },
+        {
+            "mainKey": 4258,
+            "sumCount": 148856,
+            "totalSumCount": 343169,
+            "name": "Lingote de Platina",
+            "grade": 0,
+            "minPrice": 62000
+        },
+        {
+            "mainKey": 4259,
+            "sumCount": 8934,
+            "totalSumCount": 337537,
+            "name": "Essência de Platina Pura",
+            "grade": 0,
+            "minPrice": 147000
+        },
+        {
+            "mainKey": 4260,
+            "sumCount": 17029,
+            "totalSumCount": 1147982,
+            "name": "Opala Polido",
+            "grade": 0,
+            "minPrice": 7550
+        },
+        {
+            "mainKey": 4262,
+            "sumCount": 0,
+            "totalSumCount": 48021,
+            "name": "Fragmento do Mithril Derretido",
+            "grade": 0,
+            "minPrice": 89500
+        },
+        {
+            "mainKey": 4263,
+            "sumCount": 0,
+            "totalSumCount": 37339,
+            "name": "Lingote de Mithril",
+            "grade": 0,
+            "minPrice": 685000
+        },
+        {
+            "mainKey": 4264,
+            "sumCount": 3476,
+            "totalSumCount": 143703,
+            "name": "Essência de Mitril Puro",
+            "grade": 0,
+            "minPrice": 1600000
+        },
+        {
+            "mainKey": 4265,
+            "sumCount": 3043,
+            "totalSumCount": 241131,
+            "name": "Opala Resplandecente",
+            "grade": 0,
+            "minPrice": 31200
+        },
+        {
+            "mainKey": 4266,
+            "sumCount": 3718,
+            "totalSumCount": 170580,
+            "name": "Opala Lunar",
+            "grade": 0,
+            "minPrice": 280000
+        },
+        {
+            "mainKey": 4267,
+            "sumCount": 0,
+            "totalSumCount": 132832,
+            "name": "Lingote de Nielo",
+            "grade": 0,
+            "minPrice": 1180000
+        },
+        {
+            "mainKey": 4269,
+            "sumCount": 550,
+            "totalSumCount": 2695823,
+            "name": "Lingote de Acessório de Coral com Jade",
+            "grade": 0,
+            "minPrice": 150000
+        },
+        {
+            "mainKey": 4401,
+            "sumCount": 8550,
+            "totalSumCount": 12157194,
+            "name": "Rubi Bruto",
+            "grade": 0,
+            "minPrice": 3370
+        },
+        {
+            "mainKey": 4402,
+            "sumCount": 0,
+            "totalSumCount": 338524,
+            "name": "Safira Bruto",
+            "grade": 0,
+            "minPrice": 35500
+        },
+        {
+            "mainKey": 4403,
+            "sumCount": 347,
+            "totalSumCount": 574873,
+            "name": "Topázio Bruto",
+            "grade": 0,
+            "minPrice": 7750
+        },
+        {
+            "mainKey": 4404,
+            "sumCount": 0,
+            "totalSumCount": 336717,
+            "name": "Esmeralda Bruta",
+            "grade": 0,
+            "minPrice": 40000
+        },
+        {
+            "mainKey": 4405,
+            "sumCount": 352,
+            "totalSumCount": 329770,
+            "name": "Diamante Bruto",
+            "grade": 0,
+            "minPrice": 3770
+        },
+        {
+            "mainKey": 4406,
+            "sumCount": 89901,
+            "totalSumCount": 6065016,
+            "name": "Cristal Translúcido Bruto",
+            "grade": 0,
+            "minPrice": 1350
+        },
+        {
+            "mainKey": 4407,
+            "sumCount": 0,
+            "totalSumCount": 12360154,
+            "name": "Cristal Lama Bruto",
+            "grade": 0,
+            "minPrice": 14600
+        },
+        {
+            "mainKey": 4408,
+            "sumCount": 18345,
+            "totalSumCount": 16443999,
+            "name": "Cristal Vermelho Bruto",
+            "grade": 0,
+            "minPrice": 11300
+        },
+        {
+            "mainKey": 4409,
+            "sumCount": 0,
+            "totalSumCount": 7930043,
+            "name": "Cristal Verde Bruto",
+            "grade": 0,
+            "minPrice": 14000
+        },
+        {
+            "mainKey": 4410,
+            "sumCount": 1711,
+            "totalSumCount": 26796544,
+            "name": "Cristal Negro Bruto",
+            "grade": 0,
+            "minPrice": 11700
+        },
+        {
+            "mainKey": 4411,
+            "sumCount": 329,
+            "totalSumCount": 4415779,
+            "name": "Cristal Azul Bruto",
+            "grade": 0,
+            "minPrice": 15300
+        },
+        {
+            "mainKey": 4412,
+            "sumCount": 19222,
+            "totalSumCount": 4909815,
+            "name": "Cristal Violeta Bruto",
+            "grade": 0,
+            "minPrice": 5950
+        },
+        {
+            "mainKey": 4413,
+            "sumCount": 1,
+            "totalSumCount": 468428,
+            "name": "Lazurita Bruto",
+            "grade": 0,
+            "minPrice": 40000
+        },
+        {
+            "mainKey": 4451,
+            "sumCount": 1254,
+            "totalSumCount": 951078,
+            "name": "Rubi",
+            "grade": 0,
+            "minPrice": 13600
+        },
+        {
+            "mainKey": 4452,
+            "sumCount": 11904,
+            "totalSumCount": 427830,
+            "name": "Rubi Resplandecente",
+            "grade": 0,
+            "minPrice": 43200
+        },
+        {
+            "mainKey": 4453,
+            "sumCount": 497,
+            "totalSumCount": 115254,
+            "name": "Rubi Sangrento",
+            "grade": 0,
+            "minPrice": 491000
+        },
+        {
+            "mainKey": 4454,
+            "sumCount": 4,
+            "totalSumCount": 143639,
+            "name": "Safira",
+            "grade": 0,
+            "minPrice": 140000
+        },
+        {
+            "mainKey": 4455,
+            "sumCount": 3,
+            "totalSumCount": 238478,
+            "name": "Safira Resplandecente",
+            "grade": 0,
+            "minPrice": 251000
+        },
+        {
+            "mainKey": 4456,
+            "sumCount": 217,
+            "totalSumCount": 53928,
+            "name": "Safira Oceano",
+            "grade": 0,
+            "minPrice": 2160000
+        },
+        {
+            "mainKey": 4457,
+            "sumCount": 15,
+            "totalSumCount": 184621,
+            "name": "Topázio",
+            "grade": 0,
+            "minPrice": 35400
+        },
+        {
+            "mainKey": 4458,
+            "sumCount": 66,
+            "totalSumCount": 135587,
+            "name": "Topázio Resplandecente",
+            "grade": 0,
+            "minPrice": 53500
+        },
+        {
+            "mainKey": 4459,
+            "sumCount": 195,
+            "totalSumCount": 25345,
+            "name": "Topázio Dourado",
+            "grade": 0,
+            "minPrice": 935000
+        },
+        {
+            "mainKey": 4460,
+            "sumCount": 0,
+            "totalSumCount": 396592,
+            "name": "Esmeralda",
+            "grade": 0,
+            "minPrice": 127000
+        },
+        {
+            "mainKey": 4461,
+            "sumCount": 1006,
+            "totalSumCount": 180059,
+            "name": "Esmeralda Resplandecente",
+            "grade": 0,
+            "minPrice": 487000
+        },
+        {
+            "mainKey": 4462,
+            "sumCount": 13,
+            "totalSumCount": 11880,
+            "name": "Esmeralda Floresta",
+            "grade": 0,
+            "minPrice": 1740000
+        },
+        {
+            "mainKey": 4463,
+            "sumCount": 2896,
+            "totalSumCount": 139250,
+            "name": "Diamante",
+            "grade": 0,
+            "minPrice": 16700
+        },
+        {
+            "mainKey": 4464,
+            "sumCount": 2,
+            "totalSumCount": 109600,
+            "name": "Diamante Resplandecente",
+            "grade": 0,
+            "minPrice": 58500
+        },
+        {
+            "mainKey": 4465,
+            "sumCount": 1364,
+            "totalSumCount": 19414,
+            "name": "Diamante Estrela",
+            "grade": 0,
+            "minPrice": 1030000
+        },
+        {
+            "mainKey": 4466,
+            "sumCount": 9800,
+            "totalSumCount": 660463,
+            "name": "Cristal Translúcido",
+            "grade": 0,
+            "minPrice": 5400
+        },
+        {
+            "mainKey": 4467,
+            "sumCount": 2603,
+            "totalSumCount": 954180,
+            "name": "Cristal Lama",
+            "grade": 0,
+            "minPrice": 12100
+        },
+        {
+            "mainKey": 4468,
+            "sumCount": 49808,
+            "totalSumCount": 924704,
+            "name": "Cristal Vermelho",
+            "grade": 0,
+            "minPrice": 5550
+        },
+        {
+            "mainKey": 4469,
+            "sumCount": 22690,
+            "totalSumCount": 393839,
+            "name": "Cristal Verde",
+            "grade": 0,
+            "minPrice": 5600
+        },
+        {
+            "mainKey": 4470,
+            "sumCount": 990,
+            "totalSumCount": 5762161,
+            "name": "Cristal Negro Minerio",
+            "grade": 0,
+            "minPrice": 43100
+        },
+        {
+            "mainKey": 4481,
+            "sumCount": 2005,
+            "totalSumCount": 452936,
+            "name": "Polidor de Gema",
+            "grade": 0,
+            "minPrice": 123000
+        },
+        {
+            "mainKey": 4483,
+            "sumCount": 2992,
+            "totalSumCount": 357672,
+            "name": "Cristal Azul",
+            "grade": 0,
+            "minPrice": 7850
+        },
+        {
+            "mainKey": 4485,
+            "sumCount": 3949,
+            "totalSumCount": 1494891,
+            "name": "Cristal Violeta",
+            "grade": 0,
+            "minPrice": 39600
+        },
+        {
+            "mainKey": 4490,
+            "sumCount": 0,
+            "totalSumCount": 29259,
+            "name": "Lazurita",
+            "grade": 0,
+            "minPrice": 28700
+        },
+        {
+            "mainKey": 4491,
+            "sumCount": 0,
+            "totalSumCount": 25516,
+            "name": "Lazurita Resplandecente",
+            "grade": 0,
+            "minPrice": 140000
+        },
+        {
+            "mainKey": 4492,
+            "sumCount": 42,
+            "totalSumCount": 18495,
+            "name": "Lazurita de Brilho Azul",
+            "grade": 0,
+            "minPrice": 1930000
+        },
+        {
+            "mainKey": 4801,
+            "sumCount": 16701,
+            "totalSumCount": 95651602,
+            "name": "Pó de Escuridão",
+            "grade": 0,
+            "minPrice": 12700
+        },
+        {
+            "mainKey": 4802,
+            "sumCount": 38519,
+            "totalSumCount": 73190195,
+            "name": "Pó de Chama",
+            "grade": 0,
+            "minPrice": 3460
+        },
+        {
+            "mainKey": 4803,
+            "sumCount": 4112,
+            "totalSumCount": 61309571,
+            "name": "Pó de Rachadura",
+            "grade": 0,
+            "minPrice": 7650
+        },
+        {
+            "mainKey": 4804,
+            "sumCount": 8529,
+            "totalSumCount": 25856179,
+            "name": "Pó da Terra",
+            "grade": 0,
+            "minPrice": 18800
+        },
+        {
+            "mainKey": 4805,
+            "sumCount": 50864,
+            "totalSumCount": 64190118,
+            "name": "Pó do Tempo",
+            "grade": 0,
+            "minPrice": 2320
+        },
+        {
+            "mainKey": 4901,
+            "sumCount": 8990,
+            "totalSumCount": 212449802,
+            "name": "Pó de Pedra Negra",
+            "grade": 0,
+            "minPrice": 4530
+        },
+        {
+            "mainKey": 4902,
+            "sumCount": 3152,
+            "totalSumCount": 2585900,
+            "name": "Ouro Aluvial",
+            "grade": 0,
+            "minPrice": 6450
+        },
+        {
+            "mainKey": 9746,
+            "sumCount": 97,
+            "totalSumCount": 111028,
+            "name": "Lingote de Latão do Abismo",
+            "grade": 3,
+            "minPrice": 590000
+        }
+    ],
+    "resultCode": 0,
+    "resultMsg": ""
+}

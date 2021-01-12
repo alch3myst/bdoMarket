@@ -1,0 +1,251 @@
+{
+    "marketList": [
+        {
+            "mainKey": 15007,
+            "sumCount": 0,
+            "name": "Cristal Mágico da Abundância - Vigor",
+            "grade": 1,
+            "minPrice": 34600
+        },
+        {
+            "mainKey": 15008,
+            "sumCount": 3,
+            "name": "Cristal Mágico da Abundância - Paciência",
+            "grade": 1,
+            "minPrice": 34200
+        },
+        {
+            "mainKey": 15009,
+            "sumCount": 3,
+            "name": "Cristal Mágico da Abundância - Cura",
+            "grade": 1,
+            "minPrice": 33800
+        },
+        {
+            "mainKey": 15010,
+            "sumCount": 9,
+            "name": "Cristal Mágico da Abundância - Ressonância",
+            "grade": 1,
+            "minPrice": 73000
+        },
+        {
+            "mainKey": 15036,
+            "sumCount": 67,
+            "name": "Cristal Mágico Suave - Coleta",
+            "grade": 0,
+            "minPrice": 12800
+        },
+        {
+            "mainKey": 15037,
+            "sumCount": 37,
+            "name": "Cristal Mágico Suave - Pesca",
+            "grade": 0,
+            "minPrice": 15700
+        },
+        {
+            "mainKey": 15038,
+            "sumCount": 32,
+            "name": "Cristal Mágico Suave - Caça",
+            "grade": 0,
+            "minPrice": 14300
+        },
+        {
+            "mainKey": 15039,
+            "sumCount": 47,
+            "name": "Cristal Mágico Suave - Culinária",
+            "grade": 0,
+            "minPrice": 17400
+        },
+        {
+            "mainKey": 15040,
+            "sumCount": 40,
+            "name": "Cristal Mágico Suave - Alquimia",
+            "grade": 0,
+            "minPrice": 14100
+        },
+        {
+            "mainKey": 15041,
+            "sumCount": 35,
+            "name": "Cristal Mágico Suave - Processamento",
+            "grade": 0,
+            "minPrice": 15100
+        },
+        {
+            "mainKey": 15042,
+            "sumCount": 38,
+            "name": "Cristal Mágico Suave - Treino",
+            "grade": 0,
+            "minPrice": 11700
+        },
+        {
+            "mainKey": 15043,
+            "sumCount": 21,
+            "name": "Cristal Mágico Suave - Comércio",
+            "grade": 0,
+            "minPrice": 14300
+        },
+        {
+            "mainKey": 15044,
+            "sumCount": 24,
+            "name": "Cristal Mágico Suave - Cultivo",
+            "grade": 0,
+            "minPrice": 16300
+        },
+        {
+            "mainKey": 15045,
+            "sumCount": 27,
+            "name": "Cristal Mágico Obscuro - Oceano",
+            "grade": 0,
+            "minPrice": 15700
+        },
+        {
+            "mainKey": 15107,
+            "sumCount": 29,
+            "name": "Cristal Mágico do Infinito - Vigor",
+            "grade": 2,
+            "minPrice": 520000
+        },
+        {
+            "mainKey": 15108,
+            "sumCount": 44,
+            "name": "Cristal Mágico do Infinito - Paciência",
+            "grade": 2,
+            "minPrice": 105000
+        },
+        {
+            "mainKey": 15109,
+            "sumCount": 12,
+            "name": "Cristal Mágico do Infinito - Cura",
+            "grade": 2,
+            "minPrice": 525000
+        },
+        {
+            "mainKey": 15110,
+            "sumCount": 4,
+            "name": "Cristal Mágico do Infinito - Ressonância",
+            "grade": 2,
+            "minPrice": 102000
+        },
+        {
+            "mainKey": 15135,
+            "sumCount": 12,
+            "name": "Cristal Mágico do Infinito - Cerco",
+            "grade": 2,
+            "minPrice": 23700
+        },
+        {
+            "mainKey": 15136,
+            "sumCount": 120,
+            "name": "Cristal Mágico do Infinito - Evasão",
+            "grade": 2,
+            "minPrice": 453000
+        },
+        {
+            "mainKey": 15137,
+            "sumCount": 3,
+            "name": "Cristal Mágico do Infinito - Defesa Corpo a Corpo",
+            "grade": 2,
+            "minPrice": 27900
+        },
+        {
+            "mainKey": 15138,
+            "sumCount": 8,
+            "name": "Cristal Mágico do Infinito - Defesa à Distância",
+            "grade": 2,
+            "minPrice": 27400
+        },
+        {
+            "mainKey": 15139,
+            "sumCount": 2,
+            "name": "Cristal Mágico do Infinito - Defesa Mágica",
+            "grade": 2,
+            "minPrice": 39900
+        },
+        {
+            "mainKey": 15206,
+            "sumCount": 0,
+            "name": "Cristal Mágico Negro - Armadura",
+            "grade": 3,
+            "minPrice": 6000000
+        },
+        {
+            "mainKey": 15207,
+            "sumCount": 38,
+            "name": "Cristal Mágico Negro - Vigor",
+            "grade": 3,
+            "minPrice": 2540000
+        },
+        {
+            "mainKey": 15602,
+            "sumCount": 0,
+            "name": "Cristal Mágico Ancestral - Cobelinus",
+            "grade": 4,
+            "minPrice": 9900000
+        },
+        {
+            "mainKey": 15610,
+            "sumCount": 0,
+            "name": "Cristal Mágico Ancestral da Abundância - Armadura",
+            "grade": 3,
+            "minPrice": 2700000
+        },
+        {
+            "mainKey": 15613,
+            "sumCount": 0,
+            "name": "Cristal Mágico Ancestral da Abundância - Cura",
+            "grade": 3,
+            "minPrice": 2690000
+        },
+        {
+            "mainKey": 15614,
+            "sumCount": 0,
+            "name": "Cristal Mágico Ancestral da Abundância - Ressonância",
+            "grade": 3,
+            "minPrice": 2700000
+        },
+        {
+            "mainKey": 15629,
+            "sumCount": 0,
+            "name": "Cristal Mágico Negro - Cobelinus",
+            "grade": 4,
+            "minPrice": 33000000
+        },
+        {
+            "mainKey": 15635,
+            "sumCount": 0,
+            "name": "Cristal do Campo de Batalha Vermelho: Cobelinus",
+            "grade": 4,
+            "minPrice": 126000000
+        },
+        {
+            "mainKey": 15670,
+            "sumCount": 43,
+            "name": "Cristal de Presa Vermelho Escuro - Armadura",
+            "grade": 4,
+            "minPrice": 66000000
+        },
+        {
+            "mainKey": 15804,
+            "sumCount": 8,
+            "name": "JIN Cristal Mágico - Cobelinus",
+            "grade": 4,
+            "minPrice": 241000000
+        },
+        {
+            "mainKey": 15805,
+            "sumCount": 25,
+            "name": "BON Cristal Mágico - Cobelinus",
+            "grade": 4,
+            "minPrice": 200000000
+        },
+        {
+            "mainKey": 15806,
+            "sumCount": 41,
+            "name": "WON Cristal Mágico - Cobelinus",
+            "grade": 4,
+            "minPrice": 113000000
+        }
+    ],
+    "resultCode": 0,
+    "resultMsg": ""
+}

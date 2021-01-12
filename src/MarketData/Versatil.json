@@ -1,0 +1,20 @@
+{
+    "marketList": [
+        {
+            "mainKey": 15675,
+            "sumCount": 15,
+            "name": "Cristal de Akrad",
+            "grade": 4,
+            "minPrice": 166000000
+        },
+        {
+            "mainKey": 15676,
+            "sumCount": 0,
+            "name": "Cristal de Olukas",
+            "grade": 4,
+            "minPrice": 124000000
+        }
+    ],
+    "resultCode": 0,
+    "resultMsg": ""
+}

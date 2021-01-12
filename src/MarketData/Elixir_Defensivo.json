@@ -1,0 +1,356 @@
+{
+    "marketList": [
+        {
+            "mainKey": 507,
+            "sumCount": 549,
+            "name": "Redutor de Dano de Ataque Corpo a Corpo",
+            "grade": 0,
+            "minPrice": 4940
+        },
+        {
+            "mainKey": 508,
+            "sumCount": 0,
+            "name": "Redutor de Poder de Ataque à Distância",
+            "grade": 0,
+            "minPrice": 50000
+        },
+        {
+            "mainKey": 509,
+            "sumCount": 0,
+            "name": "Redutor de Dano de Magia",
+            "grade": 0,
+            "minPrice": 100000
+        },
+        {
+            "mainKey": 512,
+            "sumCount": 0,
+            "name": "Intensificador de Resistência a Agarramento",
+            "grade": 0,
+            "minPrice": 56000
+        },
+        {
+            "mainKey": 605,
+            "sumCount": 0,
+            "name": "[Grupo] Elixir de Ressurreição",
+            "grade": 1,
+            "minPrice": 15300
+        },
+        {
+            "mainKey": 606,
+            "sumCount": 0,
+            "name": "[Grupo] Elixir de Ressurreição Poderosa",
+            "grade": 2,
+            "minPrice": 52500
+        },
+        {
+            "mainKey": 619,
+            "sumCount": 0,
+            "name": "[Grupo] Elixir de Energia",
+            "grade": 1,
+            "minPrice": 20100
+        },
+        {
+            "mainKey": 620,
+            "sumCount": 2823,
+            "name": "[Grupo] Elixir de Energia Afluente",
+            "grade": 2,
+            "minPrice": 36100
+        },
+        {
+            "mainKey": 639,
+            "sumCount": 34,
+            "name": "[Grupo] Elixir da Vontade",
+            "grade": 1,
+            "minPrice": 34100
+        },
+        {
+            "mainKey": 640,
+            "sumCount": 6,
+            "name": "[Grupo] Elixir da Vontade Extraordinária",
+            "grade": 2,
+            "minPrice": 81500
+        },
+        {
+            "mainKey": 643,
+            "sumCount": 0,
+            "name": "[Grupo] Elixir de Resistência",
+            "grade": 1,
+            "minPrice": 27500
+        },
+        {
+            "mainKey": 644,
+            "sumCount": 0,
+            "name": "[Grupo] Elixir de Resistência Afiada",
+            "grade": 2,
+            "minPrice": 103000
+        },
+        {
+            "mainKey": 645,
+            "sumCount": 98,
+            "name": "[Grupo] Elixir de Vida",
+            "grade": 1,
+            "minPrice": 36200
+        },
+        {
+            "mainKey": 646,
+            "sumCount": 9,
+            "name": "[Grupo] Elixir de HP Poderosa",
+            "grade": 2,
+            "minPrice": 127000
+        },
+        {
+            "mainKey": 647,
+            "sumCount": 0,
+            "name": "[Grupo] Elixir de Mentalidade",
+            "grade": 1,
+            "minPrice": 17300
+        },
+        {
+            "mainKey": 648,
+            "sumCount": 76,
+            "name": "[Grupo] Elixir de Mentalidade Limpa",
+            "grade": 2,
+            "minPrice": 13200
+        },
+        {
+            "mainKey": 653,
+            "sumCount": 1112,
+            "name": "[Grupo] Elixir de Defesa",
+            "grade": 1,
+            "minPrice": 53000
+        },
+        {
+            "mainKey": 654,
+            "sumCount": 0,
+            "name": "[Grupo] Elixir de Defesa Poderosa",
+            "grade": 2,
+            "minPrice": 126000
+        },
+        {
+            "mainKey": 668,
+            "sumCount": 18936,
+            "name": "Elixir de Ressurreição",
+            "grade": 1,
+            "minPrice": 20600
+        },
+        {
+            "mainKey": 669,
+            "sumCount": 4773,
+            "name": "Elixir de Ressurreição Poderosa",
+            "grade": 2,
+            "minPrice": 11300
+        },
+        {
+            "mainKey": 682,
+            "sumCount": 8814,
+            "name": "Elixir da Energia",
+            "grade": 1,
+            "minPrice": 38200
+        },
+        {
+            "mainKey": 683,
+            "sumCount": 2426,
+            "name": "Elixir de Energia Afluente",
+            "grade": 2,
+            "minPrice": 16800
+        },
+        {
+            "mainKey": 702,
+            "sumCount": 1608,
+            "name": "Elixir da Vontade",
+            "grade": 1,
+            "minPrice": 26300
+        },
+        {
+            "mainKey": 703,
+            "sumCount": 0,
+            "name": "Elixir da Vontade Extraordinária",
+            "grade": 2,
+            "minPrice": 22700
+        },
+        {
+            "mainKey": 706,
+            "sumCount": 7284,
+            "name": "Elixir da Resistência",
+            "grade": 1,
+            "minPrice": 14300
+        },
+        {
+            "mainKey": 707,
+            "sumCount": 1128,
+            "name": "Elixir da Resistência Afiada",
+            "grade": 2,
+            "minPrice": 64000
+        },
+        {
+            "mainKey": 708,
+            "sumCount": 1552,
+            "name": "Elixir da HP",
+            "grade": 1,
+            "minPrice": 13600
+        },
+        {
+            "mainKey": 709,
+            "sumCount": 0,
+            "name": "Elixir de HP Poderosa",
+            "grade": 2,
+            "minPrice": 52500
+        },
+        {
+            "mainKey": 710,
+            "sumCount": 3100,
+            "name": "Elixir de Mentalidade",
+            "grade": 1,
+            "minPrice": 12300
+        },
+        {
+            "mainKey": 711,
+            "sumCount": 2,
+            "name": "Elixir de Mentalidade Limpa",
+            "grade": 2,
+            "minPrice": 9000
+        },
+        {
+            "mainKey": 716,
+            "sumCount": 5942,
+            "name": "Elixir da Defesa",
+            "grade": 1,
+            "minPrice": 37300
+        },
+        {
+            "mainKey": 717,
+            "sumCount": 0,
+            "name": "Elixir de Defesa de Aço",
+            "grade": 2,
+            "minPrice": 130000
+        },
+        {
+            "mainKey": 728,
+            "sumCount": 10177,
+            "name": "Elixir de Remoção de Queimadura",
+            "grade": 1,
+            "minPrice": 368
+        },
+        {
+            "mainKey": 729,
+            "sumCount": 6741,
+            "name": "Elixir de Antídoto",
+            "grade": 1,
+            "minPrice": 353
+        },
+        {
+            "mainKey": 730,
+            "sumCount": 1352,
+            "name": "Elixir de Hemostasia",
+            "grade": 1,
+            "minPrice": 500
+        },
+        {
+            "mainKey": 732,
+            "sumCount": 386,
+            "name": "Elixir de Tendão de Baleia",
+            "grade": 2,
+            "minPrice": 1840000
+        },
+        {
+            "mainKey": 733,
+            "sumCount": 89,
+            "name": "Elixir Robusto de Tendão de Baleia",
+            "grade": 3,
+            "minPrice": 8350000
+        },
+        {
+            "mainKey": 737,
+            "sumCount": 0,
+            "name": "[Grupo] Elixir de Remoção de Queimadura",
+            "grade": 1,
+            "minPrice": 5200
+        },
+        {
+            "mainKey": 738,
+            "sumCount": 0,
+            "name": "[Grupo] Elixir de Antídoto",
+            "grade": 1,
+            "minPrice": 4750
+        },
+        {
+            "mainKey": 739,
+            "sumCount": 51,
+            "name": "[Grupo] Elixir de Hemostasia",
+            "grade": 1,
+            "minPrice": 5450
+        },
+        {
+            "mainKey": 748,
+            "sumCount": 4,
+            "name": "Elixir do Khalk",
+            "grade": 3,
+            "minPrice": 8700000
+        },
+        {
+            "mainKey": 770,
+            "sumCount": 0,
+            "name": "[Mistura] Espinho - Elixir de Defesa",
+            "grade": 2,
+            "minPrice": 550000
+        },
+        {
+            "mainKey": 782,
+            "sumCount": 66,
+            "name": "Elixir de Espiral",
+            "grade": 1,
+            "minPrice": 44800
+        },
+        {
+            "mainKey": 783,
+            "sumCount": 0,
+            "name": "Elixir de Espiral Brilhante",
+            "grade": 2,
+            "minPrice": 176000
+        },
+        {
+            "mainKey": 784,
+            "sumCount": 0,
+            "name": "[Grupo] Elixir de Espiral",
+            "grade": 1,
+            "minPrice": 56000
+        },
+        {
+            "mainKey": 785,
+            "sumCount": 0,
+            "name": "[Grupo] Elixir de Espiral Brilhante",
+            "grade": 2,
+            "minPrice": 160000
+        },
+        {
+            "mainKey": 798,
+            "sumCount": 366,
+            "name": "Elixir da Armadura de Aço",
+            "grade": 3,
+            "minPrice": 1770000
+        },
+        {
+            "mainKey": 1157,
+            "sumCount": 61,
+            "name": "Poção da Armadura de Aço",
+            "grade": 1,
+            "minPrice": 204000
+        },
+        {
+            "mainKey": 1160,
+            "sumCount": 0,
+            "name": "Poção da Armadura de Aço Caído",
+            "grade": 2,
+            "minPrice": 156000
+        },
+        {
+            "mainKey": 1161,
+            "sumCount": 2,
+            "name": "Perfume do Encanto",
+            "grade": 3,
+            "minPrice": 5300000
+        }
+    ],
+    "resultCode": 0,
+    "resultMsg": ""
+}

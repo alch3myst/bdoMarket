@@ -1,0 +1,1518 @@
+{
+    "marketList": [
+        {
+            "mainKey": 4601,
+            "sumCount": 50516,
+            "name": "Madeira de Freixo",
+            "grade": 0,
+            "minPrice": 485
+        },
+        {
+            "mainKey": 4602,
+            "sumCount": 77103,
+            "name": "Madeira de Bordo",
+            "grade": 0,
+            "minPrice": 910
+        },
+        {
+            "mainKey": 4603,
+            "sumCount": 13735,
+            "name": "Madeira de Pinheiro",
+            "grade": 0,
+            "minPrice": 690
+        },
+        {
+            "mainKey": 4604,
+            "sumCount": 21229,
+            "name": "Madeira de Bétula",
+            "grade": 0,
+            "minPrice": 515
+        },
+        {
+            "mainKey": 4605,
+            "sumCount": 32654,
+            "name": "Tronco",
+            "grade": 0,
+            "minPrice": 6750
+        },
+        {
+            "mainKey": 4606,
+            "sumCount": 3994,
+            "name": "Madeira de Abeto",
+            "grade": 0,
+            "minPrice": 1050
+        },
+        {
+            "mainKey": 4607,
+            "sumCount": 33750,
+            "name": "Madeira de Cedro",
+            "grade": 0,
+            "minPrice": 990
+        },
+        {
+            "mainKey": 4608,
+            "sumCount": 34119,
+            "name": "Madeira de Cedro Branco",
+            "grade": 0,
+            "minPrice": 430
+        },
+        {
+            "mainKey": 4609,
+            "sumCount": 21084,
+            "name": "Madeira de Acácia",
+            "grade": 0,
+            "minPrice": 1280
+        },
+        {
+            "mainKey": 4610,
+            "sumCount": 28042,
+            "name": "Madeira de Palmeira",
+            "grade": 0,
+            "minPrice": 398
+        },
+        {
+            "mainKey": 4611,
+            "sumCount": 13117,
+            "name": "Madeira de Sabugueiro",
+            "grade": 0,
+            "minPrice": 433
+        },
+        {
+            "mainKey": 4612,
+            "sumCount": 63065,
+            "name": "Casca de Cacto",
+            "grade": 0,
+            "minPrice": 1040
+        },
+        {
+            "mainKey": 4613,
+            "sumCount": 485794,
+            "name": "Galho da Árvore Velha Treant",
+            "grade": 0,
+            "minPrice": 413
+        },
+        {
+            "mainKey": 4614,
+            "sumCount": 0,
+            "name": "Madeira de Árvore Musgosa",
+            "grade": 0,
+            "minPrice": 444
+        },
+        {
+            "mainKey": 4615,
+            "sumCount": 0,
+            "name": "Madeira de Árvore-Anel",
+            "grade": 0,
+            "minPrice": 650
+        },
+        {
+            "mainKey": 4616,
+            "sumCount": 16265,
+            "name": "Madeira de Tuia",
+            "grade": 0,
+            "minPrice": 425
+        },
+        {
+            "mainKey": 4619,
+            "sumCount": 10595,
+            "name": "Medeira de Espinheiro",
+            "grade": 0,
+            "minPrice": 380
+        },
+        {
+            "mainKey": 4651,
+            "sumCount": 29,
+            "name": "Tábua de Freixo",
+            "grade": 0,
+            "minPrice": 1140
+        },
+        {
+            "mainKey": 4652,
+            "sumCount": 34411,
+            "name": "Madeira Compensada de Freixo",
+            "grade": 0,
+            "minPrice": 8800
+        },
+        {
+            "mainKey": 4653,
+            "sumCount": 0,
+            "name": "Madeira Compensada Robusta de Freixo",
+            "grade": 0,
+            "minPrice": 570000
+        },
+        {
+            "mainKey": 4654,
+            "sumCount": 3476,
+            "name": "Tábua de Bordo",
+            "grade": 0,
+            "minPrice": 1870
+        },
+        {
+            "mainKey": 4655,
+            "sumCount": 41302,
+            "name": "Madeira Compensada de Árvore Bordo",
+            "grade": 0,
+            "minPrice": 9500
+        },
+        {
+            "mainKey": 4656,
+            "sumCount": 84,
+            "name": "Madeira Compensada Robusta de Bordo",
+            "grade": 0,
+            "minPrice": 600000
+        },
+        {
+            "mainKey": 4657,
+            "sumCount": 7270,
+            "name": "Tábua do Pinheiro",
+            "grade": 0,
+            "minPrice": 1590
+        },
+        {
+            "mainKey": 4658,
+            "sumCount": 5261,
+            "name": "Madeira Compensada de Pinheiro",
+            "grade": 0,
+            "minPrice": 11300
+        },
+        {
+            "mainKey": 4659,
+            "sumCount": 558,
+            "name": "Madeira Compensada Robusta de Pinheiro",
+            "grade": 0,
+            "minPrice": 680000
+        },
+        {
+            "mainKey": 4660,
+            "sumCount": 3597,
+            "name": "Tábua de Bétula",
+            "grade": 0,
+            "minPrice": 1320
+        },
+        {
+            "mainKey": 4661,
+            "sumCount": 30307,
+            "name": "Madeira Compensada de Bétula",
+            "grade": 0,
+            "minPrice": 10100
+        },
+        {
+            "mainKey": 4662,
+            "sumCount": 200,
+            "name": "Madeira Compensada Robusta de Bétula",
+            "grade": 0,
+            "minPrice": 630000
+        },
+        {
+            "mainKey": 4663,
+            "sumCount": 19474,
+            "name": "Tábua de Abeto",
+            "grade": 0,
+            "minPrice": 2150
+        },
+        {
+            "mainKey": 4664,
+            "sumCount": 27802,
+            "name": "Madeira Compensada de Abeto",
+            "grade": 0,
+            "minPrice": 12400
+        },
+        {
+            "mainKey": 4665,
+            "sumCount": 267,
+            "name": "Madeira Compensada Robusta de Abeto",
+            "grade": 0,
+            "minPrice": 146000
+        },
+        {
+            "mainKey": 4666,
+            "sumCount": 27350,
+            "name": "Tábua de Cedro",
+            "grade": 0,
+            "minPrice": 4510
+        },
+        {
+            "mainKey": 4667,
+            "sumCount": 14049,
+            "name": "Madeira Compensada de Cedro",
+            "grade": 0,
+            "minPrice": 11900
+        },
+        {
+            "mainKey": 4668,
+            "sumCount": 19,
+            "name": "Madeira Compensada Robusta de Cedro",
+            "grade": 0,
+            "minPrice": 111000
+        },
+        {
+            "mainKey": 4669,
+            "sumCount": 12830,
+            "name": "Tábua Utilizável",
+            "grade": 0,
+            "minPrice": 25500
+        },
+        {
+            "mainKey": 4670,
+            "sumCount": 220807,
+            "name": "Tábua de Palmeira",
+            "grade": 0,
+            "minPrice": 1590
+        },
+        {
+            "mainKey": 4671,
+            "sumCount": 222253,
+            "name": "Madeira Compensada de Palmeira",
+            "grade": 0,
+            "minPrice": 12700
+        },
+        {
+            "mainKey": 4672,
+            "sumCount": 240,
+            "name": "Madeira Compensada Robusta de Palmeira",
+            "grade": 0,
+            "minPrice": 780000
+        },
+        {
+            "mainKey": 4673,
+            "sumCount": 354310,
+            "name": "Tábua de Sabugueiro",
+            "grade": 0,
+            "minPrice": 1730
+        },
+        {
+            "mainKey": 4674,
+            "sumCount": 27496,
+            "name": "Madeira Compensada de Sabugueiro",
+            "grade": 0,
+            "minPrice": 13800
+        },
+        {
+            "mainKey": 4675,
+            "sumCount": 335,
+            "name": "Madeira Compensada Robusta de Sabugueiro",
+            "grade": 0,
+            "minPrice": 790000
+        },
+        {
+            "mainKey": 4676,
+            "sumCount": 19716,
+            "name": "Tábua de Cedro Branco",
+            "grade": 0,
+            "minPrice": 1690
+        },
+        {
+            "mainKey": 4677,
+            "sumCount": 47681,
+            "name": "Madeira Compensada de Cedro Branco",
+            "grade": 0,
+            "minPrice": 12600
+        },
+        {
+            "mainKey": 4678,
+            "sumCount": 309,
+            "name": "Madeira Compensada Robusta de Cedro Branco",
+            "grade": 0,
+            "minPrice": 730000
+        },
+        {
+            "mainKey": 4680,
+            "sumCount": 14463,
+            "name": "Tábua de Acácia",
+            "grade": 0,
+            "minPrice": 3920
+        },
+        {
+            "mainKey": 4681,
+            "sumCount": 15737,
+            "name": "Madeira Compensada de Acácia",
+            "grade": 0,
+            "minPrice": 16600
+        },
+        {
+            "mainKey": 4682,
+            "sumCount": 0,
+            "name": "Madeira Compensada Robusta de Acácia",
+            "grade": 0,
+            "minPrice": 555000
+        },
+        {
+            "mainKey": 4683,
+            "sumCount": 429959,
+            "name": "Espinho de Cacto",
+            "grade": 0,
+            "minPrice": 560
+        },
+        {
+            "mainKey": 4685,
+            "sumCount": 4107,
+            "name": "Lenho Padronizado",
+            "grade": 0,
+            "minPrice": 106000
+        },
+        {
+            "mainKey": 4686,
+            "sumCount": 1,
+            "name": "Madeira Robusta",
+            "grade": 0,
+            "minPrice": 775000
+        },
+        {
+            "mainKey": 4687,
+            "sumCount": 256,
+            "name": "Poste Resistente",
+            "grade": 0,
+            "minPrice": 3870000
+        },
+        {
+            "mainKey": 4688,
+            "sumCount": 1312,
+            "name": "Material de Reparo de Navio",
+            "grade": 1,
+            "minPrice": 7550
+        },
+        {
+            "mainKey": 4689,
+            "sumCount": 0,
+            "name": "Kit de Reparo de Navio",
+            "grade": 2,
+            "minPrice": 400000
+        },
+        {
+            "mainKey": 4691,
+            "sumCount": 0,
+            "name": "Madeira Compensada Revestida de Pinheiro",
+            "grade": 0,
+            "minPrice": 63000
+        },
+        {
+            "mainKey": 4694,
+            "sumCount": 35401,
+            "name": "Tábua de Árvore Musgosa",
+            "grade": 0,
+            "minPrice": 1360
+        },
+        {
+            "mainKey": 4695,
+            "sumCount": 5071,
+            "name": "Madeira Compensada de Árvore Musgosa",
+            "grade": 0,
+            "minPrice": 14800
+        },
+        {
+            "mainKey": 4696,
+            "sumCount": 0,
+            "name": "Madeira Compensada Robusta de Árvore Musgosa ",
+            "grade": 0,
+            "minPrice": 371000
+        },
+        {
+            "mainKey": 4697,
+            "sumCount": 33267,
+            "name": "Tábua de Árvore-Anel",
+            "grade": 0,
+            "minPrice": 7900
+        },
+        {
+            "mainKey": 4698,
+            "sumCount": 1377,
+            "name": "Madeira Compensada de Árvore-Anel",
+            "grade": 0,
+            "minPrice": 14300
+        },
+        {
+            "mainKey": 4699,
+            "sumCount": 0,
+            "name": "Madeira Compensada Robusta de Árvore-Anel ",
+            "grade": 0,
+            "minPrice": 770000
+        },
+        {
+            "mainKey": 4700,
+            "sumCount": 0,
+            "name": "Kit de Emergência de Reparo de Navio",
+            "grade": 3,
+            "minPrice": 80000
+        },
+        {
+            "mainKey": 4701,
+            "sumCount": 32858,
+            "name": "Tábua de Tuia",
+            "grade": 0,
+            "minPrice": 1810
+        },
+        {
+            "mainKey": 4702,
+            "sumCount": 30937,
+            "name": "Madeira Compensada de Tuia",
+            "grade": 0,
+            "minPrice": 14700
+        },
+        {
+            "mainKey": 4703,
+            "sumCount": 0,
+            "name": "Madeira Compensada Robusta de Tuia",
+            "grade": 0,
+            "minPrice": 665000
+        },
+        {
+            "mainKey": 4710,
+            "sumCount": 7833,
+            "name": "Tábua de Espinheiro",
+            "grade": 0,
+            "minPrice": 2870
+        },
+        {
+            "mainKey": 4711,
+            "sumCount": 8883,
+            "name": "Madeira Compensada de Espinheiro",
+            "grade": 0,
+            "minPrice": 14900
+        },
+        {
+            "mainKey": 4712,
+            "sumCount": 0,
+            "name": "Madeira Compensada Rígida de Espinheiro",
+            "grade": 0,
+            "minPrice": 207000
+        },
+        {
+            "mainKey": 5001,
+            "sumCount": 38236,
+            "name": "Seiva de Freixo",
+            "grade": 0,
+            "minPrice": 6150
+        },
+        {
+            "mainKey": 5002,
+            "sumCount": 27857,
+            "name": "Seiva de Bordo",
+            "grade": 0,
+            "minPrice": 4330
+        },
+        {
+            "mainKey": 5003,
+            "sumCount": 52852,
+            "name": "Seiva de Pinheiro",
+            "grade": 0,
+            "minPrice": 8600
+        },
+        {
+            "mainKey": 5004,
+            "sumCount": 15891,
+            "name": "Seiva de Bétula",
+            "grade": 0,
+            "minPrice": 3010
+        },
+        {
+            "mainKey": 5005,
+            "sumCount": 29968,
+            "name": "Laço de Árvore Sangrenta",
+            "grade": 0,
+            "minPrice": 9750
+        },
+        {
+            "mainKey": 5006,
+            "sumCount": 263,
+            "name": "Folha de Espírito",
+            "grade": 0,
+            "minPrice": 6900
+        },
+        {
+            "mainKey": 5007,
+            "sumCount": 24744,
+            "name": "Galho de Monge",
+            "grade": 0,
+            "minPrice": 6550
+        },
+        {
+            "mainKey": 5008,
+            "sumCount": 42740,
+            "name": "Casca de Árvore Velha",
+            "grade": 0,
+            "minPrice": 21900
+        },
+        {
+            "mainKey": 5009,
+            "sumCount": 8000,
+            "name": "Seiva de Abeto",
+            "grade": 0,
+            "minPrice": 2860
+        },
+        {
+            "mainKey": 5010,
+            "sumCount": 11258,
+            "name": "Seiva de Cedro",
+            "grade": 0,
+            "minPrice": 4040
+        },
+        {
+            "mainKey": 5011,
+            "sumCount": 40273,
+            "name": "Caroço de Árvore Vermelha",
+            "grade": 0,
+            "minPrice": 14000
+        },
+        {
+            "mainKey": 5012,
+            "sumCount": 675,
+            "name": "Seiva de Cedro Branco",
+            "grade": 0,
+            "minPrice": 7850
+        },
+        {
+            "mainKey": 5013,
+            "sumCount": 0,
+            "name": "Seiva de Acácia",
+            "grade": 0,
+            "minPrice": 7900
+        },
+        {
+            "mainKey": 5014,
+            "sumCount": 0,
+            "name": "Seiva de Sabugueiro",
+            "grade": 0,
+            "minPrice": 12400
+        },
+        {
+            "mainKey": 5015,
+            "sumCount": 3435,
+            "name": "Seiva de Palmeira",
+            "grade": 0,
+            "minPrice": 2730
+        },
+        {
+            "mainKey": 5016,
+            "sumCount": 8591,
+            "name": "Seiva de Cacto",
+            "grade": 0,
+            "minPrice": 795
+        },
+        {
+            "mainKey": 5017,
+            "sumCount": 67,
+            "name": "Seiva de Árvore Musgosa",
+            "grade": 0,
+            "minPrice": 1380
+        },
+        {
+            "mainKey": 5018,
+            "sumCount": 0,
+            "name": "Seiva de Árvore-Anel",
+            "grade": 0,
+            "minPrice": 14700
+        },
+        {
+            "mainKey": 5019,
+            "sumCount": 343,
+            "name": "Essência de Árvore Morta",
+            "grade": 0,
+            "minPrice": 223000
+        },
+        {
+            "mainKey": 5020,
+            "sumCount": 4109,
+            "name": "Seiva de Tuia",
+            "grade": 0,
+            "minPrice": 21000
+        },
+        {
+            "mainKey": 5023,
+            "sumCount": 0,
+            "name": "Seiva de Espinheiro",
+            "grade": 0,
+            "minPrice": 8600
+        },
+        {
+            "mainKey": 5401,
+            "sumCount": 44806,
+            "name": "Erva Aurora",
+            "grade": 0,
+            "minPrice": 226
+        },
+        {
+            "mainKey": 5402,
+            "sumCount": 190290,
+            "name": "Azaleia Prata",
+            "grade": 0,
+            "minPrice": 217
+        },
+        {
+            "mainKey": 5403,
+            "sumCount": 0,
+            "name": "Flor de Escama de Fogo",
+            "grade": 0,
+            "minPrice": 454
+        },
+        {
+            "mainKey": 5404,
+            "sumCount": 4998,
+            "name": "Planta Juba de Leão",
+            "grade": 0,
+            "minPrice": 431
+        },
+        {
+            "mainKey": 5405,
+            "sumCount": 17173,
+            "name": "Grama Mel de Seda",
+            "grade": 0,
+            "minPrice": 411
+        },
+        {
+            "mainKey": 5406,
+            "sumCount": 13216,
+            "name": "Erva Eterna",
+            "grade": 0,
+            "minPrice": 8550
+        },
+        {
+            "mainKey": 5407,
+            "sumCount": 0,
+            "name": "Cogumelo Vidente",
+            "grade": 0,
+            "minPrice": 750
+        },
+        {
+            "mainKey": 5408,
+            "sumCount": 0,
+            "name": "Cogumelo Flecha",
+            "grade": 0,
+            "minPrice": 820
+        },
+        {
+            "mainKey": 5409,
+            "sumCount": 14396,
+            "name": "Cogumelo Anão",
+            "grade": 0,
+            "minPrice": 535
+        },
+        {
+            "mainKey": 5410,
+            "sumCount": 0,
+            "name": "Cogumelo Nuvem",
+            "grade": 0,
+            "minPrice": 805
+        },
+        {
+            "mainKey": 5411,
+            "sumCount": 0,
+            "name": "Cogumelo Céu",
+            "grade": 0,
+            "minPrice": 785
+        },
+        {
+            "mainKey": 5412,
+            "sumCount": 20208,
+            "name": "Cogumelo Tigre",
+            "grade": 0,
+            "minPrice": 396
+        },
+        {
+            "mainKey": 5413,
+            "sumCount": 2716,
+            "name": "Cogumelo Imperador",
+            "grade": 0,
+            "minPrice": 343
+        },
+        {
+            "mainKey": 5414,
+            "sumCount": 592,
+            "name": "Cogumelo Fantasma",
+            "grade": 0,
+            "minPrice": 830
+        },
+        {
+            "mainKey": 5415,
+            "sumCount": 0,
+            "name": "Cogumelo Nevoeiro",
+            "grade": 0,
+            "minPrice": 3600
+        },
+        {
+            "mainKey": 5416,
+            "sumCount": 0,
+            "name": "Cogumelo Corcunda",
+            "grade": 0,
+            "minPrice": 3770
+        },
+        {
+            "mainKey": 5417,
+            "sumCount": 0,
+            "name": "Cogumelo Blefista",
+            "grade": 0,
+            "minPrice": 3500
+        },
+        {
+            "mainKey": 5418,
+            "sumCount": 0,
+            "name": "Cogumelo Ancestral",
+            "grade": 0,
+            "minPrice": 3770
+        },
+        {
+            "mainKey": 5419,
+            "sumCount": 0,
+            "name": "Cogumelo Amanita",
+            "grade": 0,
+            "minPrice": 2820
+        },
+        {
+            "mainKey": 5420,
+            "sumCount": 0,
+            "name": "Trufa",
+            "grade": 0,
+            "minPrice": 100000
+        },
+        {
+            "mainKey": 5421,
+            "sumCount": 6610,
+            "name": "Pilha de Erva Aurora",
+            "grade": 0,
+            "minPrice": 1240
+        },
+        {
+            "mainKey": 5422,
+            "sumCount": 150612,
+            "name": "Pacote de Azaleia Prata",
+            "grade": 0,
+            "minPrice": 650
+        },
+        {
+            "mainKey": 5423,
+            "sumCount": 0,
+            "name": "Punhado de Flor de Escama de Fogo",
+            "grade": 0,
+            "minPrice": 1360
+        },
+        {
+            "mainKey": 5424,
+            "sumCount": 3,
+            "name": "Pacote de Planta Juba de Leão",
+            "grade": 0,
+            "minPrice": 745
+        },
+        {
+            "mainKey": 5425,
+            "sumCount": 57515,
+            "name": "Monte de Grama Mel de Seda",
+            "grade": 0,
+            "minPrice": 565
+        },
+        {
+            "mainKey": 5426,
+            "sumCount": 370571,
+            "name": "Cogumelo Vidente Grande",
+            "grade": 0,
+            "minPrice": 735
+        },
+        {
+            "mainKey": 5427,
+            "sumCount": 9603,
+            "name": "Cogumelo Flecha Grande",
+            "grade": 0,
+            "minPrice": 2210
+        },
+        {
+            "mainKey": 5428,
+            "sumCount": 75762,
+            "name": "Cogumelo Anão Grande",
+            "grade": 0,
+            "minPrice": 1130
+        },
+        {
+            "mainKey": 5429,
+            "sumCount": 472957,
+            "name": "Cogumelo Nuvem Grande",
+            "grade": 0,
+            "minPrice": 1070
+        },
+        {
+            "mainKey": 5430,
+            "sumCount": 289,
+            "name": "Cogumelo Céu Grande",
+            "grade": 0,
+            "minPrice": 1140
+        },
+        {
+            "mainKey": 5431,
+            "sumCount": 144603,
+            "name": "Cogumelo Tigre Grande",
+            "grade": 0,
+            "minPrice": 1070
+        },
+        {
+            "mainKey": 5432,
+            "sumCount": 174668,
+            "name": "Cogumelo Imperador Grande",
+            "grade": 0,
+            "minPrice": 1070
+        },
+        {
+            "mainKey": 5433,
+            "sumCount": 0,
+            "name": "Cogumelo Fantasma Grande",
+            "grade": 0,
+            "minPrice": 3280
+        },
+        {
+            "mainKey": 5434,
+            "sumCount": 165,
+            "name": "Cogumelo Névoa Grande",
+            "grade": 0,
+            "minPrice": 2480
+        },
+        {
+            "mainKey": 5435,
+            "sumCount": 11,
+            "name": "Cogumelo Corcunda Grande",
+            "grade": 0,
+            "minPrice": 1300
+        },
+        {
+            "mainKey": 5436,
+            "sumCount": 16,
+            "name": "Cogumelo Blefista Grande",
+            "grade": 0,
+            "minPrice": 3100
+        },
+        {
+            "mainKey": 5437,
+            "sumCount": 17,
+            "name": "Cogumelo Ancestral Grande",
+            "grade": 0,
+            "minPrice": 1970
+        },
+        {
+            "mainKey": 5438,
+            "sumCount": 16,
+            "name": "Cogumelo Palhaço Grande",
+            "grade": 0,
+            "minPrice": 1130
+        },
+        {
+            "mainKey": 5439,
+            "sumCount": 74355,
+            "name": "Grama Selvagem",
+            "grade": 0,
+            "minPrice": 1010
+        },
+        {
+            "mainKey": 5440,
+            "sumCount": 0,
+            "name": "Flor de Planta Insetívora",
+            "grade": 0,
+            "minPrice": 12500
+        },
+        {
+            "mainKey": 5441,
+            "sumCount": 0,
+            "name": "Folha de Planta Insetívora",
+            "grade": 0,
+            "minPrice": 13000
+        },
+        {
+            "mainKey": 5442,
+            "sumCount": 0,
+            "name": "Haste de Planta Insetívora",
+            "grade": 0,
+            "minPrice": 11900
+        },
+        {
+            "mainKey": 5443,
+            "sumCount": 0,
+            "name": "Raíz de Planta Insetívora",
+            "grade": 0,
+            "minPrice": 11400
+        },
+        {
+            "mainKey": 5444,
+            "sumCount": 0,
+            "name": "Erva Aurora de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 2060
+        },
+        {
+            "mainKey": 5445,
+            "sumCount": 0,
+            "name": "Azaléia Prata de Qualidade Alta",
+            "grade": 1,
+            "minPrice": 1960
+        },
+        {
+            "mainKey": 5446,
+            "sumCount": 1,
+            "name": "Flor Escama de Fogo de Qualidade Alta",
+            "grade": 1,
+            "minPrice": 2230
+        },
+        {
+            "mainKey": 5447,
+            "sumCount": 3056,
+            "name": "Planta Juba de Leão de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 2140
+        },
+        {
+            "mainKey": 5448,
+            "sumCount": 0,
+            "name": "Grama Mel de Seda de Qualidade Alta",
+            "grade": 1,
+            "minPrice": 2080
+        },
+        {
+            "mainKey": 5450,
+            "sumCount": 0,
+            "name": "Cogumelo Vidente de Qualidade Alta",
+            "grade": 1,
+            "minPrice": 3520
+        },
+        {
+            "mainKey": 5451,
+            "sumCount": 94,
+            "name": "Cogumelo Flecha de Qualidade Alta",
+            "grade": 1,
+            "minPrice": 4160
+        },
+        {
+            "mainKey": 5452,
+            "sumCount": 119,
+            "name": "Cogumelo Anão de Qualidade Alta",
+            "grade": 1,
+            "minPrice": 3950
+        },
+        {
+            "mainKey": 5453,
+            "sumCount": 59,
+            "name": "Cogumelo Nuvem de Qualidade Alta",
+            "grade": 1,
+            "minPrice": 4160
+        },
+        {
+            "mainKey": 5454,
+            "sumCount": 0,
+            "name": "Cogumelo Céu de Qualidade Alta",
+            "grade": 1,
+            "minPrice": 3950
+        },
+        {
+            "mainKey": 5455,
+            "sumCount": 657,
+            "name": "Cogumelo Tigre de Qualidade Alta",
+            "grade": 1,
+            "minPrice": 3920
+        },
+        {
+            "mainKey": 5456,
+            "sumCount": 974,
+            "name": "Cogumelo Imperador de Qualidade Alta",
+            "grade": 1,
+            "minPrice": 3740
+        },
+        {
+            "mainKey": 5457,
+            "sumCount": 0,
+            "name": "Cogumelo Fantasma de Qualidade Alta",
+            "grade": 1,
+            "minPrice": 7950
+        },
+        {
+            "mainKey": 5458,
+            "sumCount": 0,
+            "name": "Cogumelo Névoa de Qualidade Alta",
+            "grade": 1,
+            "minPrice": 17900
+        },
+        {
+            "mainKey": 5459,
+            "sumCount": 247,
+            "name": "Cogumelo Corcunda de Qualidade Alta",
+            "grade": 1,
+            "minPrice": 10900
+        },
+        {
+            "mainKey": 5460,
+            "sumCount": 1505,
+            "name": "Cogumelo Blefista de Qualidade Alta",
+            "grade": 1,
+            "minPrice": 17500
+        },
+        {
+            "mainKey": 5461,
+            "sumCount": 0,
+            "name": "Cogumelo Ancestral de Qualidade Alta",
+            "grade": 1,
+            "minPrice": 12100
+        },
+        {
+            "mainKey": 5462,
+            "sumCount": 7626,
+            "name": "Cogumelo Amanita de Qualidade Alta",
+            "grade": 1,
+            "minPrice": 13100
+        },
+        {
+            "mainKey": 5464,
+            "sumCount": 29,
+            "name": "Erva Aurora Especial",
+            "grade": 2,
+            "minPrice": 9550
+        },
+        {
+            "mainKey": 5465,
+            "sumCount": 2281,
+            "name": "Azaléia Prata Especial",
+            "grade": 2,
+            "minPrice": 11100
+        },
+        {
+            "mainKey": 5466,
+            "sumCount": 0,
+            "name": "Flor Escama de Fogo Especial",
+            "grade": 2,
+            "minPrice": 10600
+        },
+        {
+            "mainKey": 5467,
+            "sumCount": 3109,
+            "name": "Grama Peluda Seca Especial",
+            "grade": 2,
+            "minPrice": 4610
+        },
+        {
+            "mainKey": 5468,
+            "sumCount": 0,
+            "name": "Grama Mel de Seda Especial",
+            "grade": 2,
+            "minPrice": 9650
+        },
+        {
+            "mainKey": 5470,
+            "sumCount": 1945,
+            "name": "Cogumelo Vidente Especial",
+            "grade": 2,
+            "minPrice": 10800
+        },
+        {
+            "mainKey": 5471,
+            "sumCount": 0,
+            "name": "Cogumelo Flecha Especial",
+            "grade": 2,
+            "minPrice": 13500
+        },
+        {
+            "mainKey": 5472,
+            "sumCount": 1810,
+            "name": "Cogumelo Anão Especial",
+            "grade": 2,
+            "minPrice": 12200
+        },
+        {
+            "mainKey": 5473,
+            "sumCount": 204,
+            "name": "Cogumelo Nuvem Especial",
+            "grade": 2,
+            "minPrice": 13300
+        },
+        {
+            "mainKey": 5474,
+            "sumCount": 0,
+            "name": "Cogumelo Céu Especial",
+            "grade": 2,
+            "minPrice": 12400
+        },
+        {
+            "mainKey": 5475,
+            "sumCount": 2706,
+            "name": "Cogumelo Tigre Especial",
+            "grade": 2,
+            "minPrice": 11800
+        },
+        {
+            "mainKey": 5476,
+            "sumCount": 126,
+            "name": "Cogumelo Imperador Especial",
+            "grade": 2,
+            "minPrice": 11000
+        },
+        {
+            "mainKey": 5477,
+            "sumCount": 0,
+            "name": "Cogumelo Fantasma Especial",
+            "grade": 2,
+            "minPrice": 13500
+        },
+        {
+            "mainKey": 5478,
+            "sumCount": 4367,
+            "name": "Cogumelo Névoa Especial",
+            "grade": 2,
+            "minPrice": 18900
+        },
+        {
+            "mainKey": 5479,
+            "sumCount": 14584,
+            "name": "Cogumelo Corcunda Especial",
+            "grade": 2,
+            "minPrice": 16800
+        },
+        {
+            "mainKey": 5480,
+            "sumCount": 5945,
+            "name": "Cogumelo Blefista Especial",
+            "grade": 2,
+            "minPrice": 16500
+        },
+        {
+            "mainKey": 5481,
+            "sumCount": 4198,
+            "name": "Cogumelo Ancestral Especial",
+            "grade": 2,
+            "minPrice": 26000
+        },
+        {
+            "mainKey": 5482,
+            "sumCount": 8418,
+            "name": "Cogumelo Palhaço Especial",
+            "grade": 2,
+            "minPrice": 17000
+        },
+        {
+            "mainKey": 5484,
+            "sumCount": 1612,
+            "name": "Nolina",
+            "grade": 0,
+            "minPrice": 255
+        },
+        {
+            "mainKey": 5485,
+            "sumCount": 2496,
+            "name": "Penestraria",
+            "grade": 0,
+            "minPrice": 236
+        },
+        {
+            "mainKey": 5486,
+            "sumCount": 914,
+            "name": "Dalvenia Alrea",
+            "grade": 0,
+            "minPrice": 246
+        },
+        {
+            "mainKey": 5487,
+            "sumCount": 2032,
+            "name": "Melância Venenosa",
+            "grade": 0,
+            "minPrice": 710
+        },
+        {
+            "mainKey": 5488,
+            "sumCount": 6494,
+            "name": "Pedaço de Osso Brilhante",
+            "grade": 0,
+            "minPrice": 7100
+        },
+        {
+            "mainKey": 5489,
+            "sumCount": 584,
+            "name": "Cogumelo Ramalhete",
+            "grade": 0,
+            "minPrice": 388
+        },
+        {
+            "mainKey": 5490,
+            "sumCount": 925,
+            "name": "Leccinum",
+            "grade": 0,
+            "minPrice": 825
+        },
+        {
+            "mainKey": 5491,
+            "sumCount": 13635,
+            "name": "Cogumelo Roxo",
+            "grade": 0,
+            "minPrice": 425
+        },
+        {
+            "mainKey": 5492,
+            "sumCount": 1879,
+            "name": "Cogumelo Torta",
+            "grade": 0,
+            "minPrice": 415
+        },
+        {
+            "mainKey": 5493,
+            "sumCount": 1931,
+            "name": "Prato de Cogumelo",
+            "grade": 0,
+            "minPrice": 445
+        },
+        {
+            "mainKey": 5494,
+            "sumCount": 985,
+            "name": "Cogumelo Anis Estrelar",
+            "grade": 0,
+            "minPrice": 463
+        },
+        {
+            "mainKey": 5495,
+            "sumCount": 300,
+            "name": "Erva Deserto",
+            "grade": 0,
+            "minPrice": 1410
+        },
+        {
+            "mainKey": 5496,
+            "sumCount": 0,
+            "name": "Nolina de Qualidade Alta",
+            "grade": 1,
+            "minPrice": 2580
+        },
+        {
+            "mainKey": 5497,
+            "sumCount": 425,
+            "name": "Penestraria de Qualidade Alta",
+            "grade": 1,
+            "minPrice": 3560
+        },
+        {
+            "mainKey": 5498,
+            "sumCount": 0,
+            "name": "Dalvenia Alrea de Qualidade Alta",
+            "grade": 1,
+            "minPrice": 4210
+        },
+        {
+            "mainKey": 5499,
+            "sumCount": 4,
+            "name": "Cogumelo Ramalhete de Qualidade Alta",
+            "grade": 1,
+            "minPrice": 4650
+        },
+        {
+            "mainKey": 5500,
+            "sumCount": 615,
+            "name": "Leccinum de Qualidade Alta",
+            "grade": 1,
+            "minPrice": 2040
+        },
+        {
+            "mainKey": 5501,
+            "sumCount": 933,
+            "name": "Cogumelo Roxo de Qualidade Alta",
+            "grade": 1,
+            "minPrice": 2320
+        },
+        {
+            "mainKey": 5502,
+            "sumCount": 390,
+            "name": "Cogumelo Torta de Qualidade Alta",
+            "grade": 1,
+            "minPrice": 2230
+        },
+        {
+            "mainKey": 5503,
+            "sumCount": 876,
+            "name": "Nolina Especial",
+            "grade": 2,
+            "minPrice": 10500
+        },
+        {
+            "mainKey": 5504,
+            "sumCount": 586,
+            "name": "Penestraria Especial",
+            "grade": 2,
+            "minPrice": 11400
+        },
+        {
+            "mainKey": 5505,
+            "sumCount": 4871,
+            "name": "Dalvenia Alrea Especial",
+            "grade": 2,
+            "minPrice": 8850
+        },
+        {
+            "mainKey": 5506,
+            "sumCount": 4604,
+            "name": "Cogumelo Ramalhete Especial",
+            "grade": 2,
+            "minPrice": 13500
+        },
+        {
+            "mainKey": 5507,
+            "sumCount": 105,
+            "name": "Leccinum Especial",
+            "grade": 2,
+            "minPrice": 12900
+        },
+        {
+            "mainKey": 5508,
+            "sumCount": 5249,
+            "name": "Cogumelo Roxo Especial",
+            "grade": 2,
+            "minPrice": 16800
+        },
+        {
+            "mainKey": 5509,
+            "sumCount": 5155,
+            "name": "Cogumelo Torta Especial",
+            "grade": 2,
+            "minPrice": 13300
+        },
+        {
+            "mainKey": 5515,
+            "sumCount": 0,
+            "name": "Cogumelo Arco-Íris",
+            "grade": 0,
+            "minPrice": 8250
+        },
+        {
+            "mainKey": 5516,
+            "sumCount": 6353,
+            "name": "Cogumelo Azul",
+            "grade": 0,
+            "minPrice": 1780
+        },
+        {
+            "mainKey": 5517,
+            "sumCount": 7213,
+            "name": "Cogumelo Vulcão",
+            "grade": 0,
+            "minPrice": 3440
+        },
+        {
+            "mainKey": 5518,
+            "sumCount": 408240,
+            "name": "Cogumelo Trombeta-Rósea",
+            "grade": 0,
+            "minPrice": 425
+        },
+        {
+            "mainKey": 5519,
+            "sumCount": 103210,
+            "name": "Cogumelo Branco",
+            "grade": 0,
+            "minPrice": 435
+        },
+        {
+            "mainKey": 5520,
+            "sumCount": 290713,
+            "name": "Cogumelo Verde Grande",
+            "grade": 0,
+            "minPrice": 453
+        },
+        {
+            "mainKey": 5521,
+            "sumCount": 100586,
+            "name": "Cogumelo Flor-Branca",
+            "grade": 0,
+            "minPrice": 435
+        },
+        {
+            "mainKey": 5522,
+            "sumCount": 2582,
+            "name": "Bethelona",
+            "grade": 0,
+            "minPrice": 1800
+        },
+        {
+            "mainKey": 5523,
+            "sumCount": 0,
+            "name": "Flor Lilás",
+            "grade": 0,
+            "minPrice": 1010
+        },
+        {
+            "mainKey": 5524,
+            "sumCount": 635,
+            "name": "Flor Amarela",
+            "grade": 0,
+            "minPrice": 545
+        },
+        {
+            "mainKey": 5525,
+            "sumCount": 685,
+            "name": "Flor Celestial",
+            "grade": 0,
+            "minPrice": 4700
+        },
+        {
+            "mainKey": 5526,
+            "sumCount": 0,
+            "name": "Malva",
+            "grade": 0,
+            "minPrice": 11000
+        },
+        {
+            "mainKey": 5527,
+            "sumCount": 0,
+            "name": "Flor Azul",
+            "grade": 0,
+            "minPrice": 1160
+        },
+        {
+            "mainKey": 5528,
+            "sumCount": 3146,
+            "name": "Audria",
+            "grade": 0,
+            "minPrice": 520
+        },
+        {
+            "mainKey": 5529,
+            "sumCount": 178,
+            "name": "Açafrão",
+            "grade": 0,
+            "minPrice": 555
+        },
+        {
+            "mainKey": 5530,
+            "sumCount": 153,
+            "name": "Fruta de Aveleira",
+            "grade": 0,
+            "minPrice": 3190
+        },
+        {
+            "mainKey": 5531,
+            "sumCount": 2010,
+            "name": "Caule de Mimosa",
+            "grade": 0,
+            "minPrice": 453
+        },
+        {
+            "mainKey": 5532,
+            "sumCount": 0,
+            "name": "Samambaia",
+            "grade": 0,
+            "minPrice": 6600
+        },
+        {
+            "mainKey": 5536,
+            "sumCount": 12069,
+            "name": "Delotia de Luxo",
+            "grade": 1,
+            "minPrice": 7950
+        },
+        {
+            "mainKey": 5537,
+            "sumCount": 4755,
+            "name": "Delotia Especial",
+            "grade": 2,
+            "minPrice": 8200
+        },
+        {
+            "mainKey": 5538,
+            "sumCount": 0,
+            "name": "Delotia",
+            "grade": 0,
+            "minPrice": 4070
+        },
+        {
+            "mainKey": 5600,
+            "sumCount": 6177,
+            "name": "Erva Daninha",
+            "grade": 0,
+            "minPrice": 560
+        }
+    ],
+    "resultCode": 0,
+    "resultMsg": ""
+}

@@ -1,0 +1,223 @@
+{
+    "marketList": [
+        {
+            "mainKey": 7901,
+            "sumCount": 0,
+            "name": "Carne de Cervo",
+            "grade": 0,
+            "minPrice": 9900
+        },
+        {
+            "mainKey": 7902,
+            "sumCount": 0,
+            "name": "Carne de Ovelha",
+            "grade": 0,
+            "minPrice": 8950
+        },
+        {
+            "mainKey": 7903,
+            "sumCount": 0,
+            "name": "Carne de Raposa",
+            "grade": 0,
+            "minPrice": 6600
+        },
+        {
+            "mainKey": 7904,
+            "sumCount": 12547,
+            "name": "Carne de Rinoceronte",
+            "grade": 0,
+            "minPrice": 12700
+        },
+        {
+            "mainKey": 7905,
+            "sumCount": 0,
+            "name": "Carne de Porco",
+            "grade": 0,
+            "minPrice": 8050
+        },
+        {
+            "mainKey": 7906,
+            "sumCount": 0,
+            "name": "Carne de Boi",
+            "grade": 0,
+            "minPrice": 7550
+        },
+        {
+            "mainKey": 7908,
+            "sumCount": 0,
+            "name": "Carne de Lagarto",
+            "grade": 0,
+            "minPrice": 5300
+        },
+        {
+            "mainKey": 7909,
+            "sumCount": 207,
+            "name": "Carne de Minhoca",
+            "grade": 0,
+            "minPrice": 2230
+        },
+        {
+            "mainKey": 7910,
+            "sumCount": 0,
+            "name": "Carne de Guaxinim",
+            "grade": 0,
+            "minPrice": 8500
+        },
+        {
+            "mainKey": 7911,
+            "sumCount": 0,
+            "name": "Carne de Doninha",
+            "grade": 0,
+            "minPrice": 5650
+        },
+        {
+            "mainKey": 7912,
+            "sumCount": 0,
+            "name": "Carne de Urso",
+            "grade": 0,
+            "minPrice": 10800
+        },
+        {
+            "mainKey": 7913,
+            "sumCount": 0,
+            "name": "Carne de Lobo",
+            "grade": 0,
+            "minPrice": 9450
+        },
+        {
+            "mainKey": 7914,
+            "sumCount": 457,
+            "name": "Carne de Waragon",
+            "grade": 0,
+            "minPrice": 2490
+        },
+        {
+            "mainKey": 7915,
+            "sumCount": 316,
+            "name": "Carne de Dragão Guepardo",
+            "grade": 0,
+            "minPrice": 2630
+        },
+        {
+            "mainKey": 7916,
+            "sumCount": 621,
+            "name": "Carne de Pássaro Kuku",
+            "grade": 0,
+            "minPrice": 4300
+        },
+        {
+            "mainKey": 7917,
+            "sumCount": 384,
+            "name": "Carne de Flamingo",
+            "grade": 0,
+            "minPrice": 3560
+        },
+        {
+            "mainKey": 7921,
+            "sumCount": 46472,
+            "name": "Frango",
+            "grade": 0,
+            "minPrice": 1910
+        },
+        {
+            "mainKey": 7922,
+            "sumCount": 0,
+            "name": "Carne de Cobra",
+            "grade": 0,
+            "minPrice": 12300
+        },
+        {
+            "mainKey": 7923,
+            "sumCount": 0,
+            "name": "Carne de Leão",
+            "grade": 0,
+            "minPrice": 14600
+        },
+        {
+            "mainKey": 7924,
+            "sumCount": 0,
+            "name": "Carne de Escorpião",
+            "grade": 0,
+            "minPrice": 9900
+        },
+        {
+            "mainKey": 7925,
+            "sumCount": 392,
+            "name": "Carne de Gazela",
+            "grade": 0,
+            "minPrice": 28700
+        },
+        {
+            "mainKey": 7953,
+            "sumCount": 2866,
+            "name": "Carne de Ave",
+            "grade": 0,
+            "minPrice": 5450
+        },
+        {
+            "mainKey": 7954,
+            "sumCount": 0,
+            "name": "Carne de Iaque",
+            "grade": 0,
+            "minPrice": 9500
+        },
+        {
+            "mainKey": 7955,
+            "sumCount": 1432,
+            "name": "Carne de Marmota",
+            "grade": 0,
+            "minPrice": 9950
+        },
+        {
+            "mainKey": 7956,
+            "sumCount": 15,
+            "name": "Carne de Lhama",
+            "grade": 0,
+            "minPrice": 10400
+        },
+        {
+            "mainKey": 7957,
+            "sumCount": 0,
+            "name": "Carne de Cabra",
+            "grade": 0,
+            "minPrice": 8950
+        },
+        {
+            "mainKey": 7958,
+            "sumCount": 15800,
+            "name": "Carne Moída de Pássaro",
+            "grade": 0,
+            "minPrice": 4660
+        },
+        {
+            "mainKey": 9726,
+            "sumCount": 752,
+            "name": "Carne de Baleia Rei",
+            "grade": 1,
+            "minPrice": 385000
+        },
+        {
+            "mainKey": 9731,
+            "sumCount": 0,
+            "name": "Carne de Baleia Macia",
+            "grade": 1,
+            "minPrice": 21700
+        },
+        {
+            "mainKey": 9732,
+            "sumCount": 0,
+            "name": "Carne de Crocodilo",
+            "grade": 1,
+            "minPrice": 21300
+        },
+        {
+            "mainKey": 9735,
+            "sumCount": 0,
+            "name": "Chifre de Fugitivo Khalk",
+            "grade": 2,
+            "minPrice": 297000
+        }
+    ],
+    "resultCode": 0,
+    "resultMsg": ""
+}

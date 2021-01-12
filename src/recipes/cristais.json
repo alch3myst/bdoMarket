@@ -1,0 +1,620 @@
+[
+  {
+    "name": "Cristal Mágico do Infinito - Absorção",
+    "recipe": [
+      { "name": "Gemstones", "qtd": 1 },
+      { "name": "Essência da Abundância", "qtd": 2 },
+      { "name": "Fragmento do Chumbo Derretido", "qtd": 7 },
+      { "name": "Sangue de Homem Sábio", "qtd": 2 },
+      { "name": "Gemstones", "qtd": 1 }
+    ],
+    "result": [
+      { "commum": "Cristal Mágico do Infinito - Absorção" },
+      { "rare": "None" }
+    ]
+  },
+  {
+    "name": "Cristal Mágico do Infinito - Acerto Crítico",
+    "recipe": [
+      { "name": "Gemstones", "qtd": 1 },
+      { "name": "Essência da Perfeição", "qtd": 2 },
+      { "name": "Opala Polido", "qtd": 2 },
+      { "name": "Sangue da Fera Lendária", "qtd": 2 },
+      { "name": "Gemstones", "qtd": 1 }
+    ],
+    "result": [
+      { "commum": "Cristal Mágico do Infinito - Acerto Crítico" },
+      { "rare": "None" }
+    ]
+  },
+  {
+    "name": "Cristal Mágico do Infinito - Adamantina",
+    "recipe": [
+      { "name": "Cristal Mágico da Natureza - Adamantina", "qtd": 1 },
+      { "name": "Fruto da Natureza", "qtd": 1 },
+      { "name": "Safira", "qtd": 2 },
+      { "name": "Azaleia Prata", "qtd": 3 },
+      { "name": "Gemstones", "qtd": 1 }
+    ],
+    "result": [
+      { "commum": "Cristal Mágico do Infinito - Adamantina" },
+      { "rare": "None" }
+    ]
+  },
+  {
+    "name": "Cristal Mágico do Infinito - Agilidade",
+    "recipe": [
+      { "name": "Cristal Mágico de Encantamento - Agilidade", "qtd": 1 },
+      { "name": "Fruta do Sol", "qtd": 1 },
+      { "name": "Cogumelo Nuvem", "qtd": 4 },
+      { "name": "Fragmento de Prata Derretido", "qtd": 2 },
+      { "name": "Gemstones", "qtd": 1 }
+    ],
+    "result": [
+      { "commum": "Cristal Mágico do Infinito - Agilidade" },
+      { "rare": "None" }
+    ]
+  },
+  {
+    "name": "Cristal Mágico do Infinito - Armadura",
+    "recipe": [
+      { "name": "Cristal Mágico da Abundância - Armadura", "qtd": 1 },
+      { "name": "Fruto do Poder Mágico", "qtd": 1 },
+      { "name": "Cristal Translúcido", "qtd": 3 },
+      { "name": "Seiva de Freixo", "qtd": 4 },
+      { "name": "Gemstones", "qtd": 1 }
+    ],
+    "result": [
+      { "commum": "Cristal Mágico do Infinito - Armadura" },
+      { "rare": "None" }
+    ]
+  },
+  {
+    "name": "Cristal Mágico do Infinito - Ascensão",
+    "recipe": [
+      { "name": "Cristal Mágico da Natureza - Ascensão", "qtd": 1 },
+      { "name": "Fruto do Poder Mágico", "qtd": 1 },
+      { "name": "Topázio", "qtd": 1 },
+      { "name": "Flor de Escama de Fogo", "qtd": 3 },
+      { "name": "Gemstones    ", "qtd": 1 }
+    ],
+    "result": [
+      { "commum": "Cristal Mágico do Infinito - Ascensão" },
+      { "rare": "None" }
+    ]
+  },
+  {
+    "name": "Cristal Mágico do Infinito - Assalto",
+    "recipe": [
+      { "name": "Cristal Mágico do Sol - Assalto", "qtd": 1 },
+      { "name": "Fruta de Encantamento", "qtd": 1 },
+      { "name": "Esmeralda", "qtd": 2 },
+      { "name": "Sangue 3", "qtd": 5 },
+      { "name": "Gemstones    ", "qtd": 1 }
+    ],
+    "result": [
+      { "commum": "Cristal Mágico do Infinito - Assalto" },
+      { "rare": "None" }
+    ]
+  },
+  {
+    "name": "Cristal Mágico do Infinito - Ataque Aéreo",
+    "recipe": [
+      { "name": "Gemstones", "qtd": 1 },
+      { "name": "Essência do Poder Mágico", "qtd": 2 },
+      { "name": "Fragmento do Platina Derretida", "qtd": 2 },
+      { "name": "Sangue de Homem Sábio", "qtd": 2 },
+      { "name": "Gemstones", "qtd": 1 }
+    ],
+    "result": [
+      { "commum": "Cristal Mágico do Infinito - Ataque Aéreo" },
+      { "rare": "None" }
+    ]
+  },
+  {
+    "name": "Cristal Mágico do Infinito - Ataque Baixo",
+    "recipe": [
+      { "name": "Gemstones", "qtd": 1 },
+      { "name": "Essência de Encantamento", "qtd": 2 },
+      { "name": "Fragmento de Ouro Derretido", "qtd": 2 },
+      { "name": "Sangue do Tirano", "qtd": 2 },
+      { "name": "Gemstones", "qtd": 1 }
+    ],
+    "result": [
+      { "commum": "Cristal Mágico do Infinito - Ataque Baixo" },
+      { "rare": "None" }
+    ]
+  },
+  {
+    "name": "Cristal Mágico do Infinito - Ataque Corpo a Corpo",
+    "recipe": [
+      { "name": "Gemstones", "qtd": 1 },
+      { "name": "Essência da Abundância", "qtd": 2 },
+      { "name": "Topázio", "qtd": 3 },
+      { "name": "Sangue de Homem Sábio", "qtd": 2 },
+      { "name": "Gemstones", "qtd": 1 }
+    ],
+    "result": [
+      { "commum": "Cristal Mágico do Infinito - Ataque Corpo a Corpo" },
+      { "rare": "None" }
+    ]
+  },
+  {
+    "name": "Cristal Mágico do Infinito - Ataque Mágico",
+    "recipe": [
+      { "name": "Gemstones", "qtd": 1 },
+      { "name": "Essência do Sol", "qtd": 2 },
+      { "name": "Diamante", "qtd": 3 },
+      { "name": "Sangue do Pecador", "qtd": 2 },
+      { "name": "Gemstones", "qtd": 1 }
+    ],
+    "result": [
+      { "commum": "Cristal Mágico do Infinito - Ataque Mágico" },
+      { "rare": "None" }
+    ]
+  },
+  {
+    "name": "Cristal Mágico do Infinito - Ataque pelas Costas",
+    "recipe": [
+      { "name": "Gemstones", "qtd": 1 },
+      { "name": "Essência do Sol", "qtd": 2 },
+      { "name": "Fragmento de Prata Derretido", "qtd": 3 },
+      { "name": "Sangue do Pecador", "qtd": 2 },
+      { "name": "Gemstones", "qtd": 1 }
+    ],
+    "result": [
+      { "commum": "Cristal Mágico do Infinito - Ataque pelas Costas" },
+      { "rare": "None" }
+    ]
+  },
+  {
+    "name": "Cristal Mágico do Infinito - Ataque Rápido",
+    "recipe": [
+      { "name": "Gemstones", "qtd": 1 },
+      { "name": "Essência da Destruição", "qtd": 2 },
+      { "name": "Fragmento do Estanho Derretido", "qtd": 8 },
+      { "name": "Sangue do Pecador", "qtd": 2 },
+      { "name": "Gemstones", "qtd": 1 }
+    ],
+    "result": [
+      { "commum": "Cristal Mágico do Infinito - Ataque Rápido" },
+      { "rare": "None" }
+    ]
+  },
+  {
+    "name": "Cristal Mágico do Infinito - Ataque à Distância",
+    "recipe": [
+      { "name": "Gemstones", "qtd": 1 },
+      { "name": "Essência da Natureza", "qtd": 2 },
+      { "name": "Esmeralda", "qtd": 3 },
+      { "name": "Sangue da Fera Lendária", "qtd": 2 },
+      { "name": "Gemstones", "qtd": 1 }
+    ],
+    "result": [
+      { "commum": "Cristal Mágico do Infinito - Ataque à Distância" },
+      { "rare": "None" }
+    ]
+  },
+  {
+    "name": "Cristal Mágico do Infinito - Aumento de Energia",
+    "recipe": [
+      { "name": "Gemstones", "qtd": 1 },
+      { "name": "Essência da Perfeição", "qtd": 2 },
+      { "name": "Rubi", "qtd": 4 },
+      { "name": "Sangue do Tirano", "qtd": 2 },
+      { "name": "Gemstones", "qtd": 1 }
+    ],
+    "result": [
+      { "commum": "Cristal Mágico do Infinito - Aumento de Energia" },
+      { "rare": "None" }
+    ]
+  },
+  {
+    "name": "Cristal Mágico do Infinito - Aumento de Tempo de Mergulho",
+    "recipe": [
+      { "name": "Gemstones", "qtd": 1 },
+      { "name": "Essência da Destruição", "qtd": 2 },
+      { "name": "Safira", "qtd": 5 },
+      { "name": "Sangue de Palhaço", "qtd": 3 },
+      { "name": "Gemstones", "qtd": 1 }
+    ],
+    "result": [
+      {
+        "commum": "Cristal Mágico do Infinito - Aumento de Tempo de Mergulho"
+      },
+      { "rare": "None" }
+    ]
+  },
+  {
+    "name": "Cristal Mágico do Infinito - Carnificina",
+    "recipe": [
+      { "name": "Cristal Mágico de Chama Carmesim - Carnificina", "qtd": 1 },
+      { "name": "Fruto da Natureza", "qtd": 1 },
+      { "name": "Fragmento do Cobre Derretido", "qtd": 9 },
+      { "name": "Sangue 1", "qtd": 3 },
+      { "name": "Gemstones", "qtd": 1 }
+    ],
+    "result": [
+      { "commum": "Cristal Mágico do Infinito - Carnificina" },
+      { "rare": "None" }
+    ]
+  },
+  {
+    "name": "Cristal Mágico do Infinito - Carnificina",
+    "recipe": [
+      { "name": "Cristal Mágico de Chama Carmesim - Carnificina", "qtd": 1 },
+      { "name": "Fruta do Sol", "qtd": 1 },
+      { "name": "Fragmento do Estanho Derretido", "qtd": 8 },
+      { "name": "Sangue 4 ", "qtd": 3 },
+      { "name": "Gemstones", "qtd": 1 }
+    ],
+    "result": [
+      { "commum": "Cristal Mágico do Infinito - Carnificina" },
+      { "rare": "None" }
+    ]
+  },
+  {
+    "name": "Cristal Mágico do Infinito - Carnificina",
+    "recipe": [
+      { "name": "Cristal Mágico de Chama Carmesim - Carnificina", "qtd": 1 },
+      { "name": "Fruta de Encantamento", "qtd": 1 },
+      { "name": "Fragmento do Zinco Derretido", "qtd": 10 },
+      { "name": "Sangue 5", "qtd": 5 },
+      { "name": "Gemstones", "qtd": 1 }
+    ],
+    "result": [
+      { "commum": "Cristal Mágico do Infinito - Carnificina" },
+      { "rare": "None" }
+    ]
+  },
+  {
+    "name": "Cristal Mágico do Infinito - Cerco",
+    "recipe": [
+      { "name": "Gemstones", "qtd": 1 },
+      { "name": "Essência da Abundância", "qtd": 2 },
+      { "name": "Cristal Translúcido", "qtd": 3 },
+      { "name": "Sangue de Palhaço", "qtd": 2 },
+      { "name": "Gemstones", "qtd": 1 }
+    ],
+    "result": [
+      { "commum": "Cristal Mágico do Infinito - Cerco" },
+      { "rare": "None" }
+    ]
+  },
+  {
+    "name": "Cristal Mágico do Infinito - Contra-Ataque",
+    "recipe": [
+      { "name": "Gemstones", "qtd": 1 },
+      { "name": "Essência de Chama Carmesim", "qtd": 2 },
+      { "name": "Fragmento do Zinco Derretido", "qtd": 6 },
+      { "name": "Sangue do Tirano", "qtd": 2 },
+      { "name": "Gemstones", "qtd": 1 }
+    ],
+    "result": [
+      { "commum": "Cristal Mágico do Infinito - Contra-Ataque" },
+      { "rare": "None" }
+    ]
+  },
+  {
+    "name": "Cristal Mágico do Infinito - Cura",
+    "recipe": [
+      { "name": "Cristal Mágico da Abundância - Cura", "qtd": 1 },
+      { "name": "Fruta de Chama Carmesim", "qtd": 1 },
+      { "name": "Cristal Verde", "qtd": 2 },
+      { "name": "Seiva de Abeto", "qtd": 3 },
+      { "name": "Gemstones", "qtd": 1 }
+    ],
+    "result": [
+      { "commum": "Cristal Mágico do Infinito - Cura" },
+      { "rare": "None" }
+    ]
+  },
+  {
+    "name": "Cristal Mágico do Infinito - Defesa Corpo a Corpo",
+    "recipe": [
+      { "name": "Gemstones", "qtd": 1 },
+      { "name": "Essência do Sol", "qtd": 2 },
+      { "name": "Cristal Vermelho", "qtd": 2 },
+      { "name": "Sangue de Homem Sábio", "qtd": 2 },
+      { "name": "Gemstones", "qtd": 1 }
+    ],
+    "result": [
+      { "commum": "Cristal Mágico do Infinito - Defesa Corpo a Corpo" },
+      { "rare": "None" }
+    ]
+  },
+  {
+    "name": "Cristal Mágico do Infinito - Defesa Mágica",
+    "recipe": [
+      { "name": "Gemstones", "qtd": 1 },
+      { "name": "Essência do Poder Mágico", "qtd": 2 },
+      { "name": "Fragmento de Prata Derretido", "qtd": 2 },
+      { "name": "Sangue do Pecador", "qtd": 2 },
+      { "name": "Gemstones", "qtd": 1 }
+    ],
+    "result": [
+      { "commum": "Cristal Mágico do Infinito - Defesa Mágica" },
+      { "rare": "None" }
+    ]
+  },
+  {
+    "name": "Cristal Mágico do Infinito - Defesa à Distância",
+    "recipe": [
+      { "name": "Gemstones", "qtd": 1 },
+      { "name": "Essência de Encantamento", "qtd": 2 },
+      { "name": "Cristal Verde", "qtd": 2 },
+      { "name": "Sangue da Fera Lendária", "qtd": 2 },
+      { "name": "Gemstones", "qtd": 1 }
+    ],
+    "result": [
+      { "commum": "Cristal Mágico do Infinito - Defesa à Distância" },
+      { "rare": "None" }
+    ]
+  },
+  {
+    "name": "Cristal Mágico do Infinito - Durabilidade",
+    "recipe": [
+      { "name": "Gemstones", "qtd": 1 },
+      { "name": "Essência de Chama Carmesim", "qtd": 2 },
+      { "name": "Fragmento do Ferro Derretido", "qtd": 8 },
+      { "name": "Sangue de Palhaço", "qtd": 2 },
+      { "name": "Gemstones", "qtd": 1 }
+    ],
+    "result": [
+      { "commum": "Cristal Mágico do Infinito - Durabilidade" },
+      { "rare": "None" }
+    ]
+  },
+  {
+    "name": "Cristal Mágico do Infinito - Energia",
+    "recipe": [
+      { "name": "Cristal Mágico da Natureza - Energia", "qtd": 1 },
+      { "name": "Fruto da Perfeição", "qtd": 1 },
+      { "name": "Topázio", "qtd": 2 },
+      { "name": "Planta Juba de Leão", "qtd": 4 },
+      { "name": "Gemstones", "qtd": 1 }
+    ],
+    "result": [
+      { "commum": "Cristal Mágico do Infinito - Energia" },
+      { "rare": "None" }
+    ]
+  },
+  {
+    "name": "Cristal Mágico do Infinito - Evasão",
+    "recipe": [
+      { "name": "Gemstones", "qtd": 1 },
+      { "name": "Essência da Natureza", "qtd": 2 },
+      { "name": "Cristal Lama", "qtd": 2 },
+      { "name": "Sangue de Palhaço", "qtd": 2 },
+      { "name": "Gemstones", "qtd": 1 }
+    ],
+    "result": [
+      { "commum": "Cristal Mágico do Infinito - Evasão" },
+      { "rare": "None" }
+    ]
+  },
+  {
+    "name": "Cristal Mágico do Infinito - Experiência",
+    "recipe": [
+      { "name": "Gemstones", "qtd": 1 },
+      { "name": "Fruto da Abundância", "qtd": 1 },
+      { "name": "Opala Polido", "qtd": 2 },
+      { "name": "Erva Eterna", "qtd": 2 },
+      { "name": "Cristal Mágico de Encantamento - Experiência", "qtd": 1 }
+    ],
+    "result": [
+      { "commum": "Cristal Mágico do Infinito - Experiência" },
+      { "rare": "None" }
+    ]
+  },
+  {
+    "name": "Cristal Mágico do Infinito - Extração",
+    "recipe": [
+      { "name": "Gemstones", "qtd": 1 },
+      { "name": "Essência da Natureza", "qtd": 2 },
+      { "name": "Fragmento do Cobre Derretido", "qtd": 9 },
+      { "name": "Sangue da Fera Lendária", "qtd": 2 },
+      { "name": "Gemstones", "qtd": 1 }
+    ],
+    "result": [
+      { "commum": "Cristal Mágico do Infinito - Extração" },
+      { "rare": "None" }
+    ]
+  },
+  {
+    "name": "Cristal Mágico do Infinito - Força",
+    "recipe": [
+      { "name": "Cristal Mágico do Sol - Força", "qtd": 1 },
+      { "name": "Fruta de Chama Carmesim", "qtd": 1 },
+      { "name": "Seiva de Bordo", "qtd": 3 },
+      { "name": "Diamante", "qtd": 1 },
+      { "name": "Gemstones", "qtd": 1 }
+    ],
+    "result": [
+      { "commum": "Cristal Mágico do Infinito - Força" },
+      { "rare": "None" }
+    ]
+  },
+  {
+    "name": "Cristal Mágico do Infinito - Intimidação",
+    "recipe": [
+      { "name": "Cristal Mágico de Encantamento - Intimidação", "qtd": 1 },
+      { "name": "Fruto da Abundância", "qtd": 1 },
+      { "name": "Cristal Vermelho", "qtd": 3 },
+      { "name": "Cogumelo Flecha", "qtd": 2 },
+      { "name": "Gemstones", "qtd": 1 }
+    ],
+    "result": [
+      { "commum": "Cristal Mágico do Infinito - Intimidação" },
+      { "rare": "None" }
+    ]
+  },
+  {
+    "name": "Cristal Mágico do Infinito - Memória",
+    "recipe": [
+      { "name": "Cristal Mágico de Encantamento - Memória", "qtd": 1 },
+      { "name": "Fruta de Chama Carmesim", "qtd": 1 },
+      { "name": "Cristal Lama", "qtd": 2 },
+      { "name": "Cogumelo Vidente", "qtd": 3 },
+      { "name": "Gemstones", "qtd": 1 }
+    ],
+    "result": [
+      { "commum": "Cristal Mágico do Infinito - Memória" },
+      { "rare": "None" }
+    ]
+  },
+  {
+    "name": "Cristal Mágico do Infinito - Paciência",
+    "recipe": [
+      { "name": "Cristal Mágico da Abundância - Paciência", "qtd": 1 },
+      { "name": "Fruta da Destruição", "qtd": 1 },
+      { "name": "Cristal Vermelho", "qtd": 2 },
+      { "name": "Seiva de Bétula", "qtd": 4 },
+      { "name": "Gemstones", "qtd": 1 }
+    ],
+    "result": [
+      { "commum": "Cristal Mágico do Infinito - Paciência" },
+      { "rare": "None" }
+    ]
+  },
+  {
+    "name": "Cristal Mágico do Infinito - Poder",
+    "recipe": [
+      { "name": "Cristal Mágico de Chama Carmesim - Poder", "qtd": 1 },
+      { "name": "Fruto da Abundância", "qtd": 1 },
+      { "name": "Fragmento do Chumbo Derretido", "qtd": 7 },
+      { "name": "Sangue 2", "qtd": 4 },
+      { "name": "Gemstones", "qtd": 1 }
+    ],
+    "result": [
+      { "commum": "Cristal Mágico do Infinito - Poder" },
+      { "rare": "None" }
+    ]
+  },
+  {
+    "name": "Cristal Mágico do Infinito - Precisão",
+    "recipe": [
+      { "name": "Gemstones", "qtd": 1 },
+      { "name": "Fruta de Chama Carmesim", "qtd": 1 },
+      { "name": "Fragmento do Ferro Derretido", "qtd": 8 },
+      { "name": "Sangue 3", "qtd": 5 },
+      { "name": "Gemstones", "qtd": 1 }
+    ],
+    "result": [
+      { "commum": "Cristal Mágico do Infinito - Precisão" },
+      { "rare": "None" }
+    ]
+  },
+  {
+    "name": "Cristal Mágico do Infinito - Precisão",
+    "recipe": [
+      { "name": "Cristal Mágico do Sol - Precisão", "qtd": 1 },
+      { "name": "Fruta da Destruição", "qtd": 1 },
+      { "name": "Esmeralda", "qtd": 1 },
+      { "name": "Grama Mel de Seda", "qtd": 3 },
+      { "name": "Gemstones", "qtd": 1 }
+    ],
+    "result": [
+      { "commum": "Cristal Mágico do Infinito - Precisão" },
+      { "rare": "None" }
+    ]
+  },
+  {
+    "name": "Cristal Mágico do Infinito - Queda",
+    "recipe": [
+      { "name": "Cristal Mágico da Natureza - Queda", "qtd": 1 },
+      { "name": "Fruta de Encantamento", "qtd": 1 },
+      { "name": "Rubi", "qtd": 1 },
+      { "name": "Grama Selvagem", "qtd": 3 },
+      { "name": "Gemstones", "qtd": 1 }
+    ],
+    "result": [
+      { "commum": "Cristal Mágico do Infinito - Queda" },
+      { "rare": "None" }
+    ]
+  },
+  {
+    "name": "Cristal Mágico do Infinito - Rapidez",
+    "recipe": [
+      { "name": "Cristal Mágico da Natureza - Rapidez", "qtd": 1 },
+      { "name": "Fruta do Sol", "qtd": 1 },
+      { "name": "Rubi", "qtd": 2 },
+      { "name": "Erva Aurora", "qtd": 5 },
+      { "name": "Gemstones", "qtd": 1 }
+    ],
+    "result": [
+      { "commum": "Cristal Mágico do Infinito - Rapidez" },
+      { "rare": "None" }
+    ]
+  },
+  {
+    "name": "Cristal Mágico do Infinito - Ressonância",
+    "recipe": [
+      { "name": "Cristal Mágico da Abundância - Ressonância", "qtd": 1 },
+      { "name": "Fruto da Abundância", "qtd": 1 },
+      { "name": "Fragmento de Prata Derretido", "qtd": 2 },
+      { "name": "Seiva de Pinheiro", "qtd": 3 },
+      { "name": "Gemstones", "qtd": 1 }
+    ],
+    "result": [
+      { "commum": "Cristal Mágico do Infinito - Ressonância" },
+      { "rare": "None" }
+    ]
+  },
+  {
+    "name": "Cristal Mágico do Infinito - Robustez",
+    "recipe": [
+      { "name": "Cristal Mágico do Sol - Robustez", "qtd": 1 },
+      { "name": "Fruto da Perfeição", "qtd": 1 },
+      { "name": "Diamante", "qtd": 1 },
+      { "name": "Sangue 2", "qtd": 3 },
+      { "name": "Gemstones", "qtd": 1 }
+    ],
+    "result": [
+      { "commum": "Cristal Mágico do Infinito - Robustez" },
+      { "rare": "None" }
+    ]
+  },
+  {
+    "name": "Cristal Mágico do Infinito - Valor",
+    "recipe": [
+      { "name": "Cristal Mágico do Sol - Valor", "qtd": 1 },
+      { "name": "Fruta da Destruição", "qtd": 1 },
+      { "name": "Cristal Translúcido", "qtd": 3 },
+      { "name": "Sangue 1", "qtd": 5 },
+      { "name": "Gemstones", "qtd": 1 }
+    ],
+    "result": [
+      { "commum": "Cristal Mágico do Infinito - Valor" },
+      { "rare": "None" }
+    ]
+  },
+  {
+    "name": "Cristal Mágico do Infinito - Vigor",
+    "recipe": [
+      { "name": "Cristal Mágico da Abundância - Vigor", "qtd": 1 },
+      { "name": "Fruto da Perfeição", "qtd": 1 },
+      { "name": "Cristal Lama", "qtd": 2 },
+      { "name": "Seiva de Bordo", "qtd": 4 },
+      { "name": "Gemstones", "qtd": 1 }
+    ],
+    "result": [
+      { "commum": "Cristal Mágico do Infinito - Vigor" },
+      { "rare": "None" }
+    ]
+  },
+  {
+    "name": "Cristal Mágico do Infinito - Visão",
+    "recipe": [
+      { "name": "Cristal Mágico de Encantamento - Visão", "qtd": 1 },
+      { "name": "Fruto da Natureza", "qtd": 1 },
+      { "name": "Cristal Verde", "qtd": 2 },
+      { "name": "Cogumelo Anão", "qtd": 3 },
+      { "name": "Gemstones", "qtd": 1 }
+    ],
+    "result": [
+      { "commum": "Cristal Mágico do Infinito - Visão" },
+      { "rare": "None" }
+    ]
+  }
+]

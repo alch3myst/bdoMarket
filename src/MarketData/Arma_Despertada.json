@@ -1,0 +1,153 @@
+{
+    "marketList": [
+        {
+            "mainKey": 15017,
+            "sumCount": 22,
+            "name": "Cristal Mágico de Encantamento - Memória",
+            "grade": 1,
+            "minPrice": 44700
+        },
+        {
+            "mainKey": 15018,
+            "sumCount": 32,
+            "name": "Cristal Mágico de Encantamento - Intimidação",
+            "grade": 1,
+            "minPrice": 31800
+        },
+        {
+            "mainKey": 15019,
+            "sumCount": 0,
+            "name": "Cristal Mágico de Encantamento - Visão",
+            "grade": 1,
+            "minPrice": 34600
+        },
+        {
+            "mainKey": 15020,
+            "sumCount": 9,
+            "name": "Cristal Mágico de Encantamento - Agilidade",
+            "grade": 1,
+            "minPrice": 34300
+        },
+        {
+            "mainKey": 15034,
+            "sumCount": 34,
+            "name": "Cristal Mágico Suave - Tendência",
+            "grade": 0,
+            "minPrice": 11900
+        },
+        {
+            "mainKey": 15035,
+            "sumCount": 17,
+            "name": "Cristal Mágico Suave - Combate",
+            "grade": 0,
+            "minPrice": 12700
+        },
+        {
+            "mainKey": 15121,
+            "sumCount": 0,
+            "name": "Cristal Mágico do Infinito - Memória",
+            "grade": 2,
+            "minPrice": 26400
+        },
+        {
+            "mainKey": 15122,
+            "sumCount": 52,
+            "name": "Cristal Mágico do Infinito - Intimidação",
+            "grade": 2,
+            "minPrice": 535000
+        },
+        {
+            "mainKey": 15123,
+            "sumCount": 48,
+            "name": "Cristal Mágico do Infinito - Visão",
+            "grade": 2,
+            "minPrice": 481000
+        },
+        {
+            "mainKey": 15124,
+            "sumCount": 42,
+            "name": "Cristal Mágico do Infinito - Agilidade",
+            "grade": 2,
+            "minPrice": 525000
+        },
+        {
+            "mainKey": 15125,
+            "sumCount": 0,
+            "name": "Cristal Mágico do Infinito - Experiência",
+            "grade": 2,
+            "minPrice": 10200000
+        },
+        {
+            "mainKey": 15221,
+            "sumCount": 8,
+            "name": "Cristal Mágico Negro - Memória",
+            "grade": 3,
+            "minPrice": 2490000
+        },
+        {
+            "mainKey": 15222,
+            "sumCount": 86,
+            "name": "Cristal Mágico Negro - Intimidação",
+            "grade": 3,
+            "minPrice": 3600000
+        },
+        {
+            "mainKey": 15224,
+            "sumCount": 240,
+            "name": "Cristal Mágico Negro - Agilidade",
+            "grade": 3,
+            "minPrice": 2610000
+        },
+        {
+            "mainKey": 15601,
+            "sumCount": 4,
+            "name": "Cristal Mágico Ancestral - Harpia",
+            "grade": 4,
+            "minPrice": 90000
+        },
+        {
+            "mainKey": 15624,
+            "sumCount": 0,
+            "name": "Cristal Mágico Ancestral do Encantamento - Agilidade",
+            "grade": 3,
+            "minPrice": 2700000
+        },
+        {
+            "mainKey": 15628,
+            "sumCount": 0,
+            "name": "Cristal Mágico Negro - Harpia",
+            "grade": 4,
+            "minPrice": 33000000
+        },
+        {
+            "mainKey": 15634,
+            "sumCount": 15,
+            "name": "Cristal do Campo de Batalha Vermelho: Harpia",
+            "grade": 4,
+            "minPrice": 71500000
+        },
+        {
+            "mainKey": 15801,
+            "sumCount": 0,
+            "name": "JIN Cristal Mágico - Harpia",
+            "grade": 4,
+            "minPrice": 330000000
+        },
+        {
+            "mainKey": 15802,
+            "sumCount": 2,
+            "name": "BON Cristal Mágico - Harpia",
+            "grade": 4,
+            "minPrice": 129000000
+        },
+        {
+            "mainKey": 15803,
+            "sumCount": 5,
+            "name": "WON Cristal Mágico - Harpia",
+            "grade": 4,
+            "minPrice": 111000000
+        }
+    ],
+    "resultCode": 0,
+    "resultMsg": ""
+}

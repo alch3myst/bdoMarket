@@ -1,0 +1,419 @@
+{
+    "marketList": [
+        {
+            "mainKey": 601,
+            "sumCount": 0,
+            "name": "[Grupo] Elixir de Amizade",
+            "grade": 1,
+            "minPrice": 87500
+        },
+        {
+            "mainKey": 602,
+            "sumCount": 0,
+            "name": "[Grupo] Elixir de Melhoria de Amizade",
+            "grade": 2,
+            "minPrice": 162000
+        },
+        {
+            "mainKey": 611,
+            "sumCount": 4065,
+            "name": "[Grupo] Elixir de Mão Dourada",
+            "grade": 1,
+            "minPrice": 53000
+        },
+        {
+            "mainKey": 612,
+            "sumCount": 1790,
+            "name": "[Grupo] Elixir de Gloriosa Mão Dourada",
+            "grade": 2,
+            "minPrice": 208000
+        },
+        {
+            "mainKey": 621,
+            "sumCount": 246,
+            "name": "[Grupo] Elixir das Asas",
+            "grade": 1,
+            "minPrice": 55000
+        },
+        {
+            "mainKey": 622,
+            "sumCount": 1760,
+            "name": "[Grupo] Elixir das Asas Ascendentes",
+            "grade": 2,
+            "minPrice": 89500
+        },
+        {
+            "mainKey": 631,
+            "sumCount": 13,
+            "name": "[Grupo] Elixir do Selo",
+            "grade": 1,
+            "minPrice": 56000
+        },
+        {
+            "mainKey": 632,
+            "sumCount": 154,
+            "name": "[Grupo] Elixir do Selo Ágil",
+            "grade": 2,
+            "minPrice": 28700
+        },
+        {
+            "mainKey": 651,
+            "sumCount": 17,
+            "name": "[Grupo] Elixir de Experiência",
+            "grade": 1,
+            "minPrice": 15800
+        },
+        {
+            "mainKey": 652,
+            "sumCount": 183,
+            "name": "[Grupo] Elixir de Experiência Esplendida",
+            "grade": 2,
+            "minPrice": 73500
+        },
+        {
+            "mainKey": 659,
+            "sumCount": 0,
+            "name": "[Grupo] Elixir de Estamina",
+            "grade": 1,
+            "minPrice": 42200
+        },
+        {
+            "mainKey": 660,
+            "sumCount": 0,
+            "name": "[Grupo] Elixir de Estamina Esmagadora",
+            "grade": 2,
+            "minPrice": 97000
+        },
+        {
+            "mainKey": 661,
+            "sumCount": 123,
+            "name": "[Grupo] Elixir de Operário",
+            "grade": 1,
+            "minPrice": 84000
+        },
+        {
+            "mainKey": 662,
+            "sumCount": 405,
+            "name": "[Grupo] Elixir de Operário Habilidoso",
+            "grade": 2,
+            "minPrice": 159000
+        },
+        {
+            "mainKey": 663,
+            "sumCount": 258,
+            "name": "[Grupo] Elixir de Pescador",
+            "grade": 1,
+            "minPrice": 88500
+        },
+        {
+            "mainKey": 664,
+            "sumCount": 3504,
+            "name": "Elixir de Amizade",
+            "grade": 1,
+            "minPrice": 27000
+        },
+        {
+            "mainKey": 665,
+            "sumCount": 0,
+            "name": "Elixir de Melhoria de Amizade",
+            "grade": 2,
+            "minPrice": 168000
+        },
+        {
+            "mainKey": 674,
+            "sumCount": 2686,
+            "name": "Elixir de Mão Dourada",
+            "grade": 1,
+            "minPrice": 40500
+        },
+        {
+            "mainKey": 675,
+            "sumCount": 0,
+            "name": "Elixir de Gloriosa Mão Dourada",
+            "grade": 2,
+            "minPrice": 130000
+        },
+        {
+            "mainKey": 684,
+            "sumCount": 5641,
+            "name": "Elixir das Asas",
+            "grade": 1,
+            "minPrice": 20500
+        },
+        {
+            "mainKey": 685,
+            "sumCount": 854,
+            "name": "Elixir das Asas Ascendentes",
+            "grade": 2,
+            "minPrice": 58500
+        },
+        {
+            "mainKey": 694,
+            "sumCount": 3288,
+            "name": "Elixir do Selo",
+            "grade": 1,
+            "minPrice": 9900
+        },
+        {
+            "mainKey": 695,
+            "sumCount": 319,
+            "name": "Elixir do Selo Ágil",
+            "grade": 2,
+            "minPrice": 14600
+        },
+        {
+            "mainKey": 714,
+            "sumCount": 5002,
+            "name": "Elixir de Experiência",
+            "grade": 1,
+            "minPrice": 12500
+        },
+        {
+            "mainKey": 715,
+            "sumCount": 1054,
+            "name": "Elixir de Experiência Esplêndida",
+            "grade": 2,
+            "minPrice": 38400
+        },
+        {
+            "mainKey": 722,
+            "sumCount": 8207,
+            "name": "Elixir de Estamina",
+            "grade": 1,
+            "minPrice": 15800
+        },
+        {
+            "mainKey": 723,
+            "sumCount": 863,
+            "name": "Elixir de Estamina Esmagadora",
+            "grade": 2,
+            "minPrice": 78000
+        },
+        {
+            "mainKey": 724,
+            "sumCount": 988,
+            "name": "Elixir de Operário",
+            "grade": 1,
+            "minPrice": 10300
+        },
+        {
+            "mainKey": 725,
+            "sumCount": 9582,
+            "name": "Elixir de Operário Habilidoso",
+            "grade": 2,
+            "minPrice": 40500
+        },
+        {
+            "mainKey": 726,
+            "sumCount": 12117,
+            "name": "Elixir de Pescador",
+            "grade": 1,
+            "minPrice": 47600
+        },
+        {
+            "mainKey": 727,
+            "sumCount": 34,
+            "name": "Elixir de Pescador Habilidoso",
+            "grade": 2,
+            "minPrice": 18500
+        },
+        {
+            "mainKey": 735,
+            "sumCount": 0,
+            "name": "Perfume de Rapidez",
+            "grade": 3,
+            "minPrice": 10200000
+        },
+        {
+            "mainKey": 736,
+            "sumCount": 4535,
+            "name": "[Grupo] Elixir de Pescador Habilidoso",
+            "grade": 2,
+            "minPrice": 129000
+        },
+        {
+            "mainKey": 749,
+            "sumCount": 3872,
+            "name": "Elixir do Tempo",
+            "grade": 1,
+            "minPrice": 26100
+        },
+        {
+            "mainKey": 750,
+            "sumCount": 4483,
+            "name": "Elixir de Tempo Fluente",
+            "grade": 2,
+            "minPrice": 102000
+        },
+        {
+            "mainKey": 751,
+            "sumCount": 1360,
+            "name": "[Grupo] Elixir de Tempo",
+            "grade": 1,
+            "minPrice": 104000
+        },
+        {
+            "mainKey": 752,
+            "sumCount": 301,
+            "name": "[Grupo] Elixir de Tempo Fluente",
+            "grade": 2,
+            "minPrice": 162000
+        },
+        {
+            "mainKey": 753,
+            "sumCount": 12020,
+            "name": "Elixir de Treinamento",
+            "grade": 1,
+            "minPrice": 30300
+        },
+        {
+            "mainKey": 754,
+            "sumCount": 3459,
+            "name": "Elixir de Treinamento de Especialistas",
+            "grade": 2,
+            "minPrice": 88500
+        },
+        {
+            "mainKey": 755,
+            "sumCount": 0,
+            "name": "[Grupo] Elixir de Treinamento",
+            "grade": 1,
+            "minPrice": 97500
+        },
+        {
+            "mainKey": 756,
+            "sumCount": 0,
+            "name": "[Grupo] Elixir de Treinamento de Especialistas",
+            "grade": 2,
+            "minPrice": 162000
+        },
+        {
+            "mainKey": 767,
+            "sumCount": 46,
+            "name": "[Mistura] Tempo - Elixir de Treinamento",
+            "grade": 2,
+            "minPrice": 545000
+        },
+        {
+            "mainKey": 773,
+            "sumCount": 0,
+            "name": "Elixir de Espírito Weenie",
+            "grade": 1,
+            "minPrice": 22800
+        },
+        {
+            "mainKey": 774,
+            "sumCount": 15,
+            "name": "Elixir de Espírito Weenie Afluente",
+            "grade": 2,
+            "minPrice": 80000
+        },
+        {
+            "mainKey": 775,
+            "sumCount": 3741,
+            "name": "[Grupo] Elixir de Espírito Weenie",
+            "grade": 1,
+            "minPrice": 89000
+        },
+        {
+            "mainKey": 776,
+            "sumCount": 0,
+            "name": "[Grupo] Elixir de Espírito Weenie Afluente",
+            "grade": 2,
+            "minPrice": 176000
+        },
+        {
+            "mainKey": 777,
+            "sumCount": 1357,
+            "name": "Elixir de Espírito Looney",
+            "grade": 1,
+            "minPrice": 52000
+        },
+        {
+            "mainKey": 778,
+            "sumCount": 35,
+            "name": "Elixir de Espírito Looney Poderoso",
+            "grade": 2,
+            "minPrice": 92000
+        },
+        {
+            "mainKey": 779,
+            "sumCount": 0,
+            "name": "[Grupo] Elixir de Espírito Looney",
+            "grade": 1,
+            "minPrice": 71000
+        },
+        {
+            "mainKey": 780,
+            "sumCount": 0,
+            "name": "[Grupo] Elixir de Espírito Weeniee Sólido",
+            "grade": 2,
+            "minPrice": 124000
+        },
+        {
+            "mainKey": 791,
+            "sumCount": 5617,
+            "name": "Elixir da Folha Verde",
+            "grade": 3,
+            "minPrice": 385000
+        },
+        {
+            "mainKey": 796,
+            "sumCount": 127,
+            "name": "Elixir de Avanço",
+            "grade": 3,
+            "minPrice": 4420000
+        },
+        {
+            "mainKey": 797,
+            "sumCount": 463,
+            "name": "Elixir de Avanço Gigantesco",
+            "grade": 3,
+            "minPrice": 9250000
+        },
+        {
+            "mainKey": 1152,
+            "sumCount": 147,
+            "name": "Elixir da Habilidade",
+            "grade": 1,
+            "minPrice": 41400
+        },
+        {
+            "mainKey": 1154,
+            "sumCount": 0,
+            "name": "Elixir da Habilidade Infinita",
+            "grade": 2,
+            "minPrice": 32700
+        },
+        {
+            "mainKey": 1155,
+            "sumCount": 0,
+            "name": "Elixir de Treinamento",
+            "grade": 1,
+            "minPrice": 79000
+        },
+        {
+            "mainKey": 1156,
+            "sumCount": 5038,
+            "name": "Elixir do Trabalho",
+            "grade": 1,
+            "minPrice": 49300
+        },
+        {
+            "mainKey": 1158,
+            "sumCount": 0,
+            "name": "Elixir de Treinamento Aprimorado",
+            "grade": 2,
+            "minPrice": 58500
+        },
+        {
+            "mainKey": 1159,
+            "sumCount": 0,
+            "name": "Elixir do Trabalho Duro",
+            "grade": 2,
+            "minPrice": 20700
+        }
+    ],
+    "resultCode": 0,
+    "resultMsg": ""
+}

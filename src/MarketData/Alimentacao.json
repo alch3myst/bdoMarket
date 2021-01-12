@@ -1,0 +1,118 @@
+{
+    "marketList": [
+        {
+            "mainKey": 54001,
+            "sumCount": 114,
+            "name": "Cenoura",
+            "grade": 0,
+            "minPrice": 365
+        },
+        {
+            "mainKey": 54003,
+            "sumCount": 6254,
+            "name": "Torrão de Açúcar Mascavo",
+            "grade": 0,
+            "minPrice": 3860
+        },
+        {
+            "mainKey": 54004,
+            "sumCount": 43,
+            "name": "Cenoura de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 5100
+        },
+        {
+            "mainKey": 54005,
+            "sumCount": 0,
+            "name": "Cenoura Especial",
+            "grade": 2,
+            "minPrice": 12000
+        },
+        {
+            "mainKey": 54012,
+            "sumCount": 18,
+            "name": "Sarça Desidratada",
+            "grade": 0,
+            "minPrice": 396
+        },
+        {
+            "mainKey": 54016,
+            "sumCount": 0,
+            "name": "Ração Barata",
+            "grade": 0,
+            "minPrice": 560
+        },
+        {
+            "mainKey": 54017,
+            "sumCount": 0,
+            "name": "Ração Boa",
+            "grade": 1,
+            "minPrice": 18000
+        },
+        {
+            "mainKey": 54018,
+            "sumCount": 44103,
+            "name": "Ração Orgânica",
+            "grade": 1,
+            "minPrice": 28900
+        },
+        {
+            "mainKey": 54020,
+            "sumCount": 1070,
+            "name": "Folha de Acácia",
+            "grade": 0,
+            "minPrice": 208
+        },
+        {
+            "mainKey": 54021,
+            "sumCount": 0,
+            "name": "Folha de Acácia de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 5150
+        },
+        {
+            "mainKey": 54022,
+            "sumCount": 0,
+            "name": "Folha de Acácia Especial",
+            "grade": 2,
+            "minPrice": 12000
+        },
+        {
+            "mainKey": 54027,
+            "sumCount": 2939,
+            "name": "Origem do Vento",
+            "grade": 2,
+            "minPrice": 391000
+        },
+        {
+            "mainKey": 54030,
+            "sumCount": 92,
+            "name": "Licor de Mel Doce",
+            "grade": 2,
+            "minPrice": 1620000
+        },
+        {
+            "mainKey": 54032,
+            "sumCount": 82,
+            "name": "Pote de Mel Especial",
+            "grade": 3,
+            "minPrice": 384000
+        },
+        {
+            "mainKey": 59306,
+            "sumCount": 4185,
+            "name": "Ração Balanceada",
+            "grade": 1,
+            "minPrice": 40800
+        },
+        {
+            "mainKey": 59307,
+            "sumCount": 7037,
+            "name": "Ração Bem Nutriente de Brady",
+            "grade": 1,
+            "minPrice": 51000
+        }
+    ],
+    "resultCode": 0,
+    "resultMsg": ""
+}

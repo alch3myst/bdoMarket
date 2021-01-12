@@ -1,0 +1,1490 @@
+{
+    "marketList": [
+        {
+            "mainKey": 6394,
+            "sumCount": 717,
+            "name": "Chowder",
+            "grade": 2,
+            "minPrice": 76000
+        },
+        {
+            "mainKey": 9201,
+            "sumCount": 9641,
+            "name": "Vinho de Fruta",
+            "grade": 1,
+            "minPrice": 1600
+        },
+        {
+            "mainKey": 9202,
+            "sumCount": 42293,
+            "name": "Legumes Em Conserva",
+            "grade": 1,
+            "minPrice": 3860
+        },
+        {
+            "mainKey": 9203,
+            "sumCount": 26667,
+            "name": "Queijo Gratin",
+            "grade": 1,
+            "minPrice": 21600
+        },
+        {
+            "mainKey": 9204,
+            "sumCount": 10,
+            "name": "Iogurte de Aloés",
+            "grade": 1,
+            "minPrice": 8200
+        },
+        {
+            "mainKey": 9205,
+            "sumCount": 986,
+            "name": "Biscoito de Aloés",
+            "grade": 1,
+            "minPrice": 2030
+        },
+        {
+            "mainKey": 9206,
+            "sumCount": 2103,
+            "name": "Vinho de Mel",
+            "grade": 1,
+            "minPrice": 1380
+        },
+        {
+            "mainKey": 9207,
+            "sumCount": 1981,
+            "name": "Chá Sute",
+            "grade": 2,
+            "minPrice": 19400
+        },
+        {
+            "mainKey": 9208,
+            "sumCount": 565,
+            "name": "Salgado de Filé de Peixe",
+            "grade": 1,
+            "minPrice": 1420
+        },
+        {
+            "mainKey": 9209,
+            "sumCount": 899,
+            "name": "Acompanhamentos Variados",
+            "grade": 1,
+            "minPrice": 15100
+        },
+        {
+            "mainKey": 9210,
+            "sumCount": 1341,
+            "name": "Suco de Cenoura de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 895
+        },
+        {
+            "mainKey": 9211,
+            "sumCount": 3917,
+            "name": "Suco de cenoura Especial",
+            "grade": 2,
+            "minPrice": 1090
+        },
+        {
+            "mainKey": 9213,
+            "sumCount": 14142,
+            "name": "Cerveja",
+            "grade": 1,
+            "minPrice": 3260
+        },
+        {
+            "mainKey": 9214,
+            "sumCount": 38359,
+            "name": "Pão de Teff",
+            "grade": 1,
+            "minPrice": 3710
+        },
+        {
+            "mainKey": 9215,
+            "sumCount": 8786,
+            "name": "Ensopado de Cobra Freekeh",
+            "grade": 1,
+            "minPrice": 18300
+        },
+        {
+            "mainKey": 9216,
+            "sumCount": 30756,
+            "name": "Torta de Figo",
+            "grade": 1,
+            "minPrice": 10500
+        },
+        {
+            "mainKey": 9217,
+            "sumCount": 5109,
+            "name": "Arroz Frito com Pistache",
+            "grade": 1,
+            "minPrice": 1420
+        },
+        {
+            "mainKey": 9218,
+            "sumCount": 31670,
+            "name": "Sanduíche Teff",
+            "grade": 2,
+            "minPrice": 25400
+        },
+        {
+            "mainKey": 9219,
+            "sumCount": 40242,
+            "name": "Vinho de Tamareira",
+            "grade": 1,
+            "minPrice": 5750
+        },
+        {
+            "mainKey": 9220,
+            "sumCount": 29617,
+            "name": "Cuscuz",
+            "grade": 2,
+            "minPrice": 22000
+        },
+        {
+            "mainKey": 9241,
+            "sumCount": 34243,
+            "name": "Legumes Fritos",
+            "grade": 1,
+            "minPrice": 7900
+        },
+        {
+            "mainKey": 9255,
+            "sumCount": 152,
+            "name": "Sopa de Grãos",
+            "grade": 1,
+            "minPrice": 422
+        },
+        {
+            "mainKey": 9256,
+            "sumCount": 1158,
+            "name": "Legumes Fritos",
+            "grade": 1,
+            "minPrice": 1750
+        },
+        {
+            "mainKey": 9257,
+            "sumCount": 162,
+            "name": "Suco de Fruta",
+            "grade": 1,
+            "minPrice": 585
+        },
+        {
+            "mainKey": 9258,
+            "sumCount": 7883,
+            "name": "Fruta e Salada de Legumes",
+            "grade": 1,
+            "minPrice": 1420
+        },
+        {
+            "mainKey": 9259,
+            "sumCount": 1183,
+            "name": "Pudim de Fruta",
+            "grade": 1,
+            "minPrice": 4410
+        },
+        {
+            "mainKey": 9260,
+            "sumCount": 18239,
+            "name": "Pão Macio",
+            "grade": 1,
+            "minPrice": 19200
+        },
+        {
+            "mainKey": 9261,
+            "sumCount": 0,
+            "name": "Aveia",
+            "grade": 1,
+            "minPrice": 17500
+        },
+        {
+            "mainKey": 9262,
+            "sumCount": 9561,
+            "name": "Vinho de Ervas Exóticas",
+            "grade": 1,
+            "minPrice": 1270
+        },
+        {
+            "mainKey": 9263,
+            "sumCount": 1256,
+            "name": "Chá com Leite",
+            "grade": 2,
+            "minPrice": 20900
+        },
+        {
+            "mainKey": 9264,
+            "sumCount": 16332,
+            "name": "Torta de Fruta",
+            "grade": 1,
+            "minPrice": 9350
+        },
+        {
+            "mainKey": 9265,
+            "sumCount": 0,
+            "name": "Torta de Carne",
+            "grade": 1,
+            "minPrice": 14400
+        },
+        {
+            "mainKey": 9266,
+            "sumCount": 0,
+            "name": "Biscoito de Colmeia",
+            "grade": 1,
+            "minPrice": 20100
+        },
+        {
+            "mainKey": 9267,
+            "sumCount": 3989,
+            "name": "Sanduíche de Presunto",
+            "grade": 2,
+            "minPrice": 26800
+        },
+        {
+            "mainKey": 9268,
+            "sumCount": 0,
+            "name": "Torta de Queijo",
+            "grade": 1,
+            "minPrice": 14900
+        },
+        {
+            "mainKey": 9269,
+            "sumCount": 4001,
+            "name": "Omelete",
+            "grade": 1,
+            "minPrice": 2220
+        },
+        {
+            "mainKey": 9270,
+            "sumCount": 1345,
+            "name": "Chá com Aroma Fino",
+            "grade": 1,
+            "minPrice": 7400
+        },
+        {
+            "mainKey": 9271,
+            "sumCount": 1737,
+            "name": "Legumes Fritos Crocantes",
+            "grade": 2,
+            "minPrice": 6350
+        },
+        {
+            "mainKey": 9273,
+            "sumCount": 0,
+            "name": "Torta de Queijo de Alta Qualidade",
+            "grade": 2,
+            "minPrice": 19600
+        },
+        {
+            "mainKey": 9274,
+            "sumCount": 2331,
+            "name": "Pudim de Fruta Especial",
+            "grade": 2,
+            "minPrice": 16700
+        },
+        {
+            "mainKey": 9275,
+            "sumCount": 306,
+            "name": "Sopa de Grãos Especial",
+            "grade": 2,
+            "minPrice": 765
+        },
+        {
+            "mainKey": 9276,
+            "sumCount": 0,
+            "name": "Aveia Refinada",
+            "grade": 2,
+            "minPrice": 31500
+        },
+        {
+            "mainKey": 9277,
+            "sumCount": 0,
+            "name": "Chá com Leite Suave",
+            "grade": 3,
+            "minPrice": 49000
+        },
+        {
+            "mainKey": 9278,
+            "sumCount": 10367,
+            "name": "Suco de Fruta Suculento",
+            "grade": 2,
+            "minPrice": 1090
+        },
+        {
+            "mainKey": 9279,
+            "sumCount": 6430,
+            "name": "Vinho de Ervas Exóticas Encorpado",
+            "grade": 2,
+            "minPrice": 2790
+        },
+        {
+            "mainKey": 9280,
+            "sumCount": 330,
+            "name": "Vinho Gostoso de Fruta",
+            "grade": 2,
+            "minPrice": 2800
+        },
+        {
+            "mainKey": 9281,
+            "sumCount": 5818,
+            "name": "Legume em Conserva Doce e Azedo",
+            "grade": 2,
+            "minPrice": 8150
+        },
+        {
+            "mainKey": 9282,
+            "sumCount": 37680,
+            "name": "Queijo Gratin Gostoso",
+            "grade": 2,
+            "minPrice": 54500
+        },
+        {
+            "mainKey": 9283,
+            "sumCount": 14586,
+            "name": "Cerveja Gelada",
+            "grade": 2,
+            "minPrice": 6600
+        },
+        {
+            "mainKey": 9284,
+            "sumCount": 7228,
+            "name": "Legumes Refogados Crocantes",
+            "grade": 2,
+            "minPrice": 12900
+        },
+        {
+            "mainKey": 9285,
+            "sumCount": 0,
+            "name": "Salada de Fruta Fresca e de Legumes",
+            "grade": 2,
+            "minPrice": 2920
+        },
+        {
+            "mainKey": 9286,
+            "sumCount": 0,
+            "name": "Pão de Leite Úmido",
+            "grade": 2,
+            "minPrice": 21300
+        },
+        {
+            "mainKey": 9287,
+            "sumCount": 4732,
+            "name": "Torta da Fruta Doce",
+            "grade": 2,
+            "minPrice": 11000
+        },
+        {
+            "mainKey": 9288,
+            "sumCount": 177,
+            "name": "Torta de Carne Deliciosa",
+            "grade": 2,
+            "minPrice": 10300
+        },
+        {
+            "mainKey": 9289,
+            "sumCount": 0,
+            "name": "Biscoito de Colmeia Crocante",
+            "grade": 2,
+            "minPrice": 36200
+        },
+        {
+            "mainKey": 9290,
+            "sumCount": 5876,
+            "name": "Sanduíche de Presunto Alta Qualidade",
+            "grade": 3,
+            "minPrice": 76000
+        },
+        {
+            "mainKey": 9291,
+            "sumCount": 10267,
+            "name": "Omelet Macio",
+            "grade": 2,
+            "minPrice": 4910
+        },
+        {
+            "mainKey": 9292,
+            "sumCount": 6497,
+            "name": "Chá com Cheiro Forte",
+            "grade": 2,
+            "minPrice": 15000
+        },
+        {
+            "mainKey": 9293,
+            "sumCount": 123,
+            "name": "Iogurte de Aloés Forte",
+            "grade": 2,
+            "minPrice": 16100
+        },
+        {
+            "mainKey": 9294,
+            "sumCount": 520,
+            "name": "Biscoito Doce de Aloés",
+            "grade": 2,
+            "minPrice": 4830
+        },
+        {
+            "mainKey": 9295,
+            "sumCount": 556,
+            "name": "Vinho de Mel Picante",
+            "grade": 2,
+            "minPrice": 1520
+        },
+        {
+            "mainKey": 9296,
+            "sumCount": 0,
+            "name": "Chá Sute Saudável",
+            "grade": 3,
+            "minPrice": 52500
+        },
+        {
+            "mainKey": 9297,
+            "sumCount": 237,
+            "name": "Salgadinho Delicioso de Filé de Peixe",
+            "grade": 2,
+            "minPrice": 5950
+        },
+        {
+            "mainKey": 9298,
+            "sumCount": 6906,
+            "name": "Pratos Abundante de Acompanhamentos",
+            "grade": 2,
+            "minPrice": 53000
+        },
+        {
+            "mainKey": 9299,
+            "sumCount": 10109,
+            "name": "Pão de Teff Esponjoso",
+            "grade": 1,
+            "minPrice": 3910
+        },
+        {
+            "mainKey": 9300,
+            "sumCount": 7628,
+            "name": "Ensopado de Cobra Freekeh Forte",
+            "grade": 1,
+            "minPrice": 20500
+        },
+        {
+            "mainKey": 9301,
+            "sumCount": 26564,
+            "name": "Torta Figo Doce",
+            "grade": 1,
+            "minPrice": 9800
+        },
+        {
+            "mainKey": 9302,
+            "sumCount": 67606,
+            "name": "Arroz Frito com Pistache Gostoso",
+            "grade": 1,
+            "minPrice": 2130
+        },
+        {
+            "mainKey": 9303,
+            "sumCount": 6819,
+            "name": "Sanduíche Teff Apimentado",
+            "grade": 3,
+            "minPrice": 24100
+        },
+        {
+            "mainKey": 9304,
+            "sumCount": 31863,
+            "name": "Vinho de Tamareira Suave",
+            "grade": 1,
+            "minPrice": 5900
+        },
+        {
+            "mainKey": 9305,
+            "sumCount": 7169,
+            "name": "Cuscuz Clássico",
+            "grade": 3,
+            "minPrice": 20200
+        },
+        {
+            "mainKey": 9306,
+            "sumCount": 123933,
+            "name": "Chá de Anise Estrelar",
+            "grade": 0,
+            "minPrice": 945
+        },
+        {
+            "mainKey": 9307,
+            "sumCount": 32664,
+            "name": "Coquetel de Coco",
+            "grade": 1,
+            "minPrice": 4680
+        },
+        {
+            "mainKey": 9308,
+            "sumCount": 2083,
+            "name": "Macarrão de Coco",
+            "grade": 1,
+            "minPrice": 13500
+        },
+        {
+            "mainKey": 9309,
+            "sumCount": 25122,
+            "name": "Peixe Coco Frito",
+            "grade": 1,
+            "minPrice": 15000
+        },
+        {
+            "mainKey": 9310,
+            "sumCount": 8706,
+            "name": "Coquetel de Coco Gelado",
+            "grade": 2,
+            "minPrice": 9900
+        },
+        {
+            "mainKey": 9311,
+            "sumCount": 880,
+            "name": "Macarrão de Coco Delicioso",
+            "grade": 2,
+            "minPrice": 22200
+        },
+        {
+            "mainKey": 9312,
+            "sumCount": 532,
+            "name": "Peixe Coco Frito Crocante",
+            "grade": 2,
+            "minPrice": 13500
+        },
+        {
+            "mainKey": 9313,
+            "sumCount": 4,
+            "name": "Essência do Espírito do Vento",
+            "grade": 1,
+            "minPrice": 33300
+        },
+        {
+            "mainKey": 9314,
+            "sumCount": 724,
+            "name": "Essência do Espírito da Terra",
+            "grade": 1,
+            "minPrice": 58000
+        },
+        {
+            "mainKey": 9315,
+            "sumCount": 143,
+            "name": "Essência do Espírito da Água",
+            "grade": 1,
+            "minPrice": 56000
+        },
+        {
+            "mainKey": 9316,
+            "sumCount": 3732,
+            "name": "Sanduíche de Cogumelo Arco-Íris",
+            "grade": 1,
+            "minPrice": 35000
+        },
+        {
+            "mainKey": 9317,
+            "sumCount": 8317,
+            "name": "Sanduíche de Cogumelo Arco-Íris Doce",
+            "grade": 2,
+            "minPrice": 44300
+        },
+        {
+            "mainKey": 9318,
+            "sumCount": 1603,
+            "name": "Samambaia Frita",
+            "grade": 1,
+            "minPrice": 24500
+        },
+        {
+            "mainKey": 9319,
+            "sumCount": 0,
+            "name": "Samambaia Frita Bem Gostosa",
+            "grade": 2,
+            "minPrice": 38200
+        },
+        {
+            "mainKey": 9321,
+            "sumCount": 1965,
+            "name": "Cenoura Confit",
+            "grade": 3,
+            "minPrice": 49800
+        },
+        {
+            "mainKey": 9323,
+            "sumCount": 0,
+            "name": "Tartar de Delotia",
+            "grade": 1,
+            "minPrice": 5600
+        },
+        {
+            "mainKey": 9324,
+            "sumCount": 0,
+            "name": "Tartar de Delotia de Luxo",
+            "grade": 2,
+            "minPrice": 11000
+        },
+        {
+            "mainKey": 9325,
+            "sumCount": 5092,
+            "name": "Pudim de Delotia",
+            "grade": 2,
+            "minPrice": 32200
+        },
+        {
+            "mainKey": 9326,
+            "sumCount": 0,
+            "name": "Pudim Vermelhor de Delotia",
+            "grade": 3,
+            "minPrice": 48400
+        },
+        {
+            "mainKey": 9327,
+            "sumCount": 0,
+            "name": "Suco de Delotia",
+            "grade": 1,
+            "minPrice": 4830
+        },
+        {
+            "mainKey": 9328,
+            "sumCount": 0,
+            "name": "Suco Refrescante de Delotia",
+            "grade": 2,
+            "minPrice": 6150
+        },
+        {
+            "mainKey": 9329,
+            "sumCount": 1698,
+            "name": "Chá com Leite de Delotia",
+            "grade": 1,
+            "minPrice": 15000
+        },
+        {
+            "mainKey": 9330,
+            "sumCount": 0,
+            "name": "Chá com Leite Aromático de Delotia",
+            "grade": 2,
+            "minPrice": 13900
+        },
+        {
+            "mainKey": 9331,
+            "sumCount": 335,
+            "name": "Refogado de Carne de Ave",
+            "grade": 1,
+            "minPrice": 8750
+        },
+        {
+            "mainKey": 9332,
+            "sumCount": 0,
+            "name": "Refogado de Carne de Ave Gostoso",
+            "grade": 2,
+            "minPrice": 13000
+        },
+        {
+            "mainKey": 9333,
+            "sumCount": 0,
+            "name": "Refogado de Carne e Samambaia",
+            "grade": 2,
+            "minPrice": 25000
+        },
+        {
+            "mainKey": 9334,
+            "sumCount": 0,
+            "name": "Refogado de Carne e Samambaia Leve",
+            "grade": 3,
+            "minPrice": 36500
+        },
+        {
+            "mainKey": 9335,
+            "sumCount": 4937,
+            "name": "Salada de Peito de Frango",
+            "grade": 1,
+            "minPrice": 9100
+        },
+        {
+            "mainKey": 9336,
+            "sumCount": 1721,
+            "name": "Salada de Peito de Frango Fresco",
+            "grade": 2,
+            "minPrice": 9750
+        },
+        {
+            "mainKey": 9337,
+            "sumCount": 0,
+            "name": "Sanduíche Frank",
+            "grade": 2,
+            "minPrice": 5750
+        },
+        {
+            "mainKey": 9338,
+            "sumCount": 0,
+            "name": "Sanduíche Frank de Alta Qualidade",
+            "grade": 3,
+            "minPrice": 10300
+        },
+        {
+            "mainKey": 9401,
+            "sumCount": 0,
+            "name": "Bife",
+            "grade": 1,
+            "minPrice": 17200
+        },
+        {
+            "mainKey": 9402,
+            "sumCount": 136,
+            "name": "Ovos de Pássaros Cozidos",
+            "grade": 1,
+            "minPrice": 1900
+        },
+        {
+            "mainKey": 9403,
+            "sumCount": 3291,
+            "name": "Pássaro Frito",
+            "grade": 1,
+            "minPrice": 7750
+        },
+        {
+            "mainKey": 9404,
+            "sumCount": 0,
+            "name": "Croquete de Carne",
+            "grade": 1,
+            "minPrice": 30700
+        },
+        {
+            "mainKey": 9405,
+            "sumCount": 20998,
+            "name": "Pássaro Cozido",
+            "grade": 1,
+            "minPrice": 1990
+        },
+        {
+            "mainKey": 9406,
+            "sumCount": 12875,
+            "name": "Kebab Lagarto",
+            "grade": 1,
+            "minPrice": 28200
+        },
+        {
+            "mainKey": 9407,
+            "sumCount": 2842,
+            "name": "Peixe Frito",
+            "grade": 1,
+            "minPrice": 481
+        },
+        {
+            "mainKey": 9408,
+            "sumCount": 10,
+            "name": "Borscht",
+            "grade": 1,
+            "minPrice": 15300
+        },
+        {
+            "mainKey": 9409,
+            "sumCount": 12,
+            "name": "Peixe Cozido",
+            "grade": 1,
+            "minPrice": 915
+        },
+        {
+            "mainKey": 9410,
+            "sumCount": 57,
+            "name": "Bolinho do Deserto",
+            "grade": 1,
+            "minPrice": 4790
+        },
+        {
+            "mainKey": 9411,
+            "sumCount": 2387,
+            "name": "Frutos do Mar Cozidos",
+            "grade": 1,
+            "minPrice": 3470
+        },
+        {
+            "mainKey": 9412,
+            "sumCount": 0,
+            "name": "Peixe em Conserva",
+            "grade": 1,
+            "minPrice": 860
+        },
+        {
+            "mainKey": 9413,
+            "sumCount": 7987,
+            "name": "Macarrão com Frutos do Mar",
+            "grade": 1,
+            "minPrice": 3010
+        },
+        {
+            "mainKey": 9414,
+            "sumCount": 827,
+            "name": "Ensopado de Carne",
+            "grade": 1,
+            "minPrice": 11400
+        },
+        {
+            "mainKey": 9415,
+            "sumCount": 4809,
+            "name": "Sanduíche de Carne",
+            "grade": 1,
+            "minPrice": 27900
+        },
+        {
+            "mainKey": 9416,
+            "sumCount": 0,
+            "name": "Pasta de Carne",
+            "grade": 1,
+            "minPrice": 21200
+        },
+        {
+            "mainKey": 9417,
+            "sumCount": 9501,
+            "name": "Filé de Peixe Defumado",
+            "grade": 1,
+            "minPrice": 5700
+        },
+        {
+            "mainKey": 9418,
+            "sumCount": 241,
+            "name": "Sopa de Peixe",
+            "grade": 1,
+            "minPrice": 1820
+        },
+        {
+            "mainKey": 9419,
+            "sumCount": 3567,
+            "name": "Salada de Frutos do Mar e Cogumelo",
+            "grade": 1,
+            "minPrice": 1250
+        },
+        {
+            "mainKey": 9420,
+            "sumCount": 33,
+            "name": "Frutos do Mar Frito",
+            "grade": 1,
+            "minPrice": 4230
+        },
+        {
+            "mainKey": 9421,
+            "sumCount": 5243,
+            "name": "Marisco Grelhado com Manteiga",
+            "grade": 1,
+            "minPrice": 1830
+        },
+        {
+            "mainKey": 9422,
+            "sumCount": 9058,
+            "name": "Pudim Escuro",
+            "grade": 2,
+            "minPrice": 35600
+        },
+        {
+            "mainKey": 9423,
+            "sumCount": 9356,
+            "name": "Salada da Filet de Peixe",
+            "grade": 1,
+            "minPrice": 10900
+        },
+        {
+            "mainKey": 9424,
+            "sumCount": 29,
+            "name": "Sopa de Carne",
+            "grade": 1,
+            "minPrice": 15100
+        },
+        {
+            "mainKey": 9425,
+            "sumCount": 0,
+            "name": "Salada de Carne Magra",
+            "grade": 1,
+            "minPrice": 18800
+        },
+        {
+            "mainKey": 9426,
+            "sumCount": 5000,
+            "name": "Carne Frita",
+            "grade": 1,
+            "minPrice": 23500
+        },
+        {
+            "mainKey": 9427,
+            "sumCount": 0,
+            "name": "Salsicha Grelhada",
+            "grade": 1,
+            "minPrice": 18300
+        },
+        {
+            "mainKey": 9428,
+            "sumCount": 159,
+            "name": "Sopa de Peixe Especial",
+            "grade": 2,
+            "minPrice": 1310
+        },
+        {
+            "mainKey": 9429,
+            "sumCount": 33897,
+            "name": "Peixe Frito Crocante",
+            "grade": 2,
+            "minPrice": 800
+        },
+        {
+            "mainKey": 9430,
+            "sumCount": 184,
+            "name": "O Bife Suculento",
+            "grade": 2,
+            "minPrice": 30900
+        },
+        {
+            "mainKey": 9431,
+            "sumCount": 27591,
+            "name": "Linguiça Defumada",
+            "grade": 2,
+            "minPrice": 29700
+        },
+        {
+            "mainKey": 9432,
+            "sumCount": 0,
+            "name": "Carne Frita Especial",
+            "grade": 2,
+            "minPrice": 46200
+        },
+        {
+            "mainKey": 9433,
+            "sumCount": 1021,
+            "name": "Frutos do Mar Grelhado com Manteiga Gostoso",
+            "grade": 2,
+            "minPrice": 6700
+        },
+        {
+            "mainKey": 9434,
+            "sumCount": 7,
+            "name": "Sopa de Carne Especial",
+            "grade": 2,
+            "minPrice": 32900
+        },
+        {
+            "mainKey": 9435,
+            "sumCount": 0,
+            "name": "Salada de Carne de Qualidade Superior",
+            "grade": 2,
+            "minPrice": 33900
+        },
+        {
+            "mainKey": 9436,
+            "sumCount": 14572,
+            "name": "Ovo de Pássaro Cozido Atraente",
+            "grade": 2,
+            "minPrice": 5400
+        },
+        {
+            "mainKey": 9437,
+            "sumCount": 3316,
+            "name": "Pássaro Recém-Frito",
+            "grade": 2,
+            "minPrice": 11100
+        },
+        {
+            "mainKey": 9438,
+            "sumCount": 62092,
+            "name": "Carne de Croquete Crocante",
+            "grade": 2,
+            "minPrice": 53000
+        },
+        {
+            "mainKey": 9439,
+            "sumCount": 672,
+            "name": "Peixe Cozido Delicioso",
+            "grade": 2,
+            "minPrice": 2630
+        },
+        {
+            "mainKey": 9440,
+            "sumCount": 11,
+            "name": "Frutos do Mar Cozidos Abundantes",
+            "grade": 2,
+            "minPrice": 9250
+        },
+        {
+            "mainKey": 9441,
+            "sumCount": 22610,
+            "name": "Pasta de Marisco de Alta Qualidade",
+            "grade": 2,
+            "minPrice": 5650
+        },
+        {
+            "mainKey": 9442,
+            "sumCount": 379,
+            "name": "Ensopado de Carne Forte",
+            "grade": 2,
+            "minPrice": 12800
+        },
+        {
+            "mainKey": 9443,
+            "sumCount": 12,
+            "name": "Sanduiche de Carne de Alta Qualidade",
+            "grade": 2,
+            "minPrice": 62000
+        },
+        {
+            "mainKey": 9444,
+            "sumCount": 1,
+            "name": "Pasta de Carne Limpa",
+            "grade": 2,
+            "minPrice": 38200
+        },
+        {
+            "mainKey": 9445,
+            "sumCount": 56121,
+            "name": "Bife de Peixe Dourado Defumado",
+            "grade": 2,
+            "minPrice": 8500
+        },
+        {
+            "mainKey": 9446,
+            "sumCount": 1579,
+            "name": "Salada de Cogumelos e Frutos do Mar Especial",
+            "grade": 2,
+            "minPrice": 1490
+        },
+        {
+            "mainKey": 9447,
+            "sumCount": 306,
+            "name": "Frutos do Mar Frito Especial",
+            "grade": 2,
+            "minPrice": 10800
+        },
+        {
+            "mainKey": 9448,
+            "sumCount": 4113,
+            "name": "Pudim Escuro Sangrento",
+            "grade": 3,
+            "minPrice": 64000
+        },
+        {
+            "mainKey": 9449,
+            "sumCount": 3446,
+            "name": "Salada de Filet de Peixes Fresco",
+            "grade": 2,
+            "minPrice": 12500
+        },
+        {
+            "mainKey": 9450,
+            "sumCount": 6446,
+            "name": "Pássaro Cozido Em Conserva",
+            "grade": 2,
+            "minPrice": 3980
+        },
+        {
+            "mainKey": 9451,
+            "sumCount": 1707,
+            "name": "Kabob de Lagarto Delicioso",
+            "grade": 2,
+            "minPrice": 58500
+        },
+        {
+            "mainKey": 9452,
+            "sumCount": 0,
+            "name": "Borscht Perfumado",
+            "grade": 2,
+            "minPrice": 29700
+        },
+        {
+            "mainKey": 9453,
+            "sumCount": 75,
+            "name": "Bolinho Deserto Gostoso",
+            "grade": 2,
+            "minPrice": 15000
+        },
+        {
+            "mainKey": 9454,
+            "sumCount": 630,
+            "name": "Peixe em Conserva Azedo",
+            "grade": 2,
+            "minPrice": 2010
+        },
+        {
+            "mainKey": 9455,
+            "sumCount": 4183,
+            "name": "Carne de Baleia Cozido",
+            "grade": 1,
+            "minPrice": 48100
+        },
+        {
+            "mainKey": 9456,
+            "sumCount": 30762,
+            "name": "Salada de Carne de Baleia",
+            "grade": 1,
+            "minPrice": 53500
+        },
+        {
+            "mainKey": 9457,
+            "sumCount": 73,
+            "name": "Carne de Baleia Cozida Gostosa",
+            "grade": 2,
+            "minPrice": 200000
+        },
+        {
+            "mainKey": 9458,
+            "sumCount": 0,
+            "name": "Salada de Carne de Baleia Fresca",
+            "grade": 2,
+            "minPrice": 1600000
+        },
+        {
+            "mainKey": 9459,
+            "sumCount": 251,
+            "name": "Salada de Caçador",
+            "grade": 2,
+            "minPrice": 25000
+        },
+        {
+            "mainKey": 9460,
+            "sumCount": 0,
+            "name": "Salada de Caçador Fresca",
+            "grade": 2,
+            "minPrice": 48000
+        },
+        {
+            "mainKey": 9461,
+            "sumCount": 0,
+            "name": "Escorpião Grelhado",
+            "grade": 2,
+            "minPrice": 27000
+        },
+        {
+            "mainKey": 9462,
+            "sumCount": 16668,
+            "name": "Escorpião Frico Crocante",
+            "grade": 3,
+            "minPrice": 34600
+        },
+        {
+            "mainKey": 9463,
+            "sumCount": 30316,
+            "name": "Hamburguer do Rei da Selva",
+            "grade": 2,
+            "minPrice": 38400
+        },
+        {
+            "mainKey": 9464,
+            "sumCount": 6414,
+            "name": "Hamburguer Grande do Rei da Selva",
+            "grade": 3,
+            "minPrice": 60000
+        },
+        {
+            "mainKey": 9469,
+            "sumCount": 1816,
+            "name": "Vinho Fermentado de Khalk",
+            "grade": 3,
+            "minPrice": 123000
+        },
+        {
+            "mainKey": 9470,
+            "sumCount": 3,
+            "name": "Vinho Fermentado Forte de Khalk",
+            "grade": 4,
+            "minPrice": 379000
+        },
+        {
+            "mainKey": 9471,
+            "sumCount": 11,
+            "name": "Salada de Camarão Jumbo",
+            "grade": 1,
+            "minPrice": 8800
+        },
+        {
+            "mainKey": 9472,
+            "sumCount": 3164,
+            "name": "Salada de Camarão Jumbo Agridoce",
+            "grade": 2,
+            "minPrice": 23100
+        },
+        {
+            "mainKey": 9473,
+            "sumCount": 4962,
+            "name": "Camarão Jumbo Cozido a Vapor",
+            "grade": 1,
+            "minPrice": 11100
+        },
+        {
+            "mainKey": 9474,
+            "sumCount": 2837,
+            "name": "Camarão Jumbo Cozido a Vapor Abundante",
+            "grade": 2,
+            "minPrice": 17100
+        },
+        {
+            "mainKey": 9475,
+            "sumCount": 9165,
+            "name": "Panqueca de Ostra",
+            "grade": 1,
+            "minPrice": 29400
+        },
+        {
+            "mainKey": 9476,
+            "sumCount": 1402,
+            "name": "Panqueca de Ostra Cheirosa",
+            "grade": 2,
+            "minPrice": 55500
+        },
+        {
+            "mainKey": 9477,
+            "sumCount": 47,
+            "name": "Lagosta Assada em Manteiga",
+            "grade": 1,
+            "minPrice": 56000
+        },
+        {
+            "mainKey": 9478,
+            "sumCount": 227,
+            "name": "Lagosta Assada em Manteiga Amarelada",
+            "grade": 2,
+            "minPrice": 100000
+        },
+        {
+            "mainKey": 9479,
+            "sumCount": 45,
+            "name": "Molusco Cozido",
+            "grade": 1,
+            "minPrice": 61000
+        },
+        {
+            "mainKey": 9480,
+            "sumCount": 0,
+            "name": "Molusco Cozido Enorme",
+            "grade": 2,
+            "minPrice": 112000
+        },
+        {
+            "mainKey": 9483,
+            "sumCount": 0,
+            "name": "Grelhado de Cogumelo Arco-Íris com Queijo",
+            "grade": 1,
+            "minPrice": 27000
+        },
+        {
+            "mainKey": 9484,
+            "sumCount": 4932,
+            "name": "Grelhado de Cogumelo Arco-Íris com Queijo Doce",
+            "grade": 2,
+            "minPrice": 40100
+        },
+        {
+            "mainKey": 9486,
+            "sumCount": 0,
+            "name": "Holmick",
+            "grade": 1,
+            "minPrice": 27200
+        },
+        {
+            "mainKey": 9487,
+            "sumCount": 0,
+            "name": "Holmick de Caldo Grosso",
+            "grade": 2,
+            "minPrice": 35500
+        },
+        {
+            "mainKey": 9488,
+            "sumCount": 162,
+            "name": "Churrasco de Marmota",
+            "grade": 1,
+            "minPrice": 4570
+        },
+        {
+            "mainKey": 9489,
+            "sumCount": 4,
+            "name": "Churrasco de Marmota ao Ponto",
+            "grade": 2,
+            "minPrice": 10800
+        },
+        {
+            "mainKey": 9490,
+            "sumCount": 17,
+            "name": "Espetinho de Queijo de Lhama",
+            "grade": 1,
+            "minPrice": 18900
+        },
+        {
+            "mainKey": 9491,
+            "sumCount": 0,
+            "name": "Espetinho de Queijo de Lhama Apimentado",
+            "grade": 2,
+            "minPrice": 38500
+        },
+        {
+            "mainKey": 9492,
+            "sumCount": 17981,
+            "name": "Carne de Pássaro Grelhada",
+            "grade": 1,
+            "minPrice": 1450
+        },
+        {
+            "mainKey": 9493,
+            "sumCount": 6289,
+            "name": "Carne de Pássaro Bem Grelhada ",
+            "grade": 2,
+            "minPrice": 1780
+        },
+        {
+            "mainKey": 9494,
+            "sumCount": 36787,
+            "name": "Sopa de Frango com Grãos",
+            "grade": 1,
+            "minPrice": 460
+        },
+        {
+            "mainKey": 9495,
+            "sumCount": 3415,
+            "name": "Sopa de Frango com Grãos Engrossada",
+            "grade": 2,
+            "minPrice": 900
+        },
+        {
+            "mainKey": 9496,
+            "sumCount": 0,
+            "name": "Bife Saboroso",
+            "grade": 2,
+            "minPrice": 30700
+        },
+        {
+            "mainKey": 9601,
+            "sumCount": 47832,
+            "name": "Refeição Balenos",
+            "grade": 3,
+            "minPrice": 19100
+        },
+        {
+            "mainKey": 9602,
+            "sumCount": 9074,
+            "name": "Balenos Refeição Especial",
+            "grade": 4,
+            "minPrice": 58500
+        },
+        {
+            "mainKey": 9603,
+            "sumCount": 161,
+            "name": "Refeição Serendia",
+            "grade": 3,
+            "minPrice": 22900
+        },
+        {
+            "mainKey": 9604,
+            "sumCount": 1824,
+            "name": "Refeição Serendia Especial",
+            "grade": 4,
+            "minPrice": 63000
+        },
+        {
+            "mainKey": 9605,
+            "sumCount": 93,
+            "name": "Refeição Especial Calpheon",
+            "grade": 3,
+            "minPrice": 23700
+        },
+        {
+            "mainKey": 9606,
+            "sumCount": 38,
+            "name": "Refeição Calpheon Especial",
+            "grade": 4,
+            "minPrice": 76500
+        },
+        {
+            "mainKey": 9607,
+            "sumCount": 44418,
+            "name": "Refeição Mediah",
+            "grade": 3,
+            "minPrice": 36700
+        },
+        {
+            "mainKey": 9608,
+            "sumCount": 7215,
+            "name": "Mediah Refeição Especial",
+            "grade": 4,
+            "minPrice": 91000
+        },
+        {
+            "mainKey": 9609,
+            "sumCount": 78906,
+            "name": "Refeição Valência",
+            "grade": 3,
+            "minPrice": 25400
+        },
+        {
+            "mainKey": 9610,
+            "sumCount": 63739,
+            "name": "Valência Refeição Especial",
+            "grade": 4,
+            "minPrice": 77000
+        },
+        {
+            "mainKey": 9631,
+            "sumCount": 1087,
+            "name": "Ração de Combate do Cavaleiro",
+            "grade": 3,
+            "minPrice": 30600
+        },
+        {
+            "mainKey": 9632,
+            "sumCount": 11039,
+            "name": "Refeição Especial de Arehaza",
+            "grade": 3,
+            "minPrice": 19000
+        },
+        {
+            "mainKey": 9634,
+            "sumCount": 2576,
+            "name": "Prato Especial de Frutos do Mar de Margória",
+            "grade": 3,
+            "minPrice": 44400
+        },
+        {
+            "mainKey": 9635,
+            "sumCount": 5597,
+            "name": "Refeição de Kamasylvia",
+            "grade": 3,
+            "minPrice": 20300
+        },
+        {
+            "mainKey": 9636,
+            "sumCount": 5279,
+            "name": "Refeição Especial de Kamasylvia",
+            "grade": 4,
+            "minPrice": 62500
+        },
+        {
+            "mainKey": 9637,
+            "sumCount": 246,
+            "name": "Refeição Especial de Drieghan",
+            "grade": 3,
+            "minPrice": 29900
+        },
+        {
+            "mainKey": 9638,
+            "sumCount": 1075,
+            "name": "Refeição Tradicional de Odillita",
+            "grade": 3,
+            "minPrice": 33700
+        },
+        {
+            "mainKey": 9639,
+            "sumCount": 4450,
+            "name": "Refeição Tradicional Especial de Odillita",
+            "grade": 4,
+            "minPrice": 99000
+        },
+        {
+            "mainKey": 9691,
+            "sumCount": 2691,
+            "name": "Refeição de Frutos do Mar de Cron",
+            "grade": 4,
+            "minPrice": 230000
+        },
+        {
+            "mainKey": 9692,
+            "sumCount": 6119,
+            "name": "Refeição Simples de Cron",
+            "grade": 4,
+            "minPrice": 369000
+        },
+        {
+            "mainKey": 9693,
+            "sumCount": 4536,
+            "name": "Refeição de Iguarias de Cron",
+            "grade": 4,
+            "minPrice": 310000
+        }
+    ],
+    "resultCode": 0,
+    "resultMsg": ""
+}

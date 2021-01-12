@@ -1,0 +1,188 @@
+{
+    "marketList": [
+        {
+            "mainKey": 6201,
+            "sumCount": 0,
+            "name": "Sangue de Cervo",
+            "grade": 0,
+            "minPrice": 10800
+        },
+        {
+            "mainKey": 6202,
+            "sumCount": 0,
+            "name": "Sangue de Ovelha",
+            "grade": 0,
+            "minPrice": 9900
+        },
+        {
+            "mainKey": 6203,
+            "sumCount": 0,
+            "name": "Sangue de Raposa",
+            "grade": 0,
+            "minPrice": 7550
+        },
+        {
+            "mainKey": 6204,
+            "sumCount": 5706,
+            "name": "Sangue de Rinoceronte",
+            "grade": 0,
+            "minPrice": 4890
+        },
+        {
+            "mainKey": 6205,
+            "sumCount": 0,
+            "name": "Sangue de Porco",
+            "grade": 0,
+            "minPrice": 8950
+        },
+        {
+            "mainKey": 6206,
+            "sumCount": 0,
+            "name": "Sangue de Boi",
+            "grade": 0,
+            "minPrice": 8500
+        },
+        {
+            "mainKey": 6208,
+            "sumCount": 18630,
+            "name": "Sangue de Lagarto",
+            "grade": 0,
+            "minPrice": 11300
+        },
+        {
+            "mainKey": 6209,
+            "sumCount": 1341,
+            "name": "Sangue de Minhoca",
+            "grade": 0,
+            "minPrice": 9500
+        },
+        {
+            "mainKey": 6210,
+            "sumCount": 0,
+            "name": "Sangue de Guaxinim",
+            "grade": 0,
+            "minPrice": 9450
+        },
+        {
+            "mainKey": 6212,
+            "sumCount": 1910,
+            "name": "Sangue de Doninha",
+            "grade": 0,
+            "minPrice": 12500
+        },
+        {
+            "mainKey": 6213,
+            "sumCount": 0,
+            "name": "Sangue de Urso",
+            "grade": 0,
+            "minPrice": 10400
+        },
+        {
+            "mainKey": 6214,
+            "sumCount": 47475,
+            "name": "Sangue de Lobo",
+            "grade": 0,
+            "minPrice": 8100
+        },
+        {
+            "mainKey": 6215,
+            "sumCount": 478,
+            "name": "Sangue de Waragon",
+            "grade": 0,
+            "minPrice": 10200
+        },
+        {
+            "mainKey": 6216,
+            "sumCount": 265,
+            "name": "Sangue de Dragão Guepardo",
+            "grade": 0,
+            "minPrice": 5600
+        },
+        {
+            "mainKey": 6217,
+            "sumCount": 0,
+            "name": "Sangue de Pássaro Kuku",
+            "grade": 0,
+            "minPrice": 10100
+        },
+        {
+            "mainKey": 6218,
+            "sumCount": 109,
+            "name": "Sangue de Flamingo",
+            "grade": 0,
+            "minPrice": 8500
+        },
+        {
+            "mainKey": 6219,
+            "sumCount": 1459,
+            "name": "Sangue de Morcego",
+            "grade": 0,
+            "minPrice": 11300
+        },
+        {
+            "mainKey": 6220,
+            "sumCount": 14292,
+            "name": "Sangue de Troll",
+            "grade": 0,
+            "minPrice": 12900
+        },
+        {
+            "mainKey": 6221,
+            "sumCount": 53,
+            "name": "Sangue de Ogro",
+            "grade": 0,
+            "minPrice": 10200
+        },
+        {
+            "mainKey": 6222,
+            "sumCount": 3868,
+            "name": "Sangue de Cobra",
+            "grade": 0,
+            "minPrice": 9500
+        },
+        {
+            "mainKey": 6223,
+            "sumCount": 3391,
+            "name": "Sangue de Leão",
+            "grade": 0,
+            "minPrice": 3660
+        },
+        {
+            "mainKey": 6224,
+            "sumCount": 0,
+            "name": "Sangue de Escorpião",
+            "grade": 0,
+            "minPrice": 2920
+        },
+        {
+            "mainKey": 6225,
+            "sumCount": 0,
+            "name": "Sangue de Iaque",
+            "grade": 0,
+            "minPrice": 9400
+        },
+        {
+            "mainKey": 6226,
+            "sumCount": 0,
+            "name": "Sangue de Marmota",
+            "grade": 0,
+            "minPrice": 4830
+        },
+        {
+            "mainKey": 6227,
+            "sumCount": 19,
+            "name": "Sangue de Lhama",
+            "grade": 0,
+            "minPrice": 10400
+        },
+        {
+            "mainKey": 6228,
+            "sumCount": 0,
+            "name": "Sangue de Cabra",
+            "grade": 0,
+            "minPrice": 8900
+        }
+    ],
+    "resultCode": 0,
+    "resultMsg": ""
+}

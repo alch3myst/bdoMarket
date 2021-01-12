@@ -1,0 +1,42 @@
+@import "../components/variables"
+
+input
+    color: black
+
+.alchemy-list
+    display: grid
+    grid-template-columns: 1fr 1fr 1fr
+    padding: 10px 10%
+    grid-gap: 5px
+    & *
+        color: $themecolor
+    & ul
+        display: flex
+        flex-direction: column
+        justify-content: stretch
+        background: #fefefe
+        background: linear-gradient(0deg, #ece4d7 24%, #ffffff 76%)
+        text-align: center
+        padding: 5px 0
+        border-radius: 3px
+        & li:nth-child(1)
+            margin-bottom: 5px
+
+.recipe-li
+    padding: 5px 0
+    background-color: #ece4d7
+
+.proffit
+    background-color: #6e5343
+
+.loss
+    background-color: #1c1e23
+
+.proffit, .loss
+    color: $primaryTextColor
+    padding: 5px 0
+    & *
+        color: $primaryTextColor
+
+.m5-tb
+    margin: 5px 0

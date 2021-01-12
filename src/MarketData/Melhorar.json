@@ -1,0 +1,69 @@
+{
+    "marketList": [
+        {
+            "mainKey": 4906,
+            "sumCount": 227,
+            "name": "Pedra de Atualização de Arma Nível 1",
+            "grade": 1,
+            "minPrice": 449000
+        },
+        {
+            "mainKey": 4907,
+            "sumCount": 169,
+            "name": "Pedra de Atualização de Armadura Nível 1",
+            "grade": 1,
+            "minPrice": 450000
+        },
+        {
+            "mainKey": 4908,
+            "sumCount": 112,
+            "name": "Pedra de Atualização de Arma Nível 2",
+            "grade": 2,
+            "minPrice": 457000
+        },
+        {
+            "mainKey": 4909,
+            "sumCount": 586,
+            "name": "Pedra de Atualização de Armadura Nível 2",
+            "grade": 2,
+            "minPrice": 610000
+        },
+        {
+            "mainKey": 4910,
+            "sumCount": 403,
+            "name": "Pedra de Atualização de Arma Nível 3",
+            "grade": 3,
+            "minPrice": 474000
+        },
+        {
+            "mainKey": 4911,
+            "sumCount": 47,
+            "name": "Pedra de Atualização de Armadura Nível 3",
+            "grade": 3,
+            "minPrice": 705000
+        },
+        {
+            "mainKey": 4912,
+            "sumCount": 2346,
+            "name": "Pedra de Aprimoramento de Arma Definitiva",
+            "grade": 4,
+            "minPrice": 5300000
+        },
+        {
+            "mainKey": 4913,
+            "sumCount": 4,
+            "name": "Pedra de Aprimoramento de Armadura Definitiva",
+            "grade": 4,
+            "minPrice": 7300000
+        },
+        {
+            "mainKey": 9771,
+            "sumCount": 3,
+            "name": "Coração Reverso do Garmoth",
+            "grade": 4,
+            "minPrice": 7550000000
+        }
+    ],
+    "resultCode": 0,
+    "resultMsg": ""
+}

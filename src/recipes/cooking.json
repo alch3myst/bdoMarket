@@ -1,0 +1,1470 @@
+{
+  "allrecipes": [
+    {
+      "name": "Acompanhamentos Variados",
+      "recipe": [
+        { "name": "Pássaro Frito", "qtd": 1 },
+        { "name": "Lagostim Desidratado", "qtd": 4 },
+        { "name": "Queijo", "qtd": 3 },
+        { "name": "Morango", "qtd": 5 }
+      ],
+      "result": [
+        { "commum": "Acompanhamentos Variados" },
+        { "rare": "Pratos Abundante de Acompanhamentos" }
+      ]
+    },
+    {
+      "name": "Arroz Frito com Pistache",
+      "recipe": [
+        { "name": "Pistache", "qtd": 4 },
+        { "name": "Teff", "qtd": 6 },
+        { "name": "Canela", "qtd": 2 },
+        { "name": "Sal", "qtd": 2 }
+      ],
+      "result": [
+        { "commum": "Arroz Frito com Pistache" },
+        { "rare": "Arroz Frito com Pistache Gostoso" }
+      ]
+    },
+    {
+      "name": "Aveia",
+      "recipe": [
+        { "name": "Farinha de Trigo", "qtd": 9 },
+        { "name": "Leite", "qtd": 3 },
+        { "name": "Cebola", "qtd": 3 },
+        { "name": "Mel de Cozinha", "qtd": 2 }
+      ],
+      "result": [{ "commum": "Aveia" }, { "rare": "Aveia Refinada" }]
+    },
+    {
+      "name": "Bife",
+      "recipe": [
+        { "name": "Carne de Porco", "qtd": 8 },
+        { "name": "Sal", "qtd": 2 },
+        { "name": "Alho", "qtd": 2 },
+        { "name": "Molho Vermelho", "qtd": 2 }
+      ],
+      "result": [{ "commum": "Bife" }, { "rare": "O Bife Suculento" }]
+    },
+    {
+      "name": "Bife Saboroso",
+      "recipe": [
+        { "name": "Carne de Leão", "qtd": 4 },
+        { "name": "Figo", "qtd": 5 },
+        { "name": "Vinho para Cozinha", "qtd": 2 },
+        { "name": "Pimenta do Reino", "qtd": 3 }
+      ],
+      "result": [{ "commum": "Bife Saboroso" }, { "rare": "None" }]
+    },
+    {
+      "name": "Biscoito de Aloés",
+      "recipe": [
+        { "name": "Aloés", "qtd": 5 },
+        { "name": "Massa de Trigo", "qtd": 7 },
+        { "name": "Mel de Cozinha", "qtd": 3 },
+        { "name": "Açúcar", "qtd": 4 }
+      ],
+      "result": [
+        { "commum": "Biscoito de Aloés" },
+        { "rare": "Biscoito Doce de Aloés" }
+      ]
+    },
+    {
+      "name": "Biscoito de Colmeia",
+      "recipe": [
+        { "name": "Massa de Trigo", "qtd": 4 },
+        { "name": "Mel de Cozinha", "qtd": 6 },
+        { "name": "Ovo", "qtd": 2 },
+        { "name": "Leite", "qtd": 4 }
+      ],
+      "result": [
+        { "commum": "Biscoito de Colmeia" },
+        { "rare": "Biscoito de Colmeia Crocante" }
+      ]
+    },
+    {
+      "name": "Bolinho do Deserto",
+      "recipe": [
+        { "name": "Carne de Waragon", "qtd": 6 },
+        { "name": "Massa de Trigo", "qtd": 6 },
+        { "name": "Canela", "qtd": 1 },
+        { "name": "Azeite de Oliva", "qtd": 2 }
+      ],
+      "result": [
+        { "commum": "Bolinho do Deserto" },
+        { "rare": "Bolinho Deserto Gostoso" }
+      ]
+    },
+    {
+      "name": "Borscht",
+      "recipe": [
+        { "name": "Carne-Seca Perfumada", "qtd": 7 },
+        { "name": "Leite", "qtd": 3 },
+        { "name": "Canela", "qtd": 1 },
+        { "name": "Água Mineral", "qtd": 2 }
+      ],
+      "result": [{ "commum": "Borscht" }, { "rare": "Borscht Perfumado" }]
+    },
+    {
+      "name": "Camarão Jumbo Cozido a Vapor",
+      "recipe": [
+        { "name": "Camarão", "qtd": 4 },
+        { "name": "Pimentão", "qtd": 3 },
+        { "name": "Pimenta", "qtd": 2 },
+        { "name": "Vinho para Cozinha", "qtd": 3 },
+        { "name": "Água Mineral", "qtd": 4 }
+      ],
+      "result": [
+        { "commum": "Camarão Jumbo Cozido a Vapor" },
+        { "rare": "Camarão Jumbo Cozido a Vapor Abundante" }
+      ]
+    },
+    {
+      "name": "Carne de Baleia Cozido",
+      "recipe": [
+        { "name": "Carne de Baleia Rei", "qtd": 1 },
+        { "name": "Vinho de Mel", "qtd": 1 },
+        { "name": "Alho", "qtd": 4 },
+        { "name": "Sal", "qtd": 2 },
+        { "name": "Água Mineral", "qtd": 6 }
+      ],
+      "result": [
+        { "commum": "Carne de Baleia Cozido" },
+        { "rare": "Carne de Baleia Cozida Gostosa" }
+      ]
+    },
+    {
+      "name": "Carne de Pássaro Grelhada",
+      "recipe": [
+        { "name": "Frango", "qtd": 2 },
+        { "name": "Óleo para Fritura", "qtd": 6 },
+        { "name": "Sal", "qtd": 1 },
+        { "name": "Vinho para Cozinha", "qtd": 2 }
+      ],
+      "result": [
+        { "commum": "Carne de Pássaro Grelhada" },
+        { "rare": "Carne de Pássaro Bem Grelhada " }
+      ]
+    },
+    {
+      "name": "Carne Frita",
+      "recipe": [
+        { "name": "Carne de Porco", "qtd": 7 },
+        { "name": "Molho Veid", "qtd": 2 },
+        { "name": "Cebola", "qtd": 2 },
+        { "name": "Pimenta", "qtd": 3 }
+      ],
+      "result": [
+        { "commum": "Carne Frita" },
+        { "rare": "Carne Frita Especial" }
+      ]
+    },
+    {
+      "name": "Cenoura Confit",
+      "canProc": "false",
+      "recipe": [
+        { "name": "Cenoura Especial", "qtd": 2 },
+        { "name": "Água Purificada", "qtd": 3 },
+        { "name": "Torrão de Açúcar Mascavo", "qtd": 3 },
+        { "name": "Sal", "qtd": 2 },
+        { "name": "Canela", "qtd": 4 }
+      ],
+      "result": [{ "commum": "Cenoura Confit" }, { "rare": "None" }]
+    },
+    {
+      "name": "Cerveja",
+      "recipe": [
+        { "name": "Batata", "qtd": 5 },
+        { "name": "Água Mineral", "qtd": 6 },
+        { "name": "Açúcar", "qtd": 1 },
+        { "name": "Fermento", "qtd": 2 }
+      ],
+      "result": [{ "commum": "Cerveja" }, { "rare": "Cerveja Gelada" }]
+    },
+    {
+      "name": "Chowder",
+      "recipe": [
+        { "name": "Marisco de Pérola Desidratado", "qtd": 1 },
+        { "name": "Pimenta do Reino", "qtd": 2 },
+        { "name": "Carne de Porco", "qtd": 2 },
+        { "name": "Leite", "qtd": 1 },
+        { "name": "Pão de Teff", "qtd": 1 }
+      ],
+      "result": [{ "commum": "Chowder" }, { "rare": "None" }]
+    },
+    {
+      "name": "Churrasco de Marmota",
+      "recipe": [
+        { "name": "Carne de Marmota", "qtd": 5 },
+        { "name": "Pimenta", "qtd": 3 },
+        { "name": "Sal", "qtd": 2 },
+        { "name": "Molho Vermelho", "qtd": 1 },
+        { "name": "Vinho para Cozinha", "qtd": 3 }
+      ],
+      "result": [
+        { "commum": "Churrasco de Marmota" },
+        { "rare": "Churrasco de Marmota ao Ponto" }
+      ]
+    },
+    {
+      "name": "Chá com Aroma Fino",
+      "recipe": [
+        { "name": "Girassol", "qtd": 4 },
+        { "name": "Morango", "qtd": 4 },
+        { "name": "Água Mineral", "qtd": 7 },
+        { "name": "Mel de Cozinha", "qtd": 3 }
+      ],
+      "result": [
+        { "commum": "Chá com Aroma Fino" },
+        { "rare": "Chá com Cheiro Forte" }
+      ]
+    },
+    {
+      "name": "Chá com Leite",
+      "recipe": [
+        { "name": "Chá com Aroma Fino", "qtd": 2 },
+        { "name": "Farinha de Trigo", "qtd": 2 },
+        { "name": "Leite", "qtd": 3 },
+        { "name": "Mel de Cozinha", "qtd": 3 }
+      ],
+      "result": [
+        { "commum": "Chá com Leite" },
+        { "rare": "Chá com Leite Suave" }
+      ]
+    },
+    {
+      "name": "Chá com Leite de Delotia",
+      "recipe": [
+        { "name": "Delotia", "qtd": 4 },
+        { "name": "Leite", "qtd": 3 },
+        { "name": "Mel de Cozinha", "qtd": 3 },
+        { "name": "Água Purificada", "qtd": 3 }
+      ],
+      "result": [
+        { "commum": "Chá com Leite de Delotia" },
+        { "rare": "Chá com Leite Aromático de Delotia" }
+      ]
+    },
+    {
+      "name": "Chá Sute",
+      "recipe": [
+        { "name": "Chá com Aroma Fino", "qtd": 2 },
+        { "name": "Manteiga", "qtd": 2 },
+        { "name": "Leite", "qtd": 3 },
+        { "name": "Sal", "qtd": 1 }
+      ],
+      "result": [{ "commum": "Chá Sute" }, { "rare": "Chá Sute Saudável" }]
+    },
+    {
+      "name": "Coquetel de Coco",
+      "recipe": [
+        { "name": "Coco", "qtd": 2 },
+        { "name": "Vinho de Ervas Exóticas", "qtd": 1 },
+        { "name": "Essência do Liquor", "qtd": 2 },
+        { "name": "Morango", "qtd": 1 },
+        { "name": "Água Mineral", "qtd": 5 }
+      ],
+      "result": [
+        { "commum": "Coquetel de Coco" },
+        { "rare": "Coquetel de Coco" }
+      ]
+    },
+    {
+      "name": "Croquete de Carne",
+      "recipe": [
+        { "name": "Carne de Porco", "qtd": 8 },
+        { "name": "Farinha de Trigo", "qtd": 5 },
+        { "name": "Queijo", "qtd": 2 },
+        { "name": "Ovo", "qtd": 2 },
+        { "name": "Óleo para Fritura", "qtd": 4 }
+      ],
+      "result": [
+        { "commum": "Croquete de Carne" },
+        { "rare": "Carne de Croquete Crocante" }
+      ]
+    },
+    {
+      "name": "Cuscuz",
+      "recipe": [
+        { "name": "Ensopado de Cobra Freekeh", "qtd": 1 },
+        { "name": "Massa de Teff", "qtd": 6 },
+        { "name": "Noz-Moscada", "qtd": 3 },
+        { "name": "Repolho", "qtd": 4 }
+      ],
+      "result": [{ "commum": "Cuscuz" }, { "rare": "Cuscuz Clássico" }]
+    },
+    {
+      "name": "Ensopado de Carne",
+      "recipe": [
+        { "name": "Carne de Porco", "qtd": 5 },
+        { "name": "Farinha de Trigo", "qtd": 2 },
+        { "name": "Vinho para Cozinha", "qtd": 2 },
+        { "name": "Água Mineral", "qtd": 3 }
+      ],
+      "result": [
+        { "commum": "Ensopado de Carne" },
+        { "rare": "Ensopado de Carne Forte" }
+      ]
+    },
+    {
+      "name": "Ensopado de Cobra Freekeh",
+      "recipe": [
+        { "name": "Água Mineral", "qtd": 5 },
+        { "name": "Freekeh", "qtd": 6 },
+        { "name": "Carne de Cobra", "qtd": 3 },
+        { "name": "Anise Estrelar", "qtd": 2 }
+      ],
+      "result": [
+        { "commum": "Ensopado de Cobra Freekeh" },
+        { "rare": "Ensopado de Cobra Freekeh Forte" }
+      ]
+    },
+    {
+      "name": "Escorpião Grelhado",
+      "recipe": [
+        { "name": "Carne de Escorpião", "qtd": 3 },
+        { "name": "Manteiga", "qtd": 2 },
+        { "name": "Noz-Moscada", "qtd": 3 },
+        { "name": "Pimenta", "qtd": 3 }
+      ],
+      "result": [
+        { "commum": "Escorpião Grelhado" },
+        { "rare": "Escorpião Frico Crocante" }
+      ]
+    },
+    {
+      "name": "Espetinho de Queijo de Lhama",
+      "recipe": [
+        { "name": "Carne de Lhama", "qtd": 5 },
+        { "name": "Queijo", "qtd": 4 },
+        { "name": "Pimenta", "qtd": 3 },
+        { "name": "Pimenta do Reino", "qtd": 1 },
+        { "name": "Molho Branco", "qtd": 1 }
+      ],
+      "result": [
+        { "commum": "Espetinho de Queijo de Lhama" },
+        { "rare": "Espetinho de Queijo de Lhama Apimentado" }
+      ]
+    },
+    {
+      "name": "Essência do Liquor",
+      "recipe": [
+        { "name": "Farinha de Trigo", "qtd": 1 },
+        { "name": "Morango", "qtd": 1 },
+        { "name": "Fermento", "qtd": 1 }
+      ],
+      "result": [{ "commum": "Essência do Liquor" }, { "rare": "None" }]
+    },
+    {
+      "name": "Filé de Peixe Defumado",
+      "recipe": [
+        { "name": "Gobião Desidratado", "qtd": 2 },
+        { "name": "Azeite de Oliva", "qtd": 1 },
+        { "name": "Sal", "qtd": 2 }
+      ],
+      "result": [
+        { "commum": "Filé de Peixe Defumado" },
+        { "rare": "Bife de Peixe Dourado Defumado" }
+      ]
+    },
+    {
+      "name": "Fruta e Salada de Legumes",
+      "recipe": [
+        { "name": "Morango", "qtd": 4 },
+        { "name": "Pimentão", "qtd": 4 },
+        { "name": "Vinagre", "qtd": 1 },
+        { "name": "Vinho para Cozinha", "qtd": 2 }
+      ],
+      "result": [
+        { "commum": "Fruta e Salada de Legumes" },
+        { "rare": "Salada de Fruta Fresca e de Legumes" }
+      ]
+    },
+    {
+      "name": "Frutos do Mar Cozidos",
+      "recipe": [
+        { "name": "Lagostim Desidratado", "qtd": 2 },
+        { "name": "Pimenta", "qtd": 3 },
+        { "name": "Água Mineral", "qtd": 6 },
+        { "name": "Sal", "qtd": 2 }
+      ],
+      "result": [
+        { "commum": "Frutos do Mar Cozidos" },
+        { "rare": "Frutos do Mar Cozidos Abundantes" }
+      ]
+    },
+    {
+      "name": "Frutos do Mar Frito",
+      "recipe": [
+        { "name": "Lagostim Desidratado", "qtd": 1 },
+        { "name": "Pimentão", "qtd": 4 },
+        { "name": "Molho Branco", "qtd": 2 },
+        { "name": "Pimenta", "qtd": 2 }
+      ],
+      "result": [
+        { "commum": "Frutos do Mar Frito" },
+        { "rare": "Frutos do Mar Frito Especial" }
+      ]
+    },
+    {
+      "name": "Grelhado de Cogumelo Arco-Íris com Queijo",
+      "recipe": [
+        { "name": "Cogumelo Arco-Íris", "qtd": 1 },
+        { "name": "Carne de Porco", "qtd": 2 },
+        { "name": "Queijo", "qtd": 2 },
+        { "name": "Sal", "qtd": 3 },
+        { "name": "Azeite de Oliva", "qtd": 4 }
+      ],
+      "result": [
+        { "commum": "Grelhado de Cogumelo Arco-Íris com Queijo" },
+        { "rare": "Grelhado de Cogumelo Arco-Íris com Queijo Doce" }
+      ]
+    },
+    {
+      "name": "Hamburguer do Rei da Selva",
+      "recipe": [
+        { "name": "Carne de Leão", "qtd": 4 },
+        { "name": "Pão de Teff", "qtd": 4 },
+        { "name": "Legumes Em Conserva", "qtd": 2 },
+        { "name": "Noz-Moscada", "qtd": 3 }
+      ],
+      "result": [
+        { "commum": "Hamburguer do Rei da Selva" },
+        { "rare": "Hamburguer Grande do Rei da Selva" }
+      ]
+    },
+    {
+      "name": "Holmick",
+      "recipe": [
+        { "name": "Carne de Iaque", "qtd": 5 },
+        { "name": "Batata", "qtd": 2 },
+        { "name": "Alho", "qtd": 5 },
+        { "name": "Sal", "qtd": 2 },
+        { "name": "Leite", "qtd": 1 }
+      ],
+      "result": [{ "commum": "Holmick" }, { "rare": "Holmick de Caldo Grosso" }]
+    },
+    {
+      "name": "Iogurte de Aloés",
+      "recipe": [
+        { "name": "Aloés", "qtd": 5 },
+        { "name": "Leite", "qtd": 2 },
+        { "name": "Açúcar", "qtd": 3 },
+        { "name": "Fermento", "qtd": 3 }
+      ],
+      "result": [
+        { "commum": "Iogurte de Aloés" },
+        { "rare": "Iogurte de Aloés Forte" }
+      ]
+    },
+    {
+      "name": "Kebab Lagarto",
+      "recipe": [
+        { "name": "Carne de Waragon", "qtd": 6 },
+        { "name": "Molho Vermelho", "qtd": 2 },
+        { "name": "Cebola", "qtd": 3 },
+        { "name": "Batata", "qtd": 7 }
+      ],
+      "result": [
+        { "commum": "Kebab Lagarto" },
+        { "rare": "Kabob de Lagarto Delicioso" }
+      ]
+    },
+    {
+      "name": "Lagosta Assada em Manteiga",
+      "recipe": [
+        { "name": "Lagosta Desidratada", "qtd": 2 },
+        { "name": "Manteiga", "qtd": 4 },
+        { "name": "Sal", "qtd": 5 },
+        { "name": "Azeite de Oliva", "qtd": 5 },
+        { "name": "Alho", "qtd": 3 }
+      ],
+      "result": [
+        { "commum": "Lagosta Assada em Manteiga" },
+        { "rare": "Lagosta Assada em Manteiga Amarelada" }
+      ]
+    },
+    {
+      "name": "Legumes Em Conserva",
+      "recipe": [
+        { "name": "Pimentão", "qtd": 8 },
+        { "name": "Vinagre", "qtd": 4 },
+        { "name": "Fermento", "qtd": 2 },
+        { "name": "Açúcar", "qtd": 2 }
+      ],
+      "result": [
+        { "commum": "Legumes Em Conserva" },
+        { "rare": "Legume em Conserva Doce e Azedo" }
+      ]
+    },
+    {
+      "name": "Legumes Fritos",
+      "recipe": [
+        { "name": "Pimentão", "qtd": 5 },
+        { "name": "Pimenta", "qtd": 2 },
+        { "name": "Azeite de Oliva", "qtd": 2 },
+        { "name": "Sal", "qtd": 1 }
+      ],
+      "result": [
+        { "commum": "Legumes Fritos" },
+        { "rare": "Legumes Refogados Crocantes" }
+      ]
+    },
+    {
+      "name": "Macarrão com Frutos do Mar",
+      "recipe": [
+        { "name": "Lagostim Desidratado", "qtd": 1 },
+        { "name": "Massa de Trigo", "qtd": 5 },
+        { "name": "Vinho para Cozinha", "qtd": 3 },
+        { "name": "Alho", "qtd": 3 }
+      ],
+      "result": [
+        { "commum": "Macarrão com Frutos do Mar" },
+        { "rare": "Pasta de Marisco de Alta Qualidade" }
+      ]
+    },
+    {
+      "name": "Macarrão de Coco",
+      "recipe": [
+        { "name": "Coco", "qtd": 2 },
+        { "name": "Cebola", "qtd": 2 },
+        { "name": "Massa de Trigo", "qtd": 5 },
+        { "name": "Alho", "qtd": 4 },
+        { "name": "Molho Branco", "qtd": 1 }
+      ],
+      "result": [
+        { "commum": "Macarrão de Coco" },
+        { "rare": "Macarrão de Coco Delicioso" }
+      ]
+    },
+    {
+      "name": "Marisco Grelhado com Manteiga",
+      "recipe": [
+        { "name": "Lagostim Desidratado", "qtd": 1 },
+        { "name": "Manteiga", "qtd": 3 },
+        { "name": "Sal", "qtd": 2 },
+        { "name": "Azeite de Oliva", "qtd": 1 }
+      ],
+      "result": [
+        { "commum": "Marisco Grelhado com Manteiga" },
+        { "rare": "Frutos do Mar Grelhado com Manteiga Gostoso" }
+      ]
+    },
+    {
+      "name": "Molho Branco",
+      "recipe": [
+        { "name": "Molho Veid", "qtd": 1 },
+        { "name": "Leite", "qtd": 1 },
+        { "name": "Morango", "qtd": 1 },
+        { "name": "Vinho para Cozinha", "qtd": 2 }
+      ],
+      "result": [{ "commum": "Molho Branco" }, { "rare": "None" }]
+    },
+    {
+      "name": "Molho Vermelho",
+      "recipe": [
+        { "name": "Molho Veid", "qtd": 1 },
+        { "name": "Açúcar", "qtd": 2 },
+        { "name": "Carne de Porco", "qtd": 1 },
+        { "name": "Água Mineral", "qtd": 2 }
+      ],
+      "result": [{ "commum": "Molho Vermelho" }, { "rare": "None" }]
+    },
+    {
+      "name": "Molusco Cozido",
+      "recipe": [
+        { "name": "Marisco de Pérola Desidratado", "qtd": 2 },
+        { "name": "Essência do Liquor", "qtd": 3 },
+        { "name": "Alho", "qtd": 4 },
+        { "name": "Pimenta", "qtd": 2 },
+        { "name": "Azeite de Oliva", "qtd": 5 }
+      ],
+      "result": [
+        { "commum": "Molusco Cozido" },
+        { "rare": "Molusco Cozido Enorme" }
+      ]
+    },
+    {
+      "name": "Omelete",
+      "recipe": [
+        { "name": "Batata", "qtd": 5 },
+        { "name": "Azeite de Oliva", "qtd": 2 },
+        { "name": "Ovo", "qtd": 5 },
+        { "name": "Sal", "qtd": 2 }
+      ],
+      "result": [{ "commum": "Omelete" }, { "rare": "Omelet Macio" }]
+    },
+    {
+      "name": "Ovos de Pássaros Cozidos",
+      "recipe": [
+        { "name": "Ovo", "qtd": 3 },
+        { "name": "Água Mineral", "qtd": 6 },
+        { "name": "Vinho para Cozinha", "qtd": 1 },
+        { "name": "Sal", "qtd": 1 }
+      ],
+      "result": [
+        { "commum": "Ovos de Pássaros Cozidos" },
+        { "rare": "Ovo de Pássaro Cozido Atraente" }
+      ]
+    },
+    {
+      "name": "Panqueca de Ostra",
+      "recipe": [
+        { "name": "Ostra", "qtd": 3 },
+        { "name": "Ovo", "qtd": 2 },
+        { "name": "Farinha de Trigo", "qtd": 5 },
+        { "name": "Vinagre", "qtd": 2 },
+        { "name": "Azeite de Oliva", "qtd": 3 }
+      ],
+      "result": [
+        { "commum": "Panqueca de Ostra" },
+        { "rare": "Panqueca de Ostra Cheirosa" }
+      ]
+    },
+    {
+      "name": "Pasta de Carne",
+      "recipe": [
+        { "name": "Carne de Porco", "qtd": 5 },
+        { "name": "Massa de Trigo", "qtd": 4 },
+        { "name": "Pimenta do Reino", "qtd": 3 },
+        { "name": "Alho", "qtd": 2 }
+      ],
+      "result": [
+        { "commum": "Pasta de Carne" },
+        { "rare": "Pasta de Carne Limpa" }
+      ]
+    },
+    {
+      "name": "Peixe Coco Frito",
+      "recipe": [
+        { "name": "Coco", "qtd": 3 },
+        { "name": "Gobião Desidratado", "qtd": 1 },
+        { "name": "Ovo", "qtd": 2 },
+        { "name": "Massa de Trigo", "qtd": 3 },
+        { "name": "Óleo para Fritura", "qtd": 4 }
+      ],
+      "result": [
+        { "commum": "Peixe Coco Frito" },
+        { "rare": "Peixe Coco Frito Crocante" }
+      ]
+    },
+    {
+      "name": "Peixe Cozido",
+      "recipe": [
+        { "name": "Gobião Desidratado", "qtd": 2 },
+        { "name": "Alho", "qtd": 2 },
+        { "name": "Sal", "qtd": 2 },
+        { "name": "Água Mineral", "qtd": 3 }
+      ],
+      "result": [
+        { "commum": "Peixe Cozido" },
+        { "rare": "Peixe Cozido Delicioso" }
+      ]
+    },
+    {
+      "name": "Peixe em Conserva",
+      "recipe": [
+        { "name": "Gobião Desidratado", "qtd": 1 },
+        { "name": "Vinagre", "qtd": 2 },
+        { "name": "Sal", "qtd": 4 },
+        { "name": "Fermento", "qtd": 2 }
+      ],
+      "result": [
+        { "commum": "Peixe em Conserva" },
+        { "rare": "Peixe em Conserva Azedo" }
+      ]
+    },
+    {
+      "name": "Peixe Frito",
+      "recipe": [
+        { "name": "Gobião Desidratado", "qtd": 1 },
+        { "name": "Farinha de Trigo", "qtd": 3 },
+        { "name": "Óleo para Fritura", "qtd": 2 }
+      ],
+      "result": [
+        { "commum": "Peixe Frito" },
+        { "rare": "Peixe Frito Crocante" }
+      ]
+    },
+    {
+      "name": "Perna de Gárgula Cozida",
+      "recipe": [
+        { "name": "Carne da Perna de Gárgula", "qtd": 1 },
+        { "name": "Vinho de Ervas Exóticas", "qtd": 2 },
+        { "name": "Cebola", "qtd": 3 },
+        { "name": "Alho", "qtd": 3 },
+        { "name": "Vinagre", "qtd": 2 }
+      ],
+      "result": [
+        { "commum": "Perna de Gárgula Cozida" },
+        { "rare": "Perna de Gárgula Cozida Macia" }
+      ]
+    },
+    {
+      "name": "Perna Traseira Frita de Gazela",
+      "recipe": [
+        { "name": "Carne de Perna Traseira de Gazela", "qtd": 1 },
+        { "name": "Alho", "qtd": 3 },
+        { "name": "Azeite de Oliva", "qtd": 5 },
+        { "name": "Repolho", "qtd": 3 },
+        { "name": "Sal", "qtd": 5 }
+      ],
+      "result": [
+        { "commum": "Perna Traseira Frita de Gazela" },
+        { "rare": "Perna Traseira Frita de Gazela Deliciosa" }
+      ]
+    },
+    {
+      "name": "Prato Especial de Frutos do Mar de Margória",
+      "recipe": [
+        { "name": "Salada de Camarão Jumbo", "qtd": 1 },
+        { "name": "Camarão Jumbo Cozido a Vapor", "qtd": 1 },
+        { "name": "Panqueca de Ostra", "qtd": 1 },
+        { "name": "Lagosta Assada em Manteiga", "qtd": 1 },
+        { "name": "Vinho de Fruta", "qtd": 2 }
+      ],
+      "result": [
+        { "commum": "Prato Especial de Frutos do Mar de Margória" },
+        { "rare": "" }
+      ]
+    },
+    {
+      "name": "Pudim de Delotia",
+      "recipe": [
+        { "name": "Delotia", "qtd": 5 },
+        { "name": "Sangue de Lobo", "qtd": 7 },
+        { "name": "Vinho de Mel", "qtd": 2 },
+        { "name": "Aveia", "qtd": 1 },
+        { "name": "Água Purificada", "qtd": 3 }
+      ],
+      "result": [
+        { "commum": "Pudim de Delotia" },
+        { "rare": "Pudim Vermelhor de Delotia" }
+      ]
+    },
+    {
+      "name": "Pudim de Fruta",
+      "recipe": [
+        { "name": "Morango", "qtd": 5 },
+        { "name": "Creme", "qtd": 1 },
+        { "name": "Leite", "qtd": 3 },
+        { "name": "Açúcar", "qtd": 2 }
+      ],
+      "result": [
+        { "commum": "Pudim de Fruta" },
+        { "rare": "Pudim de Fruta Especial" }
+      ]
+    },
+    {
+      "name": "Pudim Escuro",
+      "recipe": [
+        { "name": "Frango", "qtd": 5 },
+        { "name": "Aveia", "qtd": 1 },
+        { "name": "Sangue de Porco", "qtd": 7 },
+        { "name": "Legumes Em Conserva", "qtd": 1 }
+      ],
+      "result": [
+        { "commum": "Pudim Escuro" },
+        { "rare": "Pudim Escuro Sangrento" }
+      ]
+    },
+    {
+      "name": "Pássaro Cozido",
+      "recipe": [
+        { "name": "Frango", "qtd": 5 },
+        { "name": "Pimentão", "qtd": 3 },
+        { "name": "Vinagre", "qtd": 2 },
+        { "name": "Essência do Liquor", "qtd": 2 },
+        { "name": "Sal", "qtd": 2 }
+      ],
+      "result": [
+        { "commum": "Pássaro Cozido" },
+        { "rare": "Pássaro Cozido Em Conserva" }
+      ]
+    },
+    {
+      "name": "Pássaro Frito",
+      "recipe": [
+        { "name": "Frango", "qtd": 7 },
+        { "name": "Farinha de Trigo", "qtd": 4 },
+        { "name": "Ovo", "qtd": 2 },
+        { "name": "Pimenta do Reino", "qtd": 3 }
+      ],
+      "result": [
+        { "commum": "Pássaro Frito" },
+        { "rare": "Pássaro Recém-Frito" }
+      ]
+    },
+    {
+      "name": "Pão de Teff",
+      "recipe": [
+        { "name": "Farinha de Teff", "qtd": 5 },
+        { "name": "Água Mineral", "qtd": 3 },
+        { "name": "Sal", "qtd": 2 },
+        { "name": "Fermento", "qtd": 2 }
+      ],
+      "result": [
+        { "commum": "Pão de Teff" },
+        { "rare": "Pão de Teff Esponjoso" }
+      ]
+    },
+    {
+      "name": "Pão Macio",
+      "recipe": [
+        { "name": "Massa de Trigo", "qtd": 6 },
+        { "name": "Fermento", "qtd": 2 },
+        { "name": "Ovo", "qtd": 2 },
+        { "name": "Leite", "qtd": 3 }
+      ],
+      "result": [{ "commum": "Pão Macio" }, { "rare": "Pão de Leite Úmido" }]
+    },
+    {
+      "name": "Queijo Gratin",
+      "recipe": [
+        { "name": "Salsicha Grelhada", "qtd": 1 },
+        { "name": "Massa de Trigo", "qtd": 5 },
+        { "name": "Pimentão", "qtd": 4 },
+        { "name": "Queijo", "qtd": 3 },
+        { "name": "Molho Vermelho", "qtd": 3 }
+      ],
+      "result": [
+        { "commum": "Queijo Gratin" },
+        { "rare": "Queijo Gratin Gostoso" }
+      ]
+    },
+    {
+      "name": "Ração Boa",
+      "recipe": [
+        { "name": "Carne de Porco", "qtd": 6 },
+        { "name": "Gobião Desidratado", "qtd": 1 },
+        { "name": "Água Mineral", "qtd": 3 },
+        { "name": "Farinha de Trigo", "qtd": 4 }
+      ],
+      "result": [{ "commum": "Ração Boa" }, { "rare": "None" }]
+    },
+    {
+      "name": "Ração de Combate do Cavaleiro",
+      "recipe": [
+        { "name": "Pudim Escuro", "qtd": 1 },
+        { "name": "Sanduíche de Presunto", "qtd": 1 },
+        { "name": "Croquete de Carne", "qtd": 1 },
+        { "name": "Vinho de Fruta", "qtd": 1 }
+      ],
+      "result": [
+        { "commum": "Ração de Combate do Cavaleiro" },
+        { "rare": "None" }
+      ]
+    },
+    {
+      "name": "Ração Orgânica",
+      "recipe": [
+        { "name": "Aveia", "qtd": 2 },
+        { "name": "Carne de Porco", "qtd": 5 },
+        { "name": "Frango", "qtd": 4 },
+        { "name": "Peixe Saury Desidratado", "qtd": 2 }
+      ],
+      "result": [{ "commum": "Ração Orgânica" }, { "rare": "None" }]
+    },
+    {
+      "name": "Refeição Balenos",
+      "recipe": [
+        { "name": "Queijo Gratin", "qtd": 1 },
+        { "name": "Croquete de Carne", "qtd": 1 },
+        { "name": "Filé de Peixe Defumado", "qtd": 1 },
+        { "name": "Legumes Fritos", "qtd": 2 },
+        { "name": "Cerveja", "qtd": 2 }
+      ],
+      "result": [
+        { "commum": "Refeição Balenos" },
+        { "rare": "Balenos Refeição Especial" }
+      ]
+    },
+    {
+      "name": "Refeição de Kamasylvia",
+      "recipe": [
+        { "name": "Sanduíche de Cogumelo Arco-Íris", "qtd": 1 },
+        { "name": "Macarrão de Coco", "qtd": 1 },
+        { "name": "Torta de Figo", "qtd": 1 },
+        { "name": "Vinho de Fruta", "qtd": 2 },
+        { "name": "Grelhado de Cogumelo Arco-Íris com Queijo", "qtd": 1 }
+      ],
+      "result": [
+        { "commum": "Refeição de Kamasylvia" },
+        { "rare": "Refeição Especial de Kamasylvia" }
+      ]
+    },
+    {
+      "name": "Refeição Especial Calpheon",
+      "recipe": [
+        { "name": "Pão Macio", "qtd": 2 },
+        { "name": "Chá com Leite", "qtd": 1 },
+        { "name": "Salada da Filet de Peixe", "qtd": 1 },
+        { "name": "Torta de Queijo", "qtd": 1 },
+        { "name": "Pasta de Carne", "qtd": 1 }
+      ],
+      "result": [
+        { "commum": "Refeição Especial Calpheon" },
+        { "rare": "Refeição Calpheon Especial" }
+      ]
+    },
+    {
+      "name": "Refeição Especial de Arehaza",
+      "recipe": [
+        { "name": "Coquetel de Coco", "qtd": 2 },
+        { "name": "Macarrão de Coco", "qtd": 1 },
+        { "name": "Peixe Coco Frito", "qtd": 1 },
+        { "name": "Ensopado de Carne", "qtd": 1 },
+        { "name": "Bife", "qtd": 1 }
+      ],
+      "result": [
+        { "commum": "Refeição Especial de Arehaza" },
+        { "rare": "None" }
+      ]
+    },
+    {
+      "name": "Refeição Especial de Drieghan",
+      "recipe": [
+        { "name": "Espetinho de Queijo de Lhama", "qtd": 1 },
+        { "name": "Samambaia Frita", "qtd": 1 },
+        { "name": "Churrasco de Marmota", "qtd": 1 },
+        { "name": "Holmick", "qtd": 1 },
+        { "name": "Vinho de Mel", "qtd": 2 }
+      ],
+      "result": [
+        { "commum": "Refeição Especial de Drieghan" },
+        { "rare": "None" }
+      ]
+    },
+    {
+      "name": "Refeição Mediah",
+      "recipe": [
+        { "name": "Pudim Escuro", "qtd": 1 },
+        { "name": "Aveia", "qtd": 1 },
+        { "name": "Salsicha Grelhada", "qtd": 2 },
+        { "name": "Salada de Carne Magra", "qtd": 1 },
+        { "name": "Vinho de Ervas Exóticas", "qtd": 2 }
+      ],
+      "result": [
+        { "commum": "Refeição Mediah" },
+        { "rare": "Mediah Refeição Especial" }
+      ]
+    },
+    {
+      "name": "Refeição Serendia",
+      "recipe": [
+        { "name": "Sanduíche de Presunto", "qtd": 1 },
+        { "name": "Torta de Carne", "qtd": 1 },
+        { "name": "Biscoito de Colmeia", "qtd": 1 },
+        { "name": "Ovos de Pássaros Cozidos", "qtd": 2 },
+        { "name": "Vinho de Fruta", "qtd": 2 }
+      ],
+      "result": [
+        { "commum": "Refeição Serendia" },
+        { "rare": "Refeição Serendia Especial" }
+      ]
+    },
+    {
+      "name": "Refeição Tradicional de Odillita",
+      "recipe": [
+        { "name": "Pudim Vermelhor de Delotia", "qtd": 1 },
+        { "name": "Refogado de Carne e Samambaia", "qtd": 1 },
+        { "name": "Suco de Delotia", "qtd": 2 },
+        { "name": "Salada de Peito de Frango", "qtd": 2 },
+        { "name": "Refogado de Carne de Ave", "qtd": 2 }
+      ],
+      "result": [
+        { "commum": "Refeição Tradicional de Odillita" },
+        { "rare": "Refeição Tradicional Especial de Odillita" }
+      ]
+    },
+    {
+      "name": "Refeição Valência",
+      "recipe": [
+        { "name": "Sanduíche Teff", "qtd": 1 },
+        { "name": "Hamburguer do Rei da Selva", "qtd": 1 },
+        { "name": "Cuscuz", "qtd": 1 },
+        { "name": "Torta de Figo", "qtd": 2 },
+        { "name": "Vinho de Tamareira", "qtd": 2 }
+      ],
+      "result": [
+        { "commum": "Refeição Valência" },
+        { "rare": "Valência Refeição Especial" }
+      ]
+    },
+    {
+      "name": "Refogado de Carne de Ave",
+      "recipe": [
+        { "name": "Frango", "qtd": 5 },
+        { "name": "Trigo", "qtd": 5 },
+        { "name": "Cebola", "qtd": 3 },
+        { "name": "Óleo para Fritura", "qtd": 2 }
+      ],
+      "result": [
+        { "commum": "Refogado de Carne de Ave" },
+        { "rare": "Refogado de Carne de Ave Gostoso" }
+      ]
+    },
+    {
+      "name": "Refogado de Carne e Samambaia",
+      "recipe": [
+        { "name": "Samambaia", "qtd": 3 },
+        { "name": "Carne de Porco", "qtd": 6 },
+        { "name": "Alho", "qtd": 3 },
+        { "name": "Azeite de Oliva", "qtd": 2 },
+        { "name": "Água Mineral", "qtd": 5 }
+      ],
+      "result": [
+        { "commum": "Refogado de Carne e Samambaia" },
+        { "rare": "Refogado de Carne e Samambaia Leve" }
+      ]
+    },
+    {
+      "name": "Salada da Filet de Peixe",
+      "recipe": [
+        { "name": "Gobião Desidratado", "qtd": 1 },
+        { "name": "Tempero", "qtd": 2 },
+        { "name": "Cebola", "qtd": 3 },
+        { "name": "Queijo", "qtd": 2 }
+      ],
+      "result": [
+        { "commum": "Salada da Filet de Peixe" },
+        { "rare": "Salada de Filet de Peixes Fresco" }
+      ]
+    },
+    {
+      "name": "Salada de Camarão Jumbo",
+      "recipe": [
+        { "name": "Camarão", "qtd": 2 },
+        { "name": "Azeite de Oliva", "qtd": 3 },
+        { "name": "Sal", "qtd": 2 },
+        { "name": "Ovo", "qtd": 3 },
+        { "name": "Fruta e Salada de Legumes", "qtd": 2 }
+      ],
+      "result": [
+        { "commum": "Salada de Camarão Jumbo" },
+        { "rare": "Salada de Camarão Jumbo Agridoce" }
+      ]
+    },
+    {
+      "name": "Salada de Carne de Baleia",
+      "recipe": [
+        { "name": "Carne de Baleia Rei", "qtd": 1 },
+        { "name": "Pimentão", "qtd": 6 },
+        { "name": "Tempero", "qtd": 2 },
+        { "name": "Ovo", "qtd": 3 },
+        { "name": "Pimenta do Reino", "qtd": 4 }
+      ],
+      "result": [
+        { "commum": "Salada de Carne de Baleia" },
+        { "rare": "Salada de Carne de Baleia Fresca" }
+      ]
+    },
+    {
+      "name": "Salada de Carne Magra",
+      "recipe": [
+        { "name": "Carne de Porco", "qtd": 8 },
+        { "name": "Vinagre", "qtd": 2 },
+        { "name": "Pimenta do Reino", "qtd": 3 },
+        { "name": "Tempero", "qtd": 4 }
+      ],
+      "result": [
+        { "commum": "Salada de Carne Magra" },
+        { "rare": "Salada de Carne de Qualidade Superior" }
+      ]
+    },
+    {
+      "name": "Salada de Caçador",
+      "recipe": [
+        { "name": "Carne de Baleia Macia", "qtd": 1 },
+        { "name": "Vinagre", "qtd": 2 },
+        { "name": "Tempero", "qtd": 2 },
+        { "name": "Alho", "qtd": 5 }
+      ],
+      "result": [
+        { "commum": "Salada de Caçador" },
+        { "rare": "Salada de Caçador Fresca" }
+      ]
+    },
+    {
+      "name": "Salada de Frutos do Mar e Cogumelo",
+      "recipe": [
+        { "name": "Lagostim Desidratado", "qtd": 1 },
+        { "name": "Cogumelo Flecha", "qtd": 1 },
+        { "name": "Tempero", "qtd": 2 }
+      ],
+      "result": [
+        { "commum": "Salada de Frutos do Mar e Cogumelo" },
+        { "rare": "Salada de Cogumelos e Frutos do Mar Especial" }
+      ]
+    },
+    {
+      "name": "Salada de Peito de Frango",
+      "recipe": [
+        { "name": "Frango", "qtd": 5 },
+        { "name": "Maça", "qtd": 5 },
+        { "name": "Repolho", "qtd": 5 },
+        { "name": "Vinagre", "qtd": 1 },
+        { "name": "Vinho para Cozinha", "qtd": 2 }
+      ],
+      "result": [
+        { "commum": "Salada de Peito de Frango" },
+        { "rare": "Salada de Peito de Frango Fresco" }
+      ]
+    },
+    {
+      "name": "Salgado de Filé de Peixe",
+      "recipe": [
+        { "name": "Gobião Desidratado", "qtd": 2 },
+        { "name": "Molho Branco", "qtd": 3 },
+        { "name": "Farinha de Trigo", "qtd": 7 },
+        { "name": "Sal", "qtd": 2 }
+      ],
+      "result": [
+        { "commum": "Salgado de Filé de Peixe" },
+        { "rare": "Salgadinho Delicioso de Filé de Peixe" }
+      ]
+    },
+    {
+      "name": "Salsicha Grelhada",
+      "recipe": [
+        { "name": "Carne de Porco", "qtd": 6 },
+        { "name": "Cebola", "qtd": 1 },
+        { "name": "Pimenta do Reino", "qtd": 2 },
+        { "name": "Sal", "qtd": 2 }
+      ],
+      "result": [
+        { "commum": "Salsicha Grelhada" },
+        { "rare": "Linguiça Defumada" }
+      ]
+    },
+    {
+      "name": "Samambaia Frita",
+      "recipe": [
+        { "name": "Samambaia", "qtd": 8 },
+        { "name": "Alho", "qtd": 5 },
+        { "name": "Sal", "qtd": 2 },
+        { "name": "Água Mineral", "qtd": 5 },
+        { "name": "Azeite de Oliva", "qtd": 2 }
+      ],
+      "result": [
+        { "commum": "Samambaia Frita" },
+        { "rare": "Samambaia Frita Bem Gostosa" }
+      ]
+    },
+    {
+      "name": "Sanduíche de Carne",
+      "recipe": [
+        { "name": "Pão Macio", "qtd": 1 },
+        { "name": "Carne de Porco", "qtd": 7 },
+        { "name": "Pimentão", "qtd": 6 },
+        { "name": "Queijo", "qtd": 3 }
+      ],
+      "result": [
+        { "commum": "Sanduíche de Carne" },
+        { "rare": "Sanduiche de Carne de Alta Qualidade" }
+      ]
+    },
+    {
+      "name": "Sanduíche de Cogumelo Arco-Íris",
+      "recipe": [
+        { "name": "Cogumelo Arco-Íris", "qtd": 1 },
+        { "name": "Pão Macio", "qtd": 1 },
+        { "name": "Creme", "qtd": 2 },
+        { "name": "Cebola", "qtd": 2 },
+        { "name": "Azeite de Oliva", "qtd": 4 }
+      ],
+      "result": [
+        { "commum": "Sanduíche de Cogumelo Arco-Íris" },
+        { "rare": "Sanduíche de Cogumelo Arco-Íris Doce" }
+      ]
+    },
+    {
+      "name": "Sanduíche de Presunto",
+      "recipe": [
+        { "name": "Pão Macio", "qtd": 2 },
+        { "name": "Salsicha Grelhada", "qtd": 2 },
+        { "name": "Pimentão", "qtd": 5 },
+        { "name": "Ovo", "qtd": 4 }
+      ],
+      "result": [
+        { "commum": "Sanduíche de Presunto" },
+        { "rare": "Sanduíche de Presunto Alta Qualidade" }
+      ]
+    },
+    {
+      "name": "Sanduíche Frank",
+      "recipe": [
+        { "name": "Salsicha Grelhada", "qtd": 2 },
+        { "name": "Pão Macio", "qtd": 1 },
+        { "name": "Repolho", "qtd": 2 },
+        { "name": "Molho Vermelho", "qtd": 1 }
+      ],
+      "result": [
+        { "commum": "Sanduíche Frank" },
+        { "rare": "Sanduíche Frank de Alta Qualidade" }
+      ]
+    },
+    {
+      "name": "Sanduíche Teff",
+      "recipe": [
+        { "name": "Pão de Teff", "qtd": 1 },
+        { "name": "Escorpião Grelhado", "qtd": 1 },
+        { "name": "Ensopado de Cobra Freekeh", "qtd": 1 },
+        { "name": "Molho Vermelho", "qtd": 3 }
+      ],
+      "result": [
+        { "commum": "Sanduíche Teff" },
+        { "rare": "Sanduíche Teff Apimentado" }
+      ]
+    },
+    {
+      "name": "Sopa de Carne",
+      "recipe": [
+        { "name": "Carne de Porco", "qtd": 5 },
+        { "name": "Pimenta do Reino", "qtd": 1 },
+        { "name": "Creme", "qtd": 2 },
+        { "name": "Água Mineral", "qtd": 4 }
+      ],
+      "result": [
+        { "commum": "Sopa de Carne" },
+        { "rare": "Sopa de Carne Especial" }
+      ]
+    },
+    {
+      "name": "Sopa de Frango com Grãos",
+      "recipe": [
+        { "name": "Carne Moída de Pássaro", "qtd": 2 },
+        { "name": "Água Mineral", "qtd": 2 },
+        { "name": "Batata", "qtd": 3 }
+      ],
+      "result": [
+        { "commum": "Sopa de Frango com Grãos" },
+        { "rare": "Sopa de Frango com Grãos Engrossada" }
+      ]
+    },
+    {
+      "name": "Sopa de Grãos",
+      "recipe": [
+        { "name": "Batata", "qtd": 6 },
+        { "name": "Água Purificada", "qtd": 1 },
+        { "name": "Vinho para Cozinha", "qtd": 3 },
+        { "name": "Sal", "qtd": 1 }
+      ],
+      "result": [
+        { "commum": "Sopa de Grãos" },
+        { "rare": "Sopa de Grãos Especial" }
+      ]
+    },
+    {
+      "name": "Sopa de Peixe",
+      "recipe": [
+        { "name": "Gobião Desidratado", "qtd": 1 },
+        { "name": "Farinha de Trigo", "qtd": 3 },
+        { "name": "Creme", "qtd": 2 },
+        { "name": "Água Mineral", "qtd": 6 }
+      ],
+      "result": [
+        { "commum": "Sopa de Peixe" },
+        { "rare": "Sopa de Peixe Especial" }
+      ]
+    },
+    {
+      "name": "Suco de Cenoura de Alta Qualidade",
+      "recipe": [
+        { "name": "Cenoura de Alta Qualidade", "qtd": 1 },
+        { "name": "Farinha de Trigo", "qtd": 3 },
+        { "name": "Açúcar", "qtd": 3 },
+        { "name": "Água Mineral", "qtd": 4 }
+      ],
+      "result": [
+        { "commum": "Suco de Cenoura de Alta Qualidade" },
+        { "rare": "None" }
+      ]
+    },
+    {
+      "name": "Suco de cenoura Especial",
+      "recipe": [
+        { "name": "Cenoura Especial", "qtd": 1 },
+        { "name": "Farinha de Trigo", "qtd": 3 },
+        { "name": "Açúcar", "qtd": 3 },
+        { "name": "Água Mineral", "qtd": 4 }
+      ],
+      "result": [{ "commum": "Suco de cenoura Especial" }, { "rare": "None" }]
+    },
+    {
+      "name": "Suco de Delotia",
+      "recipe": [
+        { "name": "Delotia", "qtd": 4 },
+        { "name": "Maça", "qtd": 5 },
+        { "name": "Açúcar", "qtd": 3 },
+        { "name": "Água Purificada", "qtd": 3 }
+      ],
+      "result": [
+        { "commum": "Suco de Delotia" },
+        { "rare": "Suco Refrescante de Delotia" }
+      ]
+    },
+    {
+      "name": "Suco de Fruta",
+      "recipe": [
+        { "name": "Morango", "qtd": 4 },
+        { "name": "Açúcar", "qtd": 3 },
+        { "name": "Água Mineral", "qtd": 5 },
+        { "name": "Sal", "qtd": 1 }
+      ],
+      "result": [
+        { "commum": "Suco de Fruta" },
+        { "rare": "Suco de Fruta Suculento" }
+      ]
+    },
+    {
+      "name": "Tartar de Delotia",
+      "recipe": [
+        { "name": "Delotia", "qtd": 3 },
+        { "name": "Leite", "qtd": 2 },
+        { "name": "Farinha de Trigo", "qtd": 5 },
+        { "name": "Ovo", "qtd": 1 },
+        { "name": "Água Purificada", "qtd": 3 }
+      ],
+      "result": [
+        { "commum": "Tartar de Delotia" },
+        { "rare": "Tartar de Delotia de Luxo" }
+      ]
+    },
+    {
+      "name": "Tempero",
+      "recipe": [
+        { "name": "Azeite de Oliva", "qtd": 1 },
+        { "name": "Água Mineral", "qtd": 1 },
+        { "name": "Ovo", "qtd": 1 },
+        { "name": "Sal", "qtd": 2 }
+      ],
+      "result": [{ "commum": "Tempero" }, { "rare": "None" }]
+    },
+    {
+      "name": "Torta de Carne",
+      "recipe": [
+        { "name": "Carne de Porco", "qtd": 4 },
+        { "name": "Massa de Trigo", "qtd": 6 },
+        { "name": "Açúcar", "qtd": 2 },
+        { "name": "Azeite de Oliva", "qtd": 2 }
+      ],
+      "result": [
+        { "commum": "Torta de Carne" },
+        { "rare": "Torta de Carne Deliciosa" }
+      ]
+    },
+    {
+      "name": "Torta de Figo",
+      "recipe": [
+        { "name": "Figo", "qtd": 5 },
+        { "name": "Massa de Trigo", "qtd": 3 },
+        { "name": "Açúcar", "qtd": 3 },
+        { "name": "Azeite de Oliva", "qtd": 2 }
+      ],
+      "result": [{ "commum": "Torta de Figo" }, { "rare": "Torta Figo Doce" }]
+    },
+    {
+      "name": "Torta de Fruta",
+      "recipe": [
+        { "name": "Massa de Trigo", "qtd": 6 },
+        { "name": "Morango", "qtd": 6 },
+        { "name": "Creme", "qtd": 3 },
+        { "name": "Açúcar", "qtd": 4 }
+      ],
+      "result": [
+        { "commum": "Torta de Fruta" },
+        { "rare": "Torta da Fruta Doce" }
+      ]
+    },
+    {
+      "name": "Torta de Queijo",
+      "recipe": [
+        { "name": "Massa de Trigo", "qtd": 4 },
+        { "name": "Queijo", "qtd": 7 },
+        { "name": "Manteiga", "qtd": 3 },
+        { "name": "Ovo", "qtd": 3 }
+      ],
+      "result": [
+        { "commum": "Torta de Queijo" },
+        { "rare": "Torta de Queijo de Alta Qualidade" }
+      ]
+    },
+    {
+      "name": "Vinagre",
+      "recipe": [
+        { "name": "Batata", "qtd": 1 },
+        { "name": "Morango", "qtd": 1 },
+        { "name": "Fermento", "qtd": 1 },
+        { "name": "Açúcar", "qtd": 1 }
+      ],
+      "result": [{ "commum": "Vinagre" }, { "rare": "None" }]
+    },
+    {
+      "name": "Vinho de Ervas Exóticas",
+      "recipe": [
+        { "name": "Massa de Trigo", "qtd": 3 },
+        { "name": "Essência do Liquor", "qtd": 1 },
+        { "name": "Água Mineral", "qtd": 5 },
+        { "name": "Fermento", "qtd": 2 }
+      ],
+      "result": [
+        { "commum": "Vinho de Ervas Exóticas" },
+        { "rare": "Vinho de Ervas Exóticas Encorpado" }
+      ]
+    },
+    {
+      "name": "Vinho de Fruta",
+      "recipe": [
+        { "name": "Vinho de Ervas Exóticas", "qtd": 1 },
+        { "name": "Morango", "qtd": 5 },
+        { "name": "Essência do Liquor", "qtd": 3 },
+        { "name": "Água Mineral", "qtd": 2 }
+      ],
+      "result": [
+        { "commum": "Vinho de Fruta" },
+        { "rare": "Vinho Gostoso de Fruta" }
+      ]
+    },
+    {
+      "name": "Vinho de Mel",
+      "recipe": [
+        { "name": "Mel de Cozinha", "qtd": 1 },
+        { "name": "Açúcar", "qtd": 2 },
+        { "name": "Essência do Liquor", "qtd": 2 },
+        { "name": "Água Mineral", "qtd": 6 }
+      ],
+      "result": [
+        { "commum": "Vinho de Mel" },
+        { "rare": "Vinho de Mel Picante" }
+      ]
+    },
+    {
+      "name": "Vinho de Tamareira",
+      "recipe": [
+        { "name": "Tamareira", "qtd": 5 },
+        { "name": "Essência do Liquor", "qtd": 2 },
+        { "name": "Açúcar", "qtd": 1 },
+        { "name": "Fermento", "qtd": 4 }
+      ],
+      "result": [
+        { "commum": "Vinho de Tamareira" },
+        { "rare": "Vinho de Tamareira Suave" }
+      ]
+    },
+    {
+      "name": "Vinho Fermentado de Khalk",
+      "recipe": [
+        { "name": "Chifre de Fugitivo Khalk", "qtd": 1 },
+        { "name": "Vinho de Mel", "qtd": 5 },
+        { "name": "Tamareira", "qtd": 6 },
+        { "name": "Fermento", "qtd": 6 },
+        { "name": "Açúcar", "qtd": 6 }
+      ],
+      "result": [
+        { "commum": "Vinho Fermentado de Khalk" },
+        { "rare": "Vinho Fermentado Forte de Khalk" }
+      ]
+    }
+  ]
+}

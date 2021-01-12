@@ -1,0 +1,174 @@
+{
+    "marketList": [
+        {
+            "mainKey": 15014,
+            "sumCount": 30,
+            "name": "Cristal Mágico do Sol - Assalto",
+            "grade": 1,
+            "minPrice": 68500
+        },
+        {
+            "mainKey": 15015,
+            "sumCount": 3,
+            "name": "Cristal Mágico do Sol - Robustez",
+            "grade": 1,
+            "minPrice": 34300
+        },
+        {
+            "mainKey": 15016,
+            "sumCount": 5,
+            "name": "Cristal Mágico do Sol - Valor",
+            "grade": 1,
+            "minPrice": 33400
+        },
+        {
+            "mainKey": 15029,
+            "sumCount": 0,
+            "name": "Cristal Mágico do Sol - Precisão",
+            "grade": 1,
+            "minPrice": 115000
+        },
+        {
+            "mainKey": 15030,
+            "sumCount": 0,
+            "name": "Cristal Mágico do Sol - Força",
+            "grade": 1,
+            "minPrice": 115000
+        },
+        {
+            "mainKey": 15116,
+            "sumCount": 4,
+            "name": "Cristal Mágico do Infinito - Assalto",
+            "grade": 2,
+            "minPrice": 23200
+        },
+        {
+            "mainKey": 15117,
+            "sumCount": 1,
+            "name": "Cristal Mágico do Infinito - Robustez",
+            "grade": 2,
+            "minPrice": 66000
+        },
+        {
+            "mainKey": 15118,
+            "sumCount": 5,
+            "name": "Cristal Mágico do Infinito - Valor",
+            "grade": 2,
+            "minPrice": 21900
+        },
+        {
+            "mainKey": 15119,
+            "sumCount": 0,
+            "name": "Cristal Mágico do Infinito - Precisão",
+            "grade": 2,
+            "minPrice": 770000
+        },
+        {
+            "mainKey": 15120,
+            "sumCount": 0,
+            "name": "Cristal Mágico do Infinito - Força",
+            "grade": 2,
+            "minPrice": 53000
+        },
+        {
+            "mainKey": 15148,
+            "sumCount": 4,
+            "name": "Cristal Mágico do Infinito - Ataque Corpo a Corpo",
+            "grade": 2,
+            "minPrice": 40400
+        },
+        {
+            "mainKey": 15149,
+            "sumCount": 0,
+            "name": "Cristal Mágico do Infinito - Ataque à Distância",
+            "grade": 2,
+            "minPrice": 550000
+        },
+        {
+            "mainKey": 15150,
+            "sumCount": 1,
+            "name": "Cristal Mágico do Infinito - Ataque Mágico",
+            "grade": 2,
+            "minPrice": 44400
+        },
+        {
+            "mainKey": 15216,
+            "sumCount": 163,
+            "name": "Cristal Mágico Negro - Assalto",
+            "grade": 3,
+            "minPrice": 2600000
+        },
+        {
+            "mainKey": 15217,
+            "sumCount": 19,
+            "name": "Cristal Mágico Negro - Robustez",
+            "grade": 3,
+            "minPrice": 2570000
+        },
+        {
+            "mainKey": 15218,
+            "sumCount": 103,
+            "name": "Cristal Mágico Negro - Valor",
+            "grade": 3,
+            "minPrice": 2750000
+        },
+        {
+            "mainKey": 15219,
+            "sumCount": 188,
+            "name": "Cristal Mágico Negro - Precisão",
+            "grade": 3,
+            "minPrice": 2550000
+        },
+        {
+            "mainKey": 15603,
+            "sumCount": 0,
+            "name": "Cristal Mágico Ancestral - Víbora",
+            "grade": 4,
+            "minPrice": 116000
+        },
+        {
+            "mainKey": 15630,
+            "sumCount": 0,
+            "name": "Cristal Mágico Negro - Víbora",
+            "grade": 4,
+            "minPrice": 33000000
+        },
+        {
+            "mainKey": 15636,
+            "sumCount": 10,
+            "name": "Cristal do Campo de Batalha Vermelho: Víbora",
+            "grade": 4,
+            "minPrice": 61000000
+        },
+        {
+            "mainKey": 15669,
+            "sumCount": 51,
+            "name": "Cristal de Canino Vermelho Escuro - Valor",
+            "grade": 4,
+            "minPrice": 40600000
+        },
+        {
+            "mainKey": 15807,
+            "sumCount": 0,
+            "name": "JIN Cristal Mágico - Víbora",
+            "grade": 4,
+            "minPrice": 330000000
+        },
+        {
+            "mainKey": 15808,
+            "sumCount": 34,
+            "name": "BON Cristal Mágico - Víbora",
+            "grade": 4,
+            "minPrice": 113000000
+        },
+        {
+            "mainKey": 15809,
+            "sumCount": 61,
+            "name": "WON Cristal Mágico - Víbora",
+            "grade": 4,
+            "minPrice": 107000000
+        }
+    ],
+    "resultCode": 0,
+    "resultMsg": ""
+}

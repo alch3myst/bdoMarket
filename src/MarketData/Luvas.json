@@ -1,0 +1,167 @@
+{
+    "marketList": [
+        {
+            "mainKey": 15011,
+            "sumCount": 20,
+            "name": "Cristal Mágico da Natureza - Rapidez",
+            "grade": 1,
+            "minPrice": 64000
+        },
+        {
+            "mainKey": 15012,
+            "sumCount": 0,
+            "name": "Cristal Mágico da Natureza - Adamantina",
+            "grade": 1,
+            "minPrice": 34600
+        },
+        {
+            "mainKey": 15013,
+            "sumCount": 3,
+            "name": "Cristal Mágico da Natureza - Ascensão",
+            "grade": 1,
+            "minPrice": 34300
+        },
+        {
+            "mainKey": 15028,
+            "sumCount": 0,
+            "name": "Cristal Mágico da Natureza - Energia",
+            "grade": 1,
+            "minPrice": 114000
+        },
+        {
+            "mainKey": 15111,
+            "sumCount": 14,
+            "name": "Cristal Mágico do Infinito - Rapidez",
+            "grade": 2,
+            "minPrice": 90500
+        },
+        {
+            "mainKey": 15112,
+            "sumCount": 2,
+            "name": "Cristal Mágico do Infinito - Adamantina",
+            "grade": 2,
+            "minPrice": 394000
+        },
+        {
+            "mainKey": 15113,
+            "sumCount": 43,
+            "name": "Cristal Mágico do Infinito - Ascensão",
+            "grade": 2,
+            "minPrice": 535000
+        },
+        {
+            "mainKey": 15114,
+            "sumCount": 0,
+            "name": "Cristal Mágico do Infinito - Queda",
+            "grade": 2,
+            "minPrice": 266000
+        },
+        {
+            "mainKey": 15115,
+            "sumCount": 0,
+            "name": "Cristal Mágico do Infinito - Energia",
+            "grade": 2,
+            "minPrice": 550000
+        },
+        {
+            "mainKey": 15146,
+            "sumCount": 181,
+            "name": "Cristal Mágico do Infinito - Aumento de Energia",
+            "grade": 2,
+            "minPrice": 965000
+        },
+        {
+            "mainKey": 15147,
+            "sumCount": 125,
+            "name": "Cristal Mágico do Infinito - Aumento de Tempo de Mergulho",
+            "grade": 2,
+            "minPrice": 680000
+        },
+        {
+            "mainKey": 15211,
+            "sumCount": 505,
+            "name": "Cristal Mágico Negro - Rapidez",
+            "grade": 3,
+            "minPrice": 2640000
+        },
+        {
+            "mainKey": 15212,
+            "sumCount": 13,
+            "name": "Cristal Mágico Negro - Adamantina",
+            "grade": 3,
+            "minPrice": 5900000
+        },
+        {
+            "mainKey": 15213,
+            "sumCount": 34,
+            "name": "Cristal Mágico Negro - Ascensão",
+            "grade": 3,
+            "minPrice": 2620000
+        },
+        {
+            "mainKey": 15214,
+            "sumCount": 11,
+            "name": "Cristal Mágico Negro - Queda",
+            "grade": 3,
+            "minPrice": 4420000
+        },
+        {
+            "mainKey": 15604,
+            "sumCount": 0,
+            "name": "Cristal Mágico Ancestral - Hystria",
+            "grade": 4,
+            "minPrice": 9750000
+        },
+        {
+            "mainKey": 15616,
+            "sumCount": 0,
+            "name": "Cristal Mágico Ancestral da Natureza - Adamantina",
+            "grade": 3,
+            "minPrice": 12600000
+        },
+        {
+            "mainKey": 15631,
+            "sumCount": 0,
+            "name": "Cristal Mágico Negro - Hystria",
+            "grade": 4,
+            "minPrice": 33000000
+        },
+        {
+            "mainKey": 15637,
+            "sumCount": 0,
+            "name": "Cristal do Campo de Batalha Vermelho: Hystria",
+            "grade": 4,
+            "minPrice": 69000000
+        },
+        {
+            "mainKey": 15640,
+            "sumCount": 0,
+            "name": "Cristal do Campo de Batalha Vermelho: Adamantina",
+            "grade": 4,
+            "minPrice": 126000000
+        },
+        {
+            "mainKey": 15810,
+            "sumCount": 2,
+            "name": "JIN Cristal Mágico - Hystria",
+            "grade": 4,
+            "minPrice": 202000000
+        },
+        {
+            "mainKey": 15811,
+            "sumCount": 0,
+            "name": "BON Cristal Mágico - Hystria",
+            "grade": 4,
+            "minPrice": 153000000
+        },
+        {
+            "mainKey": 15812,
+            "sumCount": 1,
+            "name": "WON Cristal Mágico - Hystria",
+            "grade": 4,
+            "minPrice": 112000000
+        }
+    ],
+    "resultCode": 0,
+    "resultMsg": ""
+}

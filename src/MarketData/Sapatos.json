@@ -1,0 +1,111 @@
+{
+    "marketList": [
+        {
+            "mainKey": 15003,
+            "sumCount": 0,
+            "name": "Cristal Mágico de Chama Carmesim - Carnificina",
+            "grade": 1,
+            "minPrice": 33500
+        },
+        {
+            "mainKey": 15004,
+            "sumCount": 0,
+            "name": "Cristal Mágico de Chama Carmesim - Carnificina",
+            "grade": 1,
+            "minPrice": 33100
+        },
+        {
+            "mainKey": 15005,
+            "sumCount": 3,
+            "name": "Cristal Mágico de Chama Carmesim - Carnificina",
+            "grade": 1,
+            "minPrice": 33300
+        },
+        {
+            "mainKey": 15006,
+            "sumCount": 55,
+            "name": "Cristal Mágico da Abundância - Armadura",
+            "grade": 1,
+            "minPrice": 30100
+        },
+        {
+            "mainKey": 15021,
+            "sumCount": 7,
+            "name": "Cristal Mágico Perfeito",
+            "grade": 3,
+            "minPrice": 20500
+        },
+        {
+            "mainKey": 15103,
+            "sumCount": 3,
+            "name": "Cristal Mágico do Infinito - Carnificina",
+            "grade": 2,
+            "minPrice": 77000
+        },
+        {
+            "mainKey": 15104,
+            "sumCount": 2,
+            "name": "Cristal Mágico do Infinito - Carnificina",
+            "grade": 2,
+            "minPrice": 134000
+        },
+        {
+            "mainKey": 15105,
+            "sumCount": 7,
+            "name": "Cristal Mágico do Infinito - Carnificina",
+            "grade": 2,
+            "minPrice": 37200
+        },
+        {
+            "mainKey": 15106,
+            "sumCount": 19,
+            "name": "Cristal Mágico do Infinito - Armadura",
+            "grade": 2,
+            "minPrice": 535000
+        },
+        {
+            "mainKey": 15662,
+            "sumCount": 461,
+            "name": "Cristal de Magia de Combinação - Gervish",
+            "grade": 4,
+            "minPrice": 5500000
+        },
+        {
+            "mainKey": 15663,
+            "sumCount": 39,
+            "name": "Cristal de Magia de Combinação - Makalod",
+            "grade": 4,
+            "minPrice": 16800000
+        },
+        {
+            "mainKey": 15664,
+            "sumCount": 131,
+            "name": "Cristal de Magia de Combinação - Hoom",
+            "grade": 4,
+            "minPrice": 43700000
+        },
+        {
+            "mainKey": 15665,
+            "sumCount": 0,
+            "name": "HON Cristal de Magia de Combinação - Gervish",
+            "grade": 4,
+            "minPrice": 108000000
+        },
+        {
+            "mainKey": 15666,
+            "sumCount": 0,
+            "name": "HON Cristal de Magia de Combinação - Makalod",
+            "grade": 4,
+            "minPrice": 108000000
+        },
+        {
+            "mainKey": 15667,
+            "sumCount": 0,
+            "name": "HON Cristal de Magia de Combinação - Hoom",
+            "grade": 4,
+            "minPrice": 108000000
+        }
+    ],
+    "resultCode": 0,
+    "resultMsg": ""
+}

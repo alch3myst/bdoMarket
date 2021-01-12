@@ -1,0 +1,384 @@
+{
+    "marketList": [
+        {
+            "mainKey": 6001,
+            "sumCount": 4564,
+            "name": "Couro de Cervo",
+            "grade": 0,
+            "minPrice": 4440
+        },
+        {
+            "mainKey": 6002,
+            "sumCount": 11485,
+            "name": "Couro de Ovelha",
+            "grade": 0,
+            "minPrice": 7200
+        },
+        {
+            "mainKey": 6003,
+            "sumCount": 611,
+            "name": "Couro de Raposa",
+            "grade": 0,
+            "minPrice": 4870
+        },
+        {
+            "mainKey": 6004,
+            "sumCount": 5582,
+            "name": "Couro de Rinoceronte",
+            "grade": 0,
+            "minPrice": 4720
+        },
+        {
+            "mainKey": 6005,
+            "sumCount": 1,
+            "name": "Couro de Porco",
+            "grade": 0,
+            "minPrice": 6850
+        },
+        {
+            "mainKey": 6006,
+            "sumCount": 0,
+            "name": "Couro de Boi",
+            "grade": 0,
+            "minPrice": 6600
+        },
+        {
+            "mainKey": 6008,
+            "sumCount": 2917,
+            "name": "Couro de Lagarto",
+            "grade": 0,
+            "minPrice": 9350
+        },
+        {
+            "mainKey": 6009,
+            "sumCount": 0,
+            "name": "Couro de Minhoca",
+            "grade": 0,
+            "minPrice": 8500
+        },
+        {
+            "mainKey": 6010,
+            "sumCount": 300,
+            "name": "Couro de Guaxinim",
+            "grade": 0,
+            "minPrice": 2000
+        },
+        {
+            "mainKey": 6012,
+            "sumCount": 225,
+            "name": "Couro de Doninha",
+            "grade": 0,
+            "minPrice": 3830
+        },
+        {
+            "mainKey": 6013,
+            "sumCount": 1652,
+            "name": "Couro de Urso",
+            "grade": 0,
+            "minPrice": 850
+        },
+        {
+            "mainKey": 6014,
+            "sumCount": 0,
+            "name": "Couro de Lobo",
+            "grade": 0,
+            "minPrice": 6350
+        },
+        {
+            "mainKey": 6015,
+            "sumCount": 290,
+            "name": "Couro de Waragon",
+            "grade": 0,
+            "minPrice": 1230
+        },
+        {
+            "mainKey": 6016,
+            "sumCount": 0,
+            "name": "Couro de Dragão Guepardo",
+            "grade": 0,
+            "minPrice": 6350
+        },
+        {
+            "mainKey": 6017,
+            "sumCount": 1775,
+            "name": "Pena Suave de Pássaro Kuku",
+            "grade": 0,
+            "minPrice": 1790
+        },
+        {
+            "mainKey": 6018,
+            "sumCount": 51,
+            "name": "Pena de Flamingo",
+            "grade": 0,
+            "minPrice": 2680
+        },
+        {
+            "mainKey": 6019,
+            "sumCount": 5044,
+            "name": "Couro de Cobra",
+            "grade": 0,
+            "minPrice": 1130
+        },
+        {
+            "mainKey": 6020,
+            "sumCount": 141717,
+            "name": "Couro de Leão",
+            "grade": 0,
+            "minPrice": 1270
+        },
+        {
+            "mainKey": 6021,
+            "sumCount": 0,
+            "name": "Couro de Lobo Plumado",
+            "grade": 0,
+            "minPrice": 6550
+        },
+        {
+            "mainKey": 6022,
+            "sumCount": 1275,
+            "name": "Couro de Pantera Negra",
+            "grade": 0,
+            "minPrice": 4970
+        },
+        {
+            "mainKey": 6023,
+            "sumCount": 2778,
+            "name": "Couro de Gazela",
+            "grade": 0,
+            "minPrice": 5050
+        },
+        {
+            "mainKey": 6024,
+            "sumCount": 1450,
+            "name": "Penas de Grifo",
+            "grade": 0,
+            "minPrice": 1040
+        },
+        {
+            "mainKey": 6025,
+            "sumCount": 216532,
+            "name": "Pluma suave de Ferry",
+            "grade": 0,
+            "minPrice": 850
+        },
+        {
+            "mainKey": 6026,
+            "sumCount": 2095,
+            "name": "Couro de Elefante Belladona",
+            "grade": 0,
+            "minPrice": 5350
+        },
+        {
+            "mainKey": 6027,
+            "sumCount": 2478,
+            "name": "Couro de Iaque",
+            "grade": 0,
+            "minPrice": 8900
+        },
+        {
+            "mainKey": 6028,
+            "sumCount": 135,
+            "name": "Couro de Marmota",
+            "grade": 0,
+            "minPrice": 5950
+        },
+        {
+            "mainKey": 6029,
+            "sumCount": 26,
+            "name": "Couro de Lhama",
+            "grade": 0,
+            "minPrice": 4600
+        },
+        {
+            "mainKey": 6030,
+            "sumCount": 9276,
+            "name": "Couro de Cabra",
+            "grade": 0,
+            "minPrice": 7250
+        },
+        {
+            "mainKey": 6031,
+            "sumCount": 125,
+            "name": "Pele de Grifo",
+            "grade": 0,
+            "minPrice": 4490000
+        },
+        {
+            "mainKey": 6151,
+            "sumCount": 92,
+            "name": "Pele Macia",
+            "grade": 0,
+            "minPrice": 16600
+        },
+        {
+            "mainKey": 6152,
+            "sumCount": 3933,
+            "name": "Couro Forte",
+            "grade": 0,
+            "minPrice": 15200
+        },
+        {
+            "mainKey": 6153,
+            "sumCount": 3016,
+            "name": "Couro Duro",
+            "grade": 0,
+            "minPrice": 30600
+        },
+        {
+            "mainKey": 6154,
+            "sumCount": 39,
+            "name": "Pele Fina",
+            "grade": 0,
+            "minPrice": 10300
+        },
+        {
+            "mainKey": 6155,
+            "sumCount": 19420,
+            "name": "Pelo Grosso",
+            "grade": 0,
+            "minPrice": 2420
+        },
+        {
+            "mainKey": 6156,
+            "sumCount": 4391,
+            "name": "Pele Chique",
+            "grade": 0,
+            "minPrice": 12500
+        },
+        {
+            "mainKey": 6157,
+            "sumCount": 374235,
+            "name": "Pluma Leve",
+            "grade": 0,
+            "minPrice": 3400
+        },
+        {
+            "mainKey": 6158,
+            "sumCount": 181,
+            "name": "Pena Chique",
+            "grade": 0,
+            "minPrice": 10100
+        },
+        {
+            "mainKey": 6159,
+            "sumCount": 902,
+            "name": "Couro Macio de Qualidade Alta",
+            "grade": 0,
+            "minPrice": 101000
+        },
+        {
+            "mainKey": 6160,
+            "sumCount": 3551,
+            "name": "Couro Forte de Alta Qualidade",
+            "grade": 0,
+            "minPrice": 111000
+        },
+        {
+            "mainKey": 6161,
+            "sumCount": 2604,
+            "name": "Couro Duro de Alta Qualidade",
+            "grade": 0,
+            "minPrice": 113000
+        },
+        {
+            "mainKey": 6162,
+            "sumCount": 2671,
+            "name": "Couro Fino de Qualidade Alta",
+            "grade": 0,
+            "minPrice": 94000
+        },
+        {
+            "mainKey": 6163,
+            "sumCount": 3961,
+            "name": "Pele Grosso de Qualidade Alta",
+            "grade": 0,
+            "minPrice": 20500
+        },
+        {
+            "mainKey": 6164,
+            "sumCount": 551,
+            "name": "Pele Chique de Alta Qualidade",
+            "grade": 0,
+            "minPrice": 105000
+        },
+        {
+            "mainKey": 6165,
+            "sumCount": 3671,
+            "name": "Bela Pluma Leve",
+            "grade": 0,
+            "minPrice": 25600
+        },
+        {
+            "mainKey": 6166,
+            "sumCount": 105,
+            "name": "Pena Ornamentada de Alta Qualidade",
+            "grade": 0,
+            "minPrice": 88000
+        },
+        {
+            "mainKey": 6167,
+            "sumCount": 0,
+            "name": "Couro Macio Supremo",
+            "grade": 0,
+            "minPrice": 610000
+        },
+        {
+            "mainKey": 6168,
+            "sumCount": 0,
+            "name": "Couro Forte Supremo",
+            "grade": 0,
+            "minPrice": 640000
+        },
+        {
+            "mainKey": 6169,
+            "sumCount": 0,
+            "name": "Couro Duro Supremo",
+            "grade": 0,
+            "minPrice": 690000
+        },
+        {
+            "mainKey": 6170,
+            "sumCount": 0,
+            "name": "Couro Fino Supremo",
+            "grade": 0,
+            "minPrice": 605000
+        },
+        {
+            "mainKey": 6171,
+            "sumCount": 16,
+            "name": "Pele Grossa Suprema",
+            "grade": 0,
+            "minPrice": 61000
+        },
+        {
+            "mainKey": 6172,
+            "sumCount": 19,
+            "name": "Casaco de Pele Chique Suprema",
+            "grade": 0,
+            "minPrice": 52500
+        },
+        {
+            "mainKey": 6173,
+            "sumCount": 0,
+            "name": "Pluma Leve Suprema",
+            "grade": 0,
+            "minPrice": 640000
+        },
+        {
+            "mainKey": 6174,
+            "sumCount": 0,
+            "name": "Pena Chique Suprema",
+            "grade": 0,
+            "minPrice": 700000
+        },
+        {
+            "mainKey": 9747,
+            "sumCount": 703,
+            "name": "Couro Feroz",
+            "grade": 3,
+            "minPrice": 392000
+        }
+    ],
+    "resultCode": 0,
+    "resultMsg": ""
+}

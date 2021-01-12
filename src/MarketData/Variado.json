@@ -1,0 +1,867 @@
+{
+    "marketList": [
+        {
+            "mainKey": 212,
+            "sumCount": 458,
+            "name": "Corda para Captura",
+            "grade": 0,
+            "minPrice": 1560
+        },
+        {
+            "mainKey": 1178,
+            "sumCount": 0,
+            "name": "Óleo da Imortalidade Decadente",
+            "grade": 3,
+            "minPrice": 3180000
+        },
+        {
+            "mainKey": 4076,
+            "sumCount": 7382,
+            "name": "Solvente de Metal",
+            "grade": 0,
+            "minPrice": 207000
+        },
+        {
+            "mainKey": 4476,
+            "sumCount": 1102,
+            "name": "Coral Vermelho",
+            "grade": 0,
+            "minPrice": 60000
+        },
+        {
+            "mainKey": 4477,
+            "sumCount": 70209,
+            "name": "Coral Azul",
+            "grade": 0,
+            "minPrice": 26100
+        },
+        {
+            "mainKey": 4478,
+            "sumCount": 4118,
+            "name": "Coral Vermelho-Crepúsculo",
+            "grade": 0,
+            "minPrice": 411000
+        },
+        {
+            "mainKey": 4479,
+            "sumCount": 182,
+            "name": "Coral Azul Aurora",
+            "grade": 0,
+            "minPrice": 130000
+        },
+        {
+            "mainKey": 4684,
+            "sumCount": 4073,
+            "name": "Endurecedor de Madeira",
+            "grade": 0,
+            "minPrice": 321000
+        },
+        {
+            "mainKey": 4903,
+            "sumCount": 174,
+            "name": "Cristal Vazio",
+            "grade": 0,
+            "minPrice": 565
+        },
+        {
+            "mainKey": 4917,
+            "sumCount": 15,
+            "name": "Fúria da Floresta",
+            "grade": 3,
+            "minPrice": 23600000
+        },
+        {
+            "mainKey": 5202,
+            "sumCount": 2351,
+            "name": "Essência de Chama Carmesim",
+            "grade": 0,
+            "minPrice": 203000
+        },
+        {
+            "mainKey": 5204,
+            "sumCount": 3052,
+            "name": "Essência da Abundância",
+            "grade": 0,
+            "minPrice": 262000
+        },
+        {
+            "mainKey": 5206,
+            "sumCount": 3462,
+            "name": "Essência da Natureza",
+            "grade": 0,
+            "minPrice": 243000
+        },
+        {
+            "mainKey": 5208,
+            "sumCount": 2411,
+            "name": "Essência do Sol",
+            "grade": 0,
+            "minPrice": 279000
+        },
+        {
+            "mainKey": 5210,
+            "sumCount": 2602,
+            "name": "Essência de Encantamento",
+            "grade": 0,
+            "minPrice": 35200
+        },
+        {
+            "mainKey": 5212,
+            "sumCount": 2383,
+            "name": "Essência do Poder Mágico",
+            "grade": 0,
+            "minPrice": 117000
+        },
+        {
+            "mainKey": 5214,
+            "sumCount": 5063,
+            "name": "Essência da Perfeição",
+            "grade": 0,
+            "minPrice": 61500
+        },
+        {
+            "mainKey": 5216,
+            "sumCount": 9235,
+            "name": "Essência da Destruição",
+            "grade": 0,
+            "minPrice": 36700
+        },
+        {
+            "mainKey": 5301,
+            "sumCount": 54682,
+            "name": "Reagente Líquido Limpo",
+            "grade": 0,
+            "minPrice": 4280
+        },
+        {
+            "mainKey": 5302,
+            "sumCount": 31758,
+            "name": "Reagente Pó Puro",
+            "grade": 0,
+            "minPrice": 4220
+        },
+        {
+            "mainKey": 5601,
+            "sumCount": 4674,
+            "name": "Pó de Planta Insetívora",
+            "grade": 0,
+            "minPrice": 4810
+        },
+        {
+            "mainKey": 5602,
+            "sumCount": 2918,
+            "name": "Seiva da Planta Insetívora",
+            "grade": 0,
+            "minPrice": 47600
+        },
+        {
+            "mainKey": 5603,
+            "sumCount": 1940,
+            "name": "Erva Venenosa",
+            "grade": 0,
+            "minPrice": 43800
+        },
+        {
+            "mainKey": 5604,
+            "sumCount": 1815,
+            "name": "Pólvora Vegetal",
+            "grade": 0,
+            "minPrice": 9100
+        },
+        {
+            "mainKey": 5605,
+            "sumCount": 17587,
+            "name": "Pó de Delotia",
+            "grade": 0,
+            "minPrice": 9200
+        },
+        {
+            "mainKey": 5606,
+            "sumCount": 17450,
+            "name": "Reagente de Delotia Purificado",
+            "grade": 0,
+            "minPrice": 11000
+        },
+        {
+            "mainKey": 5801,
+            "sumCount": 5259,
+            "name": "Algodão",
+            "grade": 0,
+            "minPrice": 1260
+        },
+        {
+            "mainKey": 5802,
+            "sumCount": 0,
+            "name": "Linho",
+            "grade": 0,
+            "minPrice": 735
+        },
+        {
+            "mainKey": 5803,
+            "sumCount": 31727,
+            "name": "Casulo de Bicho-da-seda",
+            "grade": 0,
+            "minPrice": 2440
+        },
+        {
+            "mainKey": 5804,
+            "sumCount": 21444,
+            "name": "Lã",
+            "grade": 0,
+            "minPrice": 2630
+        },
+        {
+            "mainKey": 5851,
+            "sumCount": 68,
+            "name": "Fio de Algodão",
+            "grade": 0,
+            "minPrice": 2580
+        },
+        {
+            "mainKey": 5852,
+            "sumCount": 5696,
+            "name": "Fio de Linho",
+            "grade": 0,
+            "minPrice": 2440
+        },
+        {
+            "mainKey": 5853,
+            "sumCount": 2582,
+            "name": "Fio de Seda",
+            "grade": 0,
+            "minPrice": 4870
+        },
+        {
+            "mainKey": 5854,
+            "sumCount": 29114,
+            "name": "Fio Tricô",
+            "grade": 0,
+            "minPrice": 9700
+        },
+        {
+            "mainKey": 5855,
+            "sumCount": 3912,
+            "name": "Tecido de Algodão",
+            "grade": 0,
+            "minPrice": 22100
+        },
+        {
+            "mainKey": 5856,
+            "sumCount": 220262,
+            "name": "Tecido de Linho",
+            "grade": 0,
+            "minPrice": 10200
+        },
+        {
+            "mainKey": 5857,
+            "sumCount": 25431,
+            "name": "Seda",
+            "grade": 0,
+            "minPrice": 27400
+        },
+        {
+            "mainKey": 5858,
+            "sumCount": 6927,
+            "name": "Lã",
+            "grade": 0,
+            "minPrice": 51000
+        },
+        {
+            "mainKey": 5859,
+            "sumCount": 686,
+            "name": "Tecido de Linho Resistente",
+            "grade": 0,
+            "minPrice": 245000
+        },
+        {
+            "mainKey": 5860,
+            "sumCount": 0,
+            "name": "Linho Reforçado",
+            "grade": 0,
+            "minPrice": 31000
+        },
+        {
+            "mainKey": 5861,
+            "sumCount": 712,
+            "name": "Lã tingida ao sol",
+            "grade": 0,
+            "minPrice": 45800
+        },
+        {
+            "mainKey": 5862,
+            "sumCount": 0,
+            "name": "Estilhaço Chamuscado",
+            "grade": 0,
+            "minPrice": 3500000
+        },
+        {
+            "mainKey": 5863,
+            "sumCount": 229,
+            "name": "Tecido de Algodão com Crepúsculo",
+            "grade": 0,
+            "minPrice": 4260000
+        },
+        {
+            "mainKey": 5864,
+            "sumCount": 35,
+            "name": "Lágrimas do Oceano",
+            "grade": 0,
+            "minPrice": 23400
+        },
+        {
+            "mainKey": 5865,
+            "sumCount": 385,
+            "name": "Seda da Madrugada Adormecida",
+            "grade": 0,
+            "minPrice": 4960000
+        },
+        {
+            "mainKey": 5870,
+            "sumCount": 263,
+            "name": "Tecido de Algodão do Iluminado",
+            "grade": 0,
+            "minPrice": 2530000
+        },
+        {
+            "mainKey": 5951,
+            "sumCount": 11027,
+            "name": "Traço de Caos",
+            "grade": 0,
+            "minPrice": 6600
+        },
+        {
+            "mainKey": 5952,
+            "sumCount": 65017,
+            "name": "Traço de Desespero",
+            "grade": 0,
+            "minPrice": 6600
+        },
+        {
+            "mainKey": 5953,
+            "sumCount": 653,
+            "name": "Traço de Onda",
+            "grade": 0,
+            "minPrice": 6600
+        },
+        {
+            "mainKey": 5954,
+            "sumCount": 0,
+            "name": "Traço da Terra",
+            "grade": 0,
+            "minPrice": 92500
+        },
+        {
+            "mainKey": 5955,
+            "sumCount": 0,
+            "name": "Traço de Ascensão",
+            "grade": 0,
+            "minPrice": 92500
+        },
+        {
+            "mainKey": 5956,
+            "sumCount": 58,
+            "name": "Traço de Selvageria",
+            "grade": 0,
+            "minPrice": 92500
+        },
+        {
+            "mainKey": 5957,
+            "sumCount": 2546,
+            "name": "Traço de Origem",
+            "grade": 0,
+            "minPrice": 39300
+        },
+        {
+            "mainKey": 5958,
+            "sumCount": 0,
+            "name": "Traço de Batalha",
+            "grade": 0,
+            "minPrice": 92500
+        },
+        {
+            "mainKey": 5959,
+            "sumCount": 19,
+            "name": "Vestígio de Caça",
+            "grade": 0,
+            "minPrice": 7100
+        },
+        {
+            "mainKey": 5960,
+            "sumCount": 1040,
+            "name": "Traço de Floresta",
+            "grade": 0,
+            "minPrice": 6750
+        },
+        {
+            "mainKey": 5961,
+            "sumCount": 0,
+            "name": "Traço de Violência",
+            "grade": 0,
+            "minPrice": 92500
+        },
+        {
+            "mainKey": 5962,
+            "sumCount": 982,
+            "name": "Traço de Morte",
+            "grade": 0,
+            "minPrice": 91000
+        },
+        {
+            "mainKey": 5963,
+            "sumCount": 4700,
+            "name": "Traço de Memória",
+            "grade": 0,
+            "minPrice": 71500
+        },
+        {
+            "mainKey": 6183,
+            "sumCount": 0,
+            "name": "Esmalte de Couro",
+            "grade": 0,
+            "minPrice": 225000
+        },
+        {
+            "mainKey": 6185,
+            "sumCount": 336573,
+            "name": "Chifre de Fogo",
+            "grade": 0,
+            "minPrice": 18100
+        },
+        {
+            "mainKey": 6351,
+            "sumCount": 7871,
+            "name": "Sangue da Fera Lendária",
+            "grade": 0,
+            "minPrice": 52500
+        },
+        {
+            "mainKey": 6352,
+            "sumCount": 19590,
+            "name": "Sangue do Tirano",
+            "grade": 0,
+            "minPrice": 40900
+        },
+        {
+            "mainKey": 6353,
+            "sumCount": 48991,
+            "name": "Sangue de Palhaço",
+            "grade": 0,
+            "minPrice": 13100
+        },
+        {
+            "mainKey": 6354,
+            "sumCount": 17931,
+            "name": "Sangue do Pecador",
+            "grade": 0,
+            "minPrice": 18000
+        },
+        {
+            "mainKey": 6355,
+            "sumCount": 4283,
+            "name": "Sangue de Homem Sábio",
+            "grade": 0,
+            "minPrice": 67500
+        },
+        {
+            "mainKey": 6501,
+            "sumCount": 4062674,
+            "name": "Fragmento de Coral",
+            "grade": 0,
+            "minPrice": 3840
+        },
+        {
+            "mainKey": 6504,
+            "sumCount": 1429,
+            "name": "Coral Verde",
+            "grade": 0,
+            "minPrice": 103000
+        },
+        {
+            "mainKey": 6505,
+            "sumCount": 1718,
+            "name": "Coral Dourado",
+            "grade": 0,
+            "minPrice": 93000
+        },
+        {
+            "mainKey": 6506,
+            "sumCount": 0,
+            "name": "Coral Branco",
+            "grade": 0,
+            "minPrice": 58500
+        },
+        {
+            "mainKey": 6524,
+            "sumCount": 536,
+            "name": "Coral Verde de Pradaria",
+            "grade": 0,
+            "minPrice": 1190000
+        },
+        {
+            "mainKey": 6525,
+            "sumCount": 1453,
+            "name": "Coral Dourado Solar",
+            "grade": 0,
+            "minPrice": 525000
+        },
+        {
+            "mainKey": 6526,
+            "sumCount": 369,
+            "name": "Coral Branco Ventoso",
+            "grade": 0,
+            "minPrice": 429000
+        },
+        {
+            "mainKey": 6527,
+            "sumCount": 96,
+            "name": "Pérola Dourada",
+            "grade": 2,
+            "minPrice": 446000
+        },
+        {
+            "mainKey": 6528,
+            "sumCount": 0,
+            "name": "Cola",
+            "grade": 0,
+            "minPrice": 210000
+        },
+        {
+            "mainKey": 6533,
+            "sumCount": 0,
+            "name": "Cristal de Coral",
+            "grade": 2,
+            "minPrice": 3500000
+        },
+        {
+            "mainKey": 6601,
+            "sumCount": 1003,
+            "name": "Óleo de Regeneração",
+            "grade": 0,
+            "minPrice": 123000
+        },
+        {
+            "mainKey": 6602,
+            "sumCount": 1069,
+            "name": "Óleo da Tempestade",
+            "grade": 0,
+            "minPrice": 75000
+        },
+        {
+            "mainKey": 6603,
+            "sumCount": 914,
+            "name": "Óleo de Coragem",
+            "grade": 0,
+            "minPrice": 95500
+        },
+        {
+            "mainKey": 6604,
+            "sumCount": 2164,
+            "name": "Óleo da Corrupção",
+            "grade": 0,
+            "minPrice": 71500
+        },
+        {
+            "mainKey": 6605,
+            "sumCount": 452,
+            "name": "Óleo de Tranquilidade",
+            "grade": 0,
+            "minPrice": 58500
+        },
+        {
+            "mainKey": 6606,
+            "sumCount": 0,
+            "name": "Óleo de Abismo",
+            "grade": 0,
+            "minPrice": 450000
+        },
+        {
+            "mainKey": 6651,
+            "sumCount": 2787,
+            "name": "Água Destilada",
+            "grade": 0,
+            "minPrice": 3520
+        },
+        {
+            "mainKey": 6652,
+            "sumCount": 6687,
+            "name": "Garrafa com Água do Mar",
+            "grade": 0,
+            "minPrice": 3130
+        },
+        {
+            "mainKey": 6653,
+            "sumCount": 0,
+            "name": "Garrafa Cheia de Água do Rio",
+            "grade": 0,
+            "minPrice": 6250
+        },
+        {
+            "mainKey": 6656,
+            "sumCount": 27127,
+            "name": "Água Purificada",
+            "grade": 0,
+            "minPrice": 5500
+        },
+        {
+            "mainKey": 6657,
+            "sumCount": 54251,
+            "name": "Saco de Água Suja",
+            "grade": 0,
+            "minPrice": 1640
+        },
+        {
+            "mainKey": 7701,
+            "sumCount": 0,
+            "name": "Colmeia Selvagem",
+            "grade": 0,
+            "minPrice": 25000
+        },
+        {
+            "mainKey": 7702,
+            "sumCount": 61911,
+            "name": "Mel de Cozinha",
+            "grade": 0,
+            "minPrice": 1630
+        },
+        {
+            "mainKey": 7703,
+            "sumCount": 79,
+            "name": "Mel para Cozinha de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 8900
+        },
+        {
+            "mainKey": 7704,
+            "sumCount": 0,
+            "name": "Mel de Qualidade Superior",
+            "grade": 2,
+            "minPrice": 255000
+        },
+        {
+            "mainKey": 9003,
+            "sumCount": 0,
+            "name": "Molho Branco",
+            "grade": 0,
+            "minPrice": 1230
+        },
+        {
+            "mainKey": 9004,
+            "sumCount": 39266,
+            "name": "Molho Vermelho",
+            "grade": 0,
+            "minPrice": 4150
+        },
+        {
+            "mainKey": 9006,
+            "sumCount": 4000,
+            "name": "Tempero",
+            "grade": 0,
+            "minPrice": 1250
+        },
+        {
+            "mainKey": 9057,
+            "sumCount": 22298,
+            "name": "Essência do Liquor",
+            "grade": 0,
+            "minPrice": 570
+        },
+        {
+            "mainKey": 9061,
+            "sumCount": 659,
+            "name": "Creme",
+            "grade": 0,
+            "minPrice": 6050
+        },
+        {
+            "mainKey": 9062,
+            "sumCount": 19500,
+            "name": "Queijo",
+            "grade": 0,
+            "minPrice": 6700
+        },
+        {
+            "mainKey": 9063,
+            "sumCount": 9746,
+            "name": "Manteiga",
+            "grade": 0,
+            "minPrice": 5050
+        },
+        {
+            "mainKey": 9064,
+            "sumCount": 24800,
+            "name": "Ovo",
+            "grade": 0,
+            "minPrice": 4730
+        },
+        {
+            "mainKey": 9065,
+            "sumCount": 0,
+            "name": "Leite",
+            "grade": 0,
+            "minPrice": 10800
+        },
+        {
+            "mainKey": 9066,
+            "sumCount": 63552,
+            "name": "Vinagre",
+            "grade": 0,
+            "minPrice": 1390
+        },
+        {
+            "mainKey": 9727,
+            "sumCount": 0,
+            "name": "Óleo de Baleia Rei",
+            "grade": 2,
+            "minPrice": 5950000
+        },
+        {
+            "mainKey": 9728,
+            "sumCount": 6,
+            "name": "Presa de Baleia Rei",
+            "grade": 3,
+            "minPrice": 8000000
+        },
+        {
+            "mainKey": 9729,
+            "sumCount": 225,
+            "name": "Tendão de Baleia Rei",
+            "grade": 1,
+            "minPrice": 4710000
+        },
+        {
+            "mainKey": 9733,
+            "sumCount": 6203,
+            "name": "Pó Brilhante",
+            "grade": 0,
+            "minPrice": 23100
+        },
+        {
+            "mainKey": 9736,
+            "sumCount": 0,
+            "name": "Pele de Fugitivo Khalk",
+            "grade": 2,
+            "minPrice": 5950000
+        },
+        {
+            "mainKey": 9737,
+            "sumCount": 0,
+            "name": "Garra Brilhante de Fugitivo Khalk",
+            "grade": 3,
+            "minPrice": 15000000
+        },
+        {
+            "mainKey": 9741,
+            "sumCount": 0,
+            "name": "Garra de Grifo",
+            "grade": 0,
+            "minPrice": 58500
+        },
+        {
+            "mainKey": 9748,
+            "sumCount": 4,
+            "name": "Abrasivo Misterioso",
+            "grade": 3,
+            "minPrice": 94000
+        },
+        {
+            "mainKey": 9768,
+            "sumCount": 692,
+            "name": "Escama de Garmoth",
+            "grade": 3,
+            "minPrice": 875000
+        },
+        {
+            "mainKey": 9773,
+            "sumCount": 7,
+            "name": "Bico Intacto de Grifo",
+            "grade": 3,
+            "minPrice": 49400000
+        },
+        {
+            "mainKey": 9779,
+            "sumCount": 0,
+            "name": "Óleo do Encanto",
+            "grade": 0,
+            "minPrice": 685000
+        },
+        {
+            "mainKey": 16901,
+            "sumCount": 7786,
+            "name": "Fertilizantes Inorgânicos",
+            "grade": 0,
+            "minPrice": 1470
+        },
+        {
+            "mainKey": 16902,
+            "sumCount": 203,
+            "name": "Fertilizantes de Subproduto",
+            "grade": 0,
+            "minPrice": 3640
+        },
+        {
+            "mainKey": 16903,
+            "sumCount": 13108,
+            "name": "Fertilizante Orgânico",
+            "grade": 0,
+            "minPrice": 7400
+        },
+        {
+            "mainKey": 44084,
+            "sumCount": 0,
+            "name": "Líquido Pegajoso",
+            "grade": 0,
+            "minPrice": 6000
+        },
+        {
+            "mainKey": 44332,
+            "sumCount": 162,
+            "name": "Pó de Cristal de Vell",
+            "grade": 2,
+            "minPrice": 1520000
+        },
+        {
+            "mainKey": 44335,
+            "sumCount": 14,
+            "name": "Poder Mágico Concentrado de Vell",
+            "grade": 4,
+            "minPrice": 7500000000
+        },
+        {
+            "mainKey": 44336,
+            "sumCount": 9998,
+            "name": "Fragmento de Pedra de Alquimia",
+            "grade": 2,
+            "minPrice": 580000
+        },
+        {
+            "mainKey": 44362,
+            "sumCount": 9,
+            "name": "Coração de Garmoth",
+            "grade": 3,
+            "minPrice": 7100000000
+        },
+        {
+            "mainKey": 44364,
+            "sumCount": 66,
+            "name": "Fóssil de Escama de Dragão",
+            "grade": 2,
+            "minPrice": 344000
+        },
+        {
+            "mainKey": 44462,
+            "sumCount": 0,
+            "name": "Chama do Desespero",
+            "grade": 3,
+            "minPrice": 600000000
+        },
+        {
+            "mainKey": 56221,
+            "sumCount": 0,
+            "name": "Respiração de Naxion",
+            "grade": 2,
+            "minPrice": 27000000
+        }
+    ],
+    "resultCode": 0,
+    "resultMsg": ""
+}

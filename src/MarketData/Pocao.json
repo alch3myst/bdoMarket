@@ -1,0 +1,293 @@
+{
+    "marketList": [
+        {
+            "mainKey": 513,
+            "sumCount": 0,
+            "name": "Poção de HP Instantânea (Pequena)",
+            "grade": 0,
+            "minPrice": 128
+        },
+        {
+            "mainKey": 514,
+            "sumCount": 0,
+            "name": "Poção de HP Instantânea (Média)",
+            "grade": 0,
+            "minPrice": 336
+        },
+        {
+            "mainKey": 515,
+            "sumCount": 0,
+            "name": "Poção de MP Instantânea (Pequena)",
+            "grade": 0,
+            "minPrice": 78
+        },
+        {
+            "mainKey": 516,
+            "sumCount": 17,
+            "name": "Poção de MP Instantânea (Média)",
+            "grade": 0,
+            "minPrice": 336
+        },
+        {
+            "mainKey": 517,
+            "sumCount": 15393,
+            "name": "Poção de HP (Pequena)",
+            "grade": 0,
+            "minPrice": 48
+        },
+        {
+            "mainKey": 518,
+            "sumCount": 62257,
+            "name": "Poção de HP (Média)",
+            "grade": 0,
+            "minPrice": 120
+        },
+        {
+            "mainKey": 519,
+            "sumCount": 2299,
+            "name": "Poção de HP (Grande)",
+            "grade": 0,
+            "minPrice": 382
+        },
+        {
+            "mainKey": 520,
+            "sumCount": 227,
+            "name": "Poção de MP (Pequena)",
+            "grade": 0,
+            "minPrice": 62
+        },
+        {
+            "mainKey": 521,
+            "sumCount": 1102,
+            "name": "Poção de MP (Média)",
+            "grade": 0,
+            "minPrice": 120
+        },
+        {
+            "mainKey": 522,
+            "sumCount": 51103,
+            "name": "Poção de MP (Grande)",
+            "grade": 0,
+            "minPrice": 300
+        },
+        {
+            "mainKey": 524,
+            "sumCount": 0,
+            "name": "Poção de HP (Extra Grande)",
+            "grade": 0,
+            "minPrice": 1410
+        },
+        {
+            "mainKey": 526,
+            "sumCount": 658,
+            "name": "Poção de MP (Extra Grande)",
+            "grade": 0,
+            "minPrice": 750
+        },
+        {
+            "mainKey": 528,
+            "sumCount": 0,
+            "name": "Poção de HP Instantânea (Grande)",
+            "grade": 0,
+            "minPrice": 845
+        },
+        {
+            "mainKey": 529,
+            "sumCount": 0,
+            "name": "Poção de Rec. de HP Instantâneo (Extra Grande)",
+            "grade": 0,
+            "minPrice": 2240
+        },
+        {
+            "mainKey": 531,
+            "sumCount": 1355,
+            "name": "Poção de MP Instantânea (Grande)",
+            "grade": 0,
+            "minPrice": 845
+        },
+        {
+            "mainKey": 532,
+            "sumCount": 3469,
+            "name": "Poção de Rec. de MP Instantânea (Extra Grande)",
+            "grade": 0,
+            "minPrice": 1690
+        },
+        {
+            "mainKey": 566,
+            "sumCount": 5216,
+            "name": "Suco de Grãos",
+            "grade": 0,
+            "minPrice": 32
+        },
+        {
+            "mainKey": 567,
+            "sumCount": 7806,
+            "name": "Suco Concentrado de Grãos",
+            "grade": 0,
+            "minPrice": 79
+        },
+        {
+            "mainKey": 568,
+            "sumCount": 0,
+            "name": "Suco de Grãos de Alta Concentração",
+            "grade": 0,
+            "minPrice": 1260
+        },
+        {
+            "mainKey": 569,
+            "sumCount": 769,
+            "name": "Suco de Erva",
+            "grade": 0,
+            "minPrice": 41
+        },
+        {
+            "mainKey": 570,
+            "sumCount": 429,
+            "name": "Suco Concentrado de Ervas",
+            "grade": 0,
+            "minPrice": 640
+        },
+        {
+            "mainKey": 571,
+            "sumCount": 1019,
+            "name": "Suco de Ervas de Alta Concentração",
+            "grade": 0,
+            "minPrice": 2100
+        },
+        {
+            "mainKey": 575,
+            "sumCount": 99,
+            "name": "Poção de Tendão de Baleia",
+            "grade": 1,
+            "minPrice": 280000
+        },
+        {
+            "mainKey": 576,
+            "sumCount": 871,
+            "name": "Poção de Tendão de Baleia Superior",
+            "grade": 2,
+            "minPrice": 1390000
+        },
+        {
+            "mainKey": 578,
+            "sumCount": 0,
+            "name": "Suco de Grão Refinado",
+            "grade": 0,
+            "minPrice": 3360
+        },
+        {
+            "mainKey": 579,
+            "sumCount": 507,
+            "name": "Suco de Ervas Refinadas",
+            "grade": 0,
+            "minPrice": 6000
+        },
+        {
+            "mainKey": 586,
+            "sumCount": 111,
+            "name": "Poção de Energia (Pequena)",
+            "grade": 2,
+            "minPrice": 398000
+        },
+        {
+            "mainKey": 587,
+            "sumCount": 38,
+            "name": "Poção de Energia (Média)",
+            "grade": 2,
+            "minPrice": 965000
+        },
+        {
+            "mainKey": 588,
+            "sumCount": 383,
+            "name": "Poção de Energia (Grande)",
+            "grade": 2,
+            "minPrice": 2440000
+        },
+        {
+            "mainKey": 589,
+            "sumCount": 4830,
+            "name": "Poção de Energia (Extra Grande)",
+            "grade": 2,
+            "minPrice": 5150000
+        },
+        {
+            "mainKey": 591,
+            "sumCount": 0,
+            "name": "Poção de WP (Pequena)",
+            "grade": 0,
+            "minPrice": 130
+        },
+        {
+            "mainKey": 592,
+            "sumCount": 980,
+            "name": "Poção de WP (Média)",
+            "grade": 0,
+            "minPrice": 336
+        },
+        {
+            "mainKey": 593,
+            "sumCount": 4619,
+            "name": "Poção de WP (Grande)",
+            "grade": 0,
+            "minPrice": 835
+        },
+        {
+            "mainKey": 594,
+            "sumCount": 628,
+            "name": "Poção de WP (Extra Grande)",
+            "grade": 0,
+            "minPrice": 2240
+        },
+        {
+            "mainKey": 595,
+            "sumCount": 6,
+            "name": "Poção de SP (Pequena)",
+            "grade": 0,
+            "minPrice": 77
+        },
+        {
+            "mainKey": 596,
+            "sumCount": 0,
+            "name": "Poção de SP (Média)",
+            "grade": 0,
+            "minPrice": 249
+        },
+        {
+            "mainKey": 597,
+            "sumCount": 0,
+            "name": "Poção de SP (Grande)",
+            "grade": 0,
+            "minPrice": 835
+        },
+        {
+            "mainKey": 598,
+            "sumCount": 0,
+            "name": "Poção de SP (Extra Grande)",
+            "grade": 0,
+            "minPrice": 2250
+        },
+        {
+            "mainKey": 7918,
+            "sumCount": 179,
+            "name": "Carne-Seca Perfumada",
+            "grade": 0,
+            "minPrice": 4270
+        },
+        {
+            "mainKey": 7919,
+            "sumCount": 523,
+            "name": "Carne-Seca Bem Seca",
+            "grade": 0,
+            "minPrice": 1280
+        },
+        {
+            "mainKey": 7920,
+            "sumCount": 1501,
+            "name": "Carne-Seca Rara",
+            "grade": 0,
+            "minPrice": 2300
+        }
+    ],
+    "resultCode": 0,
+    "resultMsg": ""
+}

@@ -1,0 +1,38 @@
+h2 {
+  text-align: center;
+  padding: 15px 0;
+}
+
+.top-tier-home-page {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr 1fr 1fr;
+      grid-template-columns: 1fr 1fr 1fr;
+  padding: 10px 10%;
+  grid-gap: 5px;
+}
+
+.top-tier-home-page * {
+  color: #966850;
+}
+
+.top-tier-home-page ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  background-color: #fefefe;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 3px;
+}
+
+.top-tier-home-page ul li:nth-child(1) {
+  margin-bottom: 5px;
+}
+/*# sourceMappingURL=home.css.map */

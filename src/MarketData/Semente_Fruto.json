@@ -1,0 +1,1707 @@
+{
+    "marketList": [
+        {
+            "mainKey": 5201,
+            "sumCount": 0,
+            "name": "Fruta de Chama Carmesim",
+            "grade": 0,
+            "minPrice": 138000
+        },
+        {
+            "mainKey": 5203,
+            "sumCount": 1148,
+            "name": "Fruto da Abundância",
+            "grade": 0,
+            "minPrice": 137000
+        },
+        {
+            "mainKey": 5205,
+            "sumCount": 0,
+            "name": "Fruto da Natureza",
+            "grade": 0,
+            "minPrice": 138000
+        },
+        {
+            "mainKey": 5207,
+            "sumCount": 0,
+            "name": "Fruta do Sol",
+            "grade": 0,
+            "minPrice": 138000
+        },
+        {
+            "mainKey": 5209,
+            "sumCount": 104692,
+            "name": "Fruta de Encantamento",
+            "grade": 0,
+            "minPrice": 13800
+        },
+        {
+            "mainKey": 5211,
+            "sumCount": 894,
+            "name": "Fruto do Poder Mágico",
+            "grade": 0,
+            "minPrice": 137000
+        },
+        {
+            "mainKey": 5213,
+            "sumCount": 2013,
+            "name": "Fruto da Perfeição",
+            "grade": 0,
+            "minPrice": 28900
+        },
+        {
+            "mainKey": 5215,
+            "sumCount": 695,
+            "name": "Fruta da Destruição",
+            "grade": 0,
+            "minPrice": 20800
+        },
+        {
+            "mainKey": 5217,
+            "sumCount": 0,
+            "name": "Fruto do Mar Profundo",
+            "grade": 0,
+            "minPrice": 420000
+        },
+        {
+            "mainKey": 6701,
+            "sumCount": 0,
+            "name": "Semente de Pimenta do Reino",
+            "grade": 0,
+            "minPrice": 3820
+        },
+        {
+            "mainKey": 6702,
+            "sumCount": 0,
+            "name": "Semente de Alho",
+            "grade": 0,
+            "minPrice": 3370
+        },
+        {
+            "mainKey": 6703,
+            "sumCount": 0,
+            "name": "Semente de Cebola",
+            "grade": 0,
+            "minPrice": 3170
+        },
+        {
+            "mainKey": 6704,
+            "sumCount": 2,
+            "name": "Semente de Morango",
+            "grade": 0,
+            "minPrice": 2760
+        },
+        {
+            "mainKey": 6705,
+            "sumCount": 0,
+            "name": "Semente de Pimenta",
+            "grade": 0,
+            "minPrice": 2870
+        },
+        {
+            "mainKey": 6706,
+            "sumCount": 0,
+            "name": "Semente de Abóbora",
+            "grade": 0,
+            "minPrice": 2970
+        },
+        {
+            "mainKey": 6707,
+            "sumCount": 5619,
+            "name": "Semente de Cenoura",
+            "grade": 0,
+            "minPrice": 1350
+        },
+        {
+            "mainKey": 6708,
+            "sumCount": 226,
+            "name": "Semente de Morango de Qualidade Alta",
+            "grade": 1,
+            "minPrice": 101000
+        },
+        {
+            "mainKey": 6709,
+            "sumCount": 437,
+            "name": "Semente de Morango Especial",
+            "grade": 2,
+            "minPrice": 206000
+        },
+        {
+            "mainKey": 6710,
+            "sumCount": 0,
+            "name": "Semente de Pimenta do Reino de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 84500
+        },
+        {
+            "mainKey": 6711,
+            "sumCount": 0,
+            "name": "Alho de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 97000
+        },
+        {
+            "mainKey": 6712,
+            "sumCount": 0,
+            "name": "Semente de Cebola de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 93500
+        },
+        {
+            "mainKey": 6714,
+            "sumCount": 0,
+            "name": "Semente de Pimenta de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 88000
+        },
+        {
+            "mainKey": 6715,
+            "sumCount": 311,
+            "name": "Semente de Abóbora de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 88500
+        },
+        {
+            "mainKey": 6716,
+            "sumCount": 543,
+            "name": "Semente de Cenoura de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 11800
+        },
+        {
+            "mainKey": 6717,
+            "sumCount": 0,
+            "name": "Semente de Pimenta do Reino",
+            "grade": 2,
+            "minPrice": 288000
+        },
+        {
+            "mainKey": 6718,
+            "sumCount": 120,
+            "name": "Semente de Alho Especial",
+            "grade": 2,
+            "minPrice": 329000
+        },
+        {
+            "mainKey": 6719,
+            "sumCount": 254,
+            "name": "Semente de Cebola Especial",
+            "grade": 2,
+            "minPrice": 210000
+        },
+        {
+            "mainKey": 6721,
+            "sumCount": 0,
+            "name": "Semente de Pimenta Especial",
+            "grade": 2,
+            "minPrice": 300000
+        },
+        {
+            "mainKey": 6722,
+            "sumCount": 222,
+            "name": "Semente de Abóbora Especial",
+            "grade": 2,
+            "minPrice": 270000
+        },
+        {
+            "mainKey": 6723,
+            "sumCount": 447,
+            "name": "Semente de Cenoura Especial",
+            "grade": 2,
+            "minPrice": 95500
+        },
+        {
+            "mainKey": 6724,
+            "sumCount": 0,
+            "name": "Semente de Linho",
+            "grade": 0,
+            "minPrice": 13500
+        },
+        {
+            "mainKey": 6728,
+            "sumCount": 0,
+            "name": "Semente de Delotia",
+            "grade": 0,
+            "minPrice": 3870
+        },
+        {
+            "mainKey": 6729,
+            "sumCount": 837,
+            "name": "Semente de Delotia de Luxo",
+            "grade": 1,
+            "minPrice": 106000
+        },
+        {
+            "mainKey": 6730,
+            "sumCount": 127,
+            "name": "Semente de Delotia Especial",
+            "grade": 2,
+            "minPrice": 200000
+        },
+        {
+            "mainKey": 6801,
+            "sumCount": 2,
+            "name": "Semente de Uva",
+            "grade": 0,
+            "minPrice": 3180
+        },
+        {
+            "mainKey": 6802,
+            "sumCount": 7,
+            "name": "Semente de Girassol",
+            "grade": 0,
+            "minPrice": 3710
+        },
+        {
+            "mainKey": 6803,
+            "sumCount": 4678,
+            "name": "Semente de Oliva",
+            "grade": 0,
+            "minPrice": 1710
+        },
+        {
+            "mainKey": 6804,
+            "sumCount": 1,
+            "name": "Semente de Tomate",
+            "grade": 0,
+            "minPrice": 5250
+        },
+        {
+            "mainKey": 6805,
+            "sumCount": 0,
+            "name": "Semente de Pimentão",
+            "grade": 0,
+            "minPrice": 3350
+        },
+        {
+            "mainKey": 6806,
+            "sumCount": 0,
+            "name": "Semente de Batata",
+            "grade": 0,
+            "minPrice": 3600
+        },
+        {
+            "mainKey": 6807,
+            "sumCount": 10,
+            "name": "Semente de Cevada",
+            "grade": 0,
+            "minPrice": 3590
+        },
+        {
+            "mainKey": 6808,
+            "sumCount": 0,
+            "name": "Semente de Trigo",
+            "grade": 0,
+            "minPrice": 3300
+        },
+        {
+            "mainKey": 6809,
+            "sumCount": 0,
+            "name": "Semente de Milho",
+            "grade": 0,
+            "minPrice": 3250
+        },
+        {
+            "mainKey": 6810,
+            "sumCount": 12,
+            "name": "Semente de Batata Doce",
+            "grade": 0,
+            "minPrice": 3640
+        },
+        {
+            "mainKey": 6811,
+            "sumCount": 81,
+            "name": "Semente de Uva de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 77500
+        },
+        {
+            "mainKey": 6812,
+            "sumCount": 198,
+            "name": "Semente de Girassol de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 103000
+        },
+        {
+            "mainKey": 6813,
+            "sumCount": 21,
+            "name": "Semente de Oliva de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 28200
+        },
+        {
+            "mainKey": 6814,
+            "sumCount": 0,
+            "name": "Semente de Tomate de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 92000
+        },
+        {
+            "mainKey": 6815,
+            "sumCount": 16,
+            "name": "Semente de Pimentão de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 96500
+        },
+        {
+            "mainKey": 6816,
+            "sumCount": 0,
+            "name": "Semente de Batata de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 17300
+        },
+        {
+            "mainKey": 6817,
+            "sumCount": 0,
+            "name": "Semente de Cevada de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 17300
+        },
+        {
+            "mainKey": 6818,
+            "sumCount": 0,
+            "name": "Semente de Trigo de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 15300
+        },
+        {
+            "mainKey": 6819,
+            "sumCount": 0,
+            "name": "Semente de Milho de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 15400
+        },
+        {
+            "mainKey": 6820,
+            "sumCount": 3,
+            "name": "Semente de Batata Doce de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 18200
+        },
+        {
+            "mainKey": 6821,
+            "sumCount": 137,
+            "name": "Semente de Uva Especial",
+            "grade": 2,
+            "minPrice": 341000
+        },
+        {
+            "mainKey": 6822,
+            "sumCount": 0,
+            "name": "Semente de Girassol Especial",
+            "grade": 2,
+            "minPrice": 134000
+        },
+        {
+            "mainKey": 6823,
+            "sumCount": 209,
+            "name": "Semente de Oliva Especial",
+            "grade": 2,
+            "minPrice": 46100
+        },
+        {
+            "mainKey": 6824,
+            "sumCount": 55,
+            "name": "Semente de Tomate Especial",
+            "grade": 2,
+            "minPrice": 147000
+        },
+        {
+            "mainKey": 6825,
+            "sumCount": 133,
+            "name": "Semente de Pimentão Especial",
+            "grade": 2,
+            "minPrice": 327000
+        },
+        {
+            "mainKey": 6826,
+            "sumCount": 223,
+            "name": "Semente de Batata Especial",
+            "grade": 2,
+            "minPrice": 146000
+        },
+        {
+            "mainKey": 6827,
+            "sumCount": 277,
+            "name": "Semente de Cevada Especial",
+            "grade": 2,
+            "minPrice": 129000
+        },
+        {
+            "mainKey": 6828,
+            "sumCount": 672,
+            "name": "Semente de Trigo Especial",
+            "grade": 2,
+            "minPrice": 92000
+        },
+        {
+            "mainKey": 6829,
+            "sumCount": 60,
+            "name": "Semente de Milho Especial",
+            "grade": 2,
+            "minPrice": 236000
+        },
+        {
+            "mainKey": 6830,
+            "sumCount": 0,
+            "name": "Semente Especial de Batata Doce",
+            "grade": 2,
+            "minPrice": 56500
+        },
+        {
+            "mainKey": 6901,
+            "sumCount": 9528,
+            "name": "Semente da Erva Aurora",
+            "grade": 0,
+            "minPrice": 1800
+        },
+        {
+            "mainKey": 6902,
+            "sumCount": 2,
+            "name": "Semente da Azaleia Prata",
+            "grade": 0,
+            "minPrice": 2260
+        },
+        {
+            "mainKey": 6903,
+            "sumCount": 2181,
+            "name": "Semente de Flor Escama-de-Fogo",
+            "grade": 0,
+            "minPrice": 1980
+        },
+        {
+            "mainKey": 6904,
+            "sumCount": 9163,
+            "name": "Semente de Grama Juba Seca",
+            "grade": 0,
+            "minPrice": 1890
+        },
+        {
+            "mainKey": 6905,
+            "sumCount": 0,
+            "name": "Semente de Grama Mel de Seda",
+            "grade": 0,
+            "minPrice": 14200
+        },
+        {
+            "mainKey": 6907,
+            "sumCount": 0,
+            "name": "Hifa de Cogumelo Vidente",
+            "grade": 0,
+            "minPrice": 21200
+        },
+        {
+            "mainKey": 6908,
+            "sumCount": 0,
+            "name": "Hifa de Cogumelo Flecha",
+            "grade": 0,
+            "minPrice": 24000
+        },
+        {
+            "mainKey": 6909,
+            "sumCount": 25,
+            "name": "Hifa de Cogumelo Anão",
+            "grade": 0,
+            "minPrice": 22500
+        },
+        {
+            "mainKey": 6910,
+            "sumCount": 0,
+            "name": "Hifa de Cogumelo Nuvem",
+            "grade": 0,
+            "minPrice": 23900
+        },
+        {
+            "mainKey": 6911,
+            "sumCount": 0,
+            "name": "Hifa de Cogumelo Céu",
+            "grade": 0,
+            "minPrice": 16500
+        },
+        {
+            "mainKey": 6912,
+            "sumCount": 61,
+            "name": "Hifa de Cogumelo Tigre",
+            "grade": 0,
+            "minPrice": 17800
+        },
+        {
+            "mainKey": 6913,
+            "sumCount": 252,
+            "name": "Hifa de Cogumelo Imperador",
+            "grade": 0,
+            "minPrice": 6250
+        },
+        {
+            "mainKey": 6914,
+            "sumCount": 33,
+            "name": "Hifa de Cogumelo Fantasma",
+            "grade": 0,
+            "minPrice": 13600
+        },
+        {
+            "mainKey": 6915,
+            "sumCount": 0,
+            "name": "Hifa de Cogumelo Nevoeiro",
+            "grade": 0,
+            "minPrice": 22800
+        },
+        {
+            "mainKey": 6916,
+            "sumCount": 114,
+            "name": "Hifa de Cogumelo Corcunda",
+            "grade": 0,
+            "minPrice": 21600
+        },
+        {
+            "mainKey": 6917,
+            "sumCount": 0,
+            "name": "Hifa de Cogumelo Blefista",
+            "grade": 0,
+            "minPrice": 28000
+        },
+        {
+            "mainKey": 6918,
+            "sumCount": 0,
+            "name": "Hifa de Cogumelo Ancestral",
+            "grade": 0,
+            "minPrice": 20100
+        },
+        {
+            "mainKey": 6919,
+            "sumCount": 15,
+            "name": "Hifa de Cogumelo Amanita",
+            "grade": 0,
+            "minPrice": 17700
+        },
+        {
+            "mainKey": 6921,
+            "sumCount": 513,
+            "name": "Semente de Trigo Desidratada",
+            "grade": 0,
+            "minPrice": 201
+        },
+        {
+            "mainKey": 6922,
+            "sumCount": 0,
+            "name": "Semente de Uva Desidratada",
+            "grade": 0,
+            "minPrice": 382
+        },
+        {
+            "mainKey": 6923,
+            "sumCount": 6,
+            "name": "Semente de Erva Aurora Desidratada",
+            "grade": 0,
+            "minPrice": 600
+        },
+        {
+            "mainKey": 6924,
+            "sumCount": 0,
+            "name": "Semente de Nolina",
+            "grade": 0,
+            "minPrice": 8200
+        },
+        {
+            "mainKey": 6925,
+            "sumCount": 0,
+            "name": "Semente de Penestraria",
+            "grade": 0,
+            "minPrice": 17500
+        },
+        {
+            "mainKey": 6926,
+            "sumCount": 0,
+            "name": "Semente de Dalvenia Alrea",
+            "grade": 0,
+            "minPrice": 17500
+        },
+        {
+            "mainKey": 6927,
+            "sumCount": 22,
+            "name": "Hifa de Cogumelo Ramalhete",
+            "grade": 0,
+            "minPrice": 10300
+        },
+        {
+            "mainKey": 6928,
+            "sumCount": 3,
+            "name": "Hifa de Leccinum",
+            "grade": 0,
+            "minPrice": 20800
+        },
+        {
+            "mainKey": 6929,
+            "sumCount": 0,
+            "name": "Hifa de Cogumelo Roxo",
+            "grade": 0,
+            "minPrice": 32400
+        },
+        {
+            "mainKey": 6930,
+            "sumCount": 8,
+            "name": "Hifa de Cogumelo Torta",
+            "grade": 0,
+            "minPrice": 14100
+        },
+        {
+            "mainKey": 6931,
+            "sumCount": 0,
+            "name": "Semente de Nolina de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 43900
+        },
+        {
+            "mainKey": 6932,
+            "sumCount": 0,
+            "name": "Semente de Penestraria de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 25400
+        },
+        {
+            "mainKey": 6933,
+            "sumCount": 0,
+            "name": "Semente de Dalvenia Alrea de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 31700
+        },
+        {
+            "mainKey": 6934,
+            "sumCount": 56,
+            "name": "Hifa de Cogumelo Ramalhete de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 34500
+        },
+        {
+            "mainKey": 6935,
+            "sumCount": 0,
+            "name": "Hifa de Leccinum de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 57000
+        },
+        {
+            "mainKey": 6936,
+            "sumCount": 133,
+            "name": "Hifa de Cogumelo Roxo de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 39900
+        },
+        {
+            "mainKey": 6937,
+            "sumCount": 356,
+            "name": "Hifa de Cogumelo Torta de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 32000
+        },
+        {
+            "mainKey": 6938,
+            "sumCount": 40,
+            "name": "Semente de Acácia Desidratada",
+            "grade": 0,
+            "minPrice": 439
+        },
+        {
+            "mainKey": 6939,
+            "sumCount": 48,
+            "name": "Semente de Acácia",
+            "grade": 0,
+            "minPrice": 18800
+        },
+        {
+            "mainKey": 6940,
+            "sumCount": 0,
+            "name": "Semente Caloroso",
+            "grade": 2,
+            "minPrice": 695000
+        },
+        {
+            "mainKey": 6941,
+            "sumCount": 12,
+            "name": "Semente Brilhante",
+            "grade": 0,
+            "minPrice": 55000
+        },
+        {
+            "mainKey": 6942,
+            "sumCount": 5,
+            "name": "Semente Desidratada",
+            "grade": 0,
+            "minPrice": 12100
+        },
+        {
+            "mainKey": 6943,
+            "sumCount": 19,
+            "name": "Semente de Leccinum",
+            "grade": 0,
+            "minPrice": 58500
+        },
+        {
+            "mainKey": 6944,
+            "sumCount": 5,
+            "name": "Semente Brilhante",
+            "grade": 0,
+            "minPrice": 56500
+        },
+        {
+            "mainKey": 6945,
+            "sumCount": 4,
+            "name": "Semente Enorme",
+            "grade": 0,
+            "minPrice": 81500
+        },
+        {
+            "mainKey": 6946,
+            "sumCount": 0,
+            "name": "Semente Pequena e Branca",
+            "grade": 0,
+            "minPrice": 15500
+        },
+        {
+            "mainKey": 6947,
+            "sumCount": 0,
+            "name": "Semente com Formato de Meia Lua",
+            "grade": 0,
+            "minPrice": 43800
+        },
+        {
+            "mainKey": 6948,
+            "sumCount": 0,
+            "name": "Semente Irregular",
+            "grade": 0,
+            "minPrice": 77000
+        },
+        {
+            "mainKey": 6949,
+            "sumCount": 0,
+            "name": "Semente Esmagada",
+            "grade": 0,
+            "minPrice": 56500
+        },
+        {
+            "mainKey": 6950,
+            "sumCount": 0,
+            "name": "Semente Preta",
+            "grade": 0,
+            "minPrice": 23700
+        },
+        {
+            "mainKey": 6952,
+            "sumCount": 209,
+            "name": "Semente de Erva Aurora de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 9100
+        },
+        {
+            "mainKey": 6953,
+            "sumCount": 315,
+            "name": "Semente de Azaléia Prata de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 43800
+        },
+        {
+            "mainKey": 6954,
+            "sumCount": 202,
+            "name": "Semente de Flor Escama de Fogo de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 76000
+        },
+        {
+            "mainKey": 6955,
+            "sumCount": 4763,
+            "name": "Semente de Grama Juba Seca de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 9450
+        },
+        {
+            "mainKey": 6956,
+            "sumCount": 21,
+            "name": "Semente de Grama Mel de Seda de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 51500
+        },
+        {
+            "mainKey": 6958,
+            "sumCount": 0,
+            "name": "Hifa de Cogumelo Vidente de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 107000
+        },
+        {
+            "mainKey": 6959,
+            "sumCount": 64,
+            "name": "Hifa de Cogumelo Flecha de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 65000
+        },
+        {
+            "mainKey": 6960,
+            "sumCount": 86,
+            "name": "Hifa de Cogumelo Anão de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 101000
+        },
+        {
+            "mainKey": 6961,
+            "sumCount": 122,
+            "name": "Hifa de Cogumelo Nuvem de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 120000
+        },
+        {
+            "mainKey": 6962,
+            "sumCount": 0,
+            "name": "Hifa de Cogumelo Céu de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 64000
+        },
+        {
+            "mainKey": 6963,
+            "sumCount": 98,
+            "name": "Hifa de Cogumelo Tigre de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 70500
+        },
+        {
+            "mainKey": 6964,
+            "sumCount": 116,
+            "name": "Hifa de Cogumelo Imperador de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 23200
+        },
+        {
+            "mainKey": 6965,
+            "sumCount": 60,
+            "name": "Hifa de Cogumelo Fantasma de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 106000
+        },
+        {
+            "mainKey": 6966,
+            "sumCount": 10,
+            "name": "Hifa de Cogumelo Névoa de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 114000
+        },
+        {
+            "mainKey": 6967,
+            "sumCount": 20,
+            "name": "Hifa de Cogumelo Corcunda de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 74000
+        },
+        {
+            "mainKey": 6968,
+            "sumCount": 0,
+            "name": "Hifa de Cogumelo Blefista de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 111000
+        },
+        {
+            "mainKey": 6969,
+            "sumCount": 0,
+            "name": "Hifa de Cogumelo Ancestral de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 120000
+        },
+        {
+            "mainKey": 6970,
+            "sumCount": 481,
+            "name": "Hifa de Cogumelo Amanita de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 75500
+        },
+        {
+            "mainKey": 6972,
+            "sumCount": 0,
+            "name": "Semente de Erva Aurora Especial",
+            "grade": 2,
+            "minPrice": 43700
+        },
+        {
+            "mainKey": 6973,
+            "sumCount": 0,
+            "name": "Semente de Azaléia Prata Especial",
+            "grade": 2,
+            "minPrice": 125000
+        },
+        {
+            "mainKey": 6974,
+            "sumCount": 0,
+            "name": "Semente de Flor Escama de Fogo Especial",
+            "grade": 2,
+            "minPrice": 179000
+        },
+        {
+            "mainKey": 6975,
+            "sumCount": 4688,
+            "name": "Semente de Grama Juba Seca Especial",
+            "grade": 2,
+            "minPrice": 32000
+        },
+        {
+            "mainKey": 6976,
+            "sumCount": 30,
+            "name": "Semente de Grama Mel de Seda Especial",
+            "grade": 2,
+            "minPrice": 61500
+        },
+        {
+            "mainKey": 6978,
+            "sumCount": 169,
+            "name": "Hifa de Cogumelo Vidente Especial",
+            "grade": 2,
+            "minPrice": 96500
+        },
+        {
+            "mainKey": 6979,
+            "sumCount": 85,
+            "name": "Hifa de Cogumelo Flecha Especial",
+            "grade": 2,
+            "minPrice": 51500
+        },
+        {
+            "mainKey": 6980,
+            "sumCount": 202,
+            "name": "Hifa de Cogumelo Anão Especial",
+            "grade": 2,
+            "minPrice": 129000
+        },
+        {
+            "mainKey": 6981,
+            "sumCount": 685,
+            "name": "Hifa de Cogumelo Nuvem Especial",
+            "grade": 2,
+            "minPrice": 107000
+        },
+        {
+            "mainKey": 6982,
+            "sumCount": 72,
+            "name": "Hifa de Cogumelo Céu Especial",
+            "grade": 2,
+            "minPrice": 142000
+        },
+        {
+            "mainKey": 6983,
+            "sumCount": 284,
+            "name": "Hifa de Cogumelo Tigre Especial",
+            "grade": 2,
+            "minPrice": 66000
+        },
+        {
+            "mainKey": 6984,
+            "sumCount": 3055,
+            "name": "Hifa de Cogumelo Imperador Especial",
+            "grade": 2,
+            "minPrice": 46000
+        },
+        {
+            "mainKey": 6985,
+            "sumCount": 131,
+            "name": "Hifa de Cogumelo Fantasma Especial",
+            "grade": 2,
+            "minPrice": 145000
+        },
+        {
+            "mainKey": 6986,
+            "sumCount": 233,
+            "name": "Hifa de Cogumelo Névoa Especial",
+            "grade": 2,
+            "minPrice": 213000
+        },
+        {
+            "mainKey": 6987,
+            "sumCount": 36,
+            "name": "Hifa de Cogumelo Corcunda Especial",
+            "grade": 2,
+            "minPrice": 40800
+        },
+        {
+            "mainKey": 6988,
+            "sumCount": 293,
+            "name": "Hifa de Cogumelo Blefista Especial",
+            "grade": 2,
+            "minPrice": 221000
+        },
+        {
+            "mainKey": 6989,
+            "sumCount": 0,
+            "name": "Hifa de Cogumelo Ancestral Especial",
+            "grade": 2,
+            "minPrice": 204000
+        },
+        {
+            "mainKey": 6990,
+            "sumCount": 1257,
+            "name": "Hifa de Cogumelo Palhaço Especial",
+            "grade": 2,
+            "minPrice": 48500
+        },
+        {
+            "mainKey": 6992,
+            "sumCount": 143,
+            "name": "Semente de Nolina Especial",
+            "grade": 2,
+            "minPrice": 140000
+        },
+        {
+            "mainKey": 6993,
+            "sumCount": 6,
+            "name": "Semente de Penestraria Especial",
+            "grade": 2,
+            "minPrice": 106000
+        },
+        {
+            "mainKey": 6994,
+            "sumCount": 2548,
+            "name": "Semente de Dalvenia Alrea Especial",
+            "grade": 2,
+            "minPrice": 45600
+        },
+        {
+            "mainKey": 6995,
+            "sumCount": 391,
+            "name": "Hifa de Cogumelo Ramalhete Especial",
+            "grade": 2,
+            "minPrice": 65500
+        },
+        {
+            "mainKey": 6996,
+            "sumCount": 347,
+            "name": "Hifa de Leccinum Especial",
+            "grade": 2,
+            "minPrice": 109000
+        },
+        {
+            "mainKey": 6997,
+            "sumCount": 3407,
+            "name": "Hifa de Cogumelo Roxo Especial",
+            "grade": 2,
+            "minPrice": 69000
+        },
+        {
+            "mainKey": 6998,
+            "sumCount": 209,
+            "name": "Hifa de Cogumelo Torta Especial",
+            "grade": 2,
+            "minPrice": 73000
+        },
+        {
+            "mainKey": 6999,
+            "sumCount": 0,
+            "name": "Semente de Acácia de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 41200
+        },
+        {
+            "mainKey": 7000,
+            "sumCount": 240,
+            "name": "Semente de Acácia Especial",
+            "grade": 2,
+            "minPrice": 287000
+        },
+        {
+            "mainKey": 7001,
+            "sumCount": 0,
+            "name": "Trigo",
+            "grade": 0,
+            "minPrice": 1660
+        },
+        {
+            "mainKey": 7002,
+            "sumCount": 353,
+            "name": "Cevada",
+            "grade": 0,
+            "minPrice": 1690
+        },
+        {
+            "mainKey": 7003,
+            "sumCount": 303,
+            "name": "Batata",
+            "grade": 0,
+            "minPrice": 1510
+        },
+        {
+            "mainKey": 7004,
+            "sumCount": 0,
+            "name": "Batata Doce",
+            "grade": 0,
+            "minPrice": 1510
+        },
+        {
+            "mainKey": 7005,
+            "sumCount": 0,
+            "name": "Milho",
+            "grade": 0,
+            "minPrice": 1790
+        },
+        {
+            "mainKey": 7006,
+            "sumCount": 4945,
+            "name": "Trigo de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 8500
+        },
+        {
+            "mainKey": 7007,
+            "sumCount": 203,
+            "name": "Cevada de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 6600
+        },
+        {
+            "mainKey": 7008,
+            "sumCount": 2,
+            "name": "Batata de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 7500
+        },
+        {
+            "mainKey": 7009,
+            "sumCount": 2697,
+            "name": "Batata Doce de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 4340
+        },
+        {
+            "mainKey": 7010,
+            "sumCount": 7,
+            "name": "Milho de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 8900
+        },
+        {
+            "mainKey": 7011,
+            "sumCount": 11359,
+            "name": "Trigo Especial",
+            "grade": 2,
+            "minPrice": 16500
+        },
+        {
+            "mainKey": 7012,
+            "sumCount": 6092,
+            "name": "Cevada Especial",
+            "grade": 2,
+            "minPrice": 11000
+        },
+        {
+            "mainKey": 7013,
+            "sumCount": 1659,
+            "name": "Batata Especial",
+            "grade": 2,
+            "minPrice": 21800
+        },
+        {
+            "mainKey": 7014,
+            "sumCount": 0,
+            "name": "Batata Doce Especial",
+            "grade": 2,
+            "minPrice": 8600
+        },
+        {
+            "mainKey": 7015,
+            "sumCount": 2482,
+            "name": "Milho Especial",
+            "grade": 2,
+            "minPrice": 22300
+        },
+        {
+            "mainKey": 7016,
+            "sumCount": 61758,
+            "name": "Tamareira",
+            "grade": 0,
+            "minPrice": 3200
+        },
+        {
+            "mainKey": 7017,
+            "sumCount": 43139,
+            "name": "Pistache",
+            "grade": 0,
+            "minPrice": 745
+        },
+        {
+            "mainKey": 7018,
+            "sumCount": 23645,
+            "name": "Figo",
+            "grade": 0,
+            "minPrice": 3860
+        },
+        {
+            "mainKey": 7019,
+            "sumCount": 71298,
+            "name": "Anise Estrelar",
+            "grade": 0,
+            "minPrice": 905
+        },
+        {
+            "mainKey": 7020,
+            "sumCount": 42496,
+            "name": "Noz-Moscada",
+            "grade": 0,
+            "minPrice": 3770
+        },
+        {
+            "mainKey": 7021,
+            "sumCount": 127341,
+            "name": "Freekeh",
+            "grade": 0,
+            "minPrice": 865
+        },
+        {
+            "mainKey": 7022,
+            "sumCount": 155725,
+            "name": "Teff",
+            "grade": 0,
+            "minPrice": 1130
+        },
+        {
+            "mainKey": 7023,
+            "sumCount": 553,
+            "name": "Palheiro",
+            "grade": 0,
+            "minPrice": 27700
+        },
+        {
+            "mainKey": 7024,
+            "sumCount": 27,
+            "name": "Palheiro de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 159000
+        },
+        {
+            "mainKey": 7025,
+            "sumCount": 147,
+            "name": "Palheiro Especial",
+            "grade": 2,
+            "minPrice": 950000
+        },
+        {
+            "mainKey": 7026,
+            "sumCount": 0,
+            "name": "Coco",
+            "grade": 0,
+            "minPrice": 3770
+        },
+        {
+            "mainKey": 7028,
+            "sumCount": 0,
+            "name": "Ração de Galinha",
+            "grade": 0,
+            "minPrice": 134000
+        },
+        {
+            "mainKey": 7029,
+            "sumCount": 0,
+            "name": "Ração de Galinha de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 570000
+        },
+        {
+            "mainKey": 7030,
+            "sumCount": 79,
+            "name": "Ração Especial de Galinha",
+            "grade": 2,
+            "minPrice": 565000
+        },
+        {
+            "mainKey": 7101,
+            "sumCount": 20589,
+            "name": "Farinha de Trigo",
+            "grade": 0,
+            "minPrice": 1980
+        },
+        {
+            "mainKey": 7102,
+            "sumCount": 11786,
+            "name": "Farinha de Cevada",
+            "grade": 0,
+            "minPrice": 1770
+        },
+        {
+            "mainKey": 7103,
+            "sumCount": 10000,
+            "name": "Farinha de Batata",
+            "grade": 0,
+            "minPrice": 2200
+        },
+        {
+            "mainKey": 7104,
+            "sumCount": 15293,
+            "name": "Farinha de Batata Doce",
+            "grade": 0,
+            "minPrice": 2490
+        },
+        {
+            "mainKey": 7105,
+            "sumCount": 19954,
+            "name": "Farinha de Milho",
+            "grade": 0,
+            "minPrice": 1830
+        },
+        {
+            "mainKey": 7106,
+            "sumCount": 114268,
+            "name": "Farinha de Teff",
+            "grade": 0,
+            "minPrice": 2670
+        },
+        {
+            "mainKey": 7107,
+            "sumCount": 3901,
+            "name": "Pó de Freekeh",
+            "grade": 0,
+            "minPrice": 316
+        },
+        {
+            "mainKey": 7201,
+            "sumCount": 24823,
+            "name": "Massa de Trigo",
+            "grade": 0,
+            "minPrice": 2100
+        },
+        {
+            "mainKey": 7202,
+            "sumCount": 42118,
+            "name": "Massa de Cevada",
+            "grade": 0,
+            "minPrice": 2300
+        },
+        {
+            "mainKey": 7203,
+            "sumCount": 32359,
+            "name": "Massa de Farinha de Batata",
+            "grade": 0,
+            "minPrice": 2370
+        },
+        {
+            "mainKey": 7204,
+            "sumCount": 27814,
+            "name": "Massa de Farinha de Batata Doce",
+            "grade": 0,
+            "minPrice": 2180
+        },
+        {
+            "mainKey": 7205,
+            "sumCount": 45915,
+            "name": "Massa de Milho",
+            "grade": 0,
+            "minPrice": 2130
+        },
+        {
+            "mainKey": 7206,
+            "sumCount": 0,
+            "name": "Massa de Teff",
+            "grade": 0,
+            "minPrice": 2690
+        },
+        {
+            "mainKey": 7207,
+            "sumCount": 5000,
+            "name": "Massa de Freekeh",
+            "grade": 0,
+            "minPrice": 860
+        },
+        {
+            "mainKey": 7301,
+            "sumCount": 0,
+            "name": "Pimenta do Reino",
+            "grade": 0,
+            "minPrice": 2550
+        },
+        {
+            "mainKey": 7302,
+            "sumCount": 5804,
+            "name": "Alho",
+            "grade": 0,
+            "minPrice": 4500
+        },
+        {
+            "mainKey": 7303,
+            "sumCount": 11322,
+            "name": "Cebola",
+            "grade": 0,
+            "minPrice": 4500
+        },
+        {
+            "mainKey": 7304,
+            "sumCount": 0,
+            "name": "Morango",
+            "grade": 0,
+            "minPrice": 585
+        },
+        {
+            "mainKey": 7305,
+            "sumCount": 0,
+            "name": "Pimenta",
+            "grade": 0,
+            "minPrice": 2750
+        },
+        {
+            "mainKey": 7306,
+            "sumCount": 41293,
+            "name": "Abóbora",
+            "grade": 0,
+            "minPrice": 1330
+        },
+        {
+            "mainKey": 7307,
+            "sumCount": 30248,
+            "name": "Uva",
+            "grade": 0,
+            "minPrice": 1520
+        },
+        {
+            "mainKey": 7308,
+            "sumCount": 0,
+            "name": "Girassol",
+            "grade": 0,
+            "minPrice": 3570
+        },
+        {
+            "mainKey": 7309,
+            "sumCount": 20129,
+            "name": "Oliva",
+            "grade": 0,
+            "minPrice": 1020
+        },
+        {
+            "mainKey": 7311,
+            "sumCount": 0,
+            "name": "Tomate",
+            "grade": 0,
+            "minPrice": 2960
+        },
+        {
+            "mainKey": 7312,
+            "sumCount": 0,
+            "name": "Pimentão",
+            "grade": 0,
+            "minPrice": 705
+        },
+        {
+            "mainKey": 7313,
+            "sumCount": 0,
+            "name": "Maça",
+            "grade": 0,
+            "minPrice": 830
+        },
+        {
+            "mainKey": 7314,
+            "sumCount": 0,
+            "name": "Cereja",
+            "grade": 0,
+            "minPrice": 815
+        },
+        {
+            "mainKey": 7315,
+            "sumCount": 0,
+            "name": "Pera",
+            "grade": 0,
+            "minPrice": 815
+        },
+        {
+            "mainKey": 7316,
+            "sumCount": 0,
+            "name": "Banana",
+            "grade": 0,
+            "minPrice": 820
+        },
+        {
+            "mainKey": 7317,
+            "sumCount": 0,
+            "name": "Abacaxi",
+            "grade": 0,
+            "minPrice": 830
+        },
+        {
+            "mainKey": 7318,
+            "sumCount": 0,
+            "name": "Repolho",
+            "grade": 0,
+            "minPrice": 3770
+        },
+        {
+            "mainKey": 7319,
+            "sumCount": 0,
+            "name": "Rosa",
+            "grade": 0,
+            "minPrice": 3770
+        },
+        {
+            "mainKey": 7320,
+            "sumCount": 0,
+            "name": "Tulipa",
+            "grade": 0,
+            "minPrice": 3770
+        },
+        {
+            "mainKey": 7321,
+            "sumCount": 17769,
+            "name": "Morango de Qualidade Alta",
+            "grade": 1,
+            "minPrice": 8900
+        },
+        {
+            "mainKey": 7322,
+            "sumCount": 63161,
+            "name": "Morango Especial",
+            "grade": 2,
+            "minPrice": 18800
+        },
+        {
+            "mainKey": 7323,
+            "sumCount": 0,
+            "name": "Pimenta do Reino de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 12400
+        },
+        {
+            "mainKey": 7324,
+            "sumCount": 0,
+            "name": "Alho de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 14300
+        },
+        {
+            "mainKey": 7325,
+            "sumCount": 2996,
+            "name": "Cebola de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 13800
+        },
+        {
+            "mainKey": 7327,
+            "sumCount": 0,
+            "name": "Pimenta de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 13000
+        },
+        {
+            "mainKey": 7328,
+            "sumCount": 2768,
+            "name": "Abóbora de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 13200
+        },
+        {
+            "mainKey": 7329,
+            "sumCount": 848,
+            "name": "Uva de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 14700
+        },
+        {
+            "mainKey": 7330,
+            "sumCount": 12205,
+            "name": "Girassol de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 15100
+        },
+        {
+            "mainKey": 7331,
+            "sumCount": 167,
+            "name": "Oliva de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 11400
+        },
+        {
+            "mainKey": 7333,
+            "sumCount": 0,
+            "name": "Tomate de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 13800
+        },
+        {
+            "mainKey": 7334,
+            "sumCount": 1069,
+            "name": "Pimentão de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 14000
+        },
+        {
+            "mainKey": 7335,
+            "sumCount": 9150,
+            "name": "Pimenta do Reino",
+            "grade": 2,
+            "minPrice": 16300
+        },
+        {
+            "mainKey": 7336,
+            "sumCount": 18925,
+            "name": "Alho Especial",
+            "grade": 2,
+            "minPrice": 13200
+        },
+        {
+            "mainKey": 7337,
+            "sumCount": 20358,
+            "name": "Cebola Especial",
+            "grade": 2,
+            "minPrice": 13300
+        },
+        {
+            "mainKey": 7339,
+            "sumCount": 24323,
+            "name": "Pimenta Especial",
+            "grade": 2,
+            "minPrice": 17000
+        },
+        {
+            "mainKey": 7340,
+            "sumCount": 13144,
+            "name": "Abóbora Especial",
+            "grade": 2,
+            "minPrice": 10900
+        },
+        {
+            "mainKey": 7341,
+            "sumCount": 2835,
+            "name": "Uva Especial",
+            "grade": 2,
+            "minPrice": 20100
+        },
+        {
+            "mainKey": 7342,
+            "sumCount": 31160,
+            "name": "Girassol Especial",
+            "grade": 2,
+            "minPrice": 15800
+        },
+        {
+            "mainKey": 7343,
+            "sumCount": 10505,
+            "name": "Oliva Especial",
+            "grade": 2,
+            "minPrice": 12900
+        },
+        {
+            "mainKey": 7345,
+            "sumCount": 10187,
+            "name": "Tomate Especial",
+            "grade": 2,
+            "minPrice": 12500
+        },
+        {
+            "mainKey": 7346,
+            "sumCount": 21160,
+            "name": "Pimentão Especial",
+            "grade": 2,
+            "minPrice": 13900
+        },
+        {
+            "mainKey": 7347,
+            "sumCount": 30300,
+            "name": "Aloés",
+            "grade": 0,
+            "minPrice": 2700
+        },
+        {
+            "mainKey": 7348,
+            "sumCount": 15567,
+            "name": "Canela",
+            "grade": 0,
+            "minPrice": 935
+        }
+    ],
+    "resultCode": 0,
+    "resultMsg": ""
+}

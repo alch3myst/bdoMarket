@@ -1,0 +1,622 @@
+{
+    "marketList": [
+        {
+            "mainKey": 504,
+            "sumCount": 206,
+            "name": "Intensificador de Poder de Ataque Corpo a Corpo",
+            "grade": 0,
+            "minPrice": 95000
+        },
+        {
+            "mainKey": 505,
+            "sumCount": 0,
+            "name": "Intensificador de Poder de Ataque à Distância",
+            "grade": 0,
+            "minPrice": 100000
+        },
+        {
+            "mainKey": 506,
+            "sumCount": 0,
+            "name": "Intensificador de Poder de Ataque de Magia",
+            "grade": 0,
+            "minPrice": 100000
+        },
+        {
+            "mainKey": 523,
+            "sumCount": 0,
+            "name": "Intensificador de Precisão",
+            "grade": 0,
+            "minPrice": 8100
+        },
+        {
+            "mainKey": 607,
+            "sumCount": 5150,
+            "name": "[Grupo] Elixir de Caça ao Humano",
+            "grade": 1,
+            "minPrice": 31400
+        },
+        {
+            "mainKey": 608,
+            "sumCount": 61,
+            "name": "[Grupo] Elixir Perfeito de Caça ao Humano",
+            "grade": 2,
+            "minPrice": 154000
+        },
+        {
+            "mainKey": 609,
+            "sumCount": 207,
+            "name": "[Grupo] Elixir do Frenesi",
+            "grade": 1,
+            "minPrice": 160000
+        },
+        {
+            "mainKey": 610,
+            "sumCount": 39,
+            "name": "[Grupo] Elixir do Frenesi Infinito",
+            "grade": 2,
+            "minPrice": 525000
+        },
+        {
+            "mainKey": 613,
+            "sumCount": 9190,
+            "name": "[Grupo] Elixir de Pilhagem",
+            "grade": 1,
+            "minPrice": 128000
+        },
+        {
+            "mainKey": 614,
+            "sumCount": 0,
+            "name": "[Grupo] Elixir de Pilhagem Forte",
+            "grade": 2,
+            "minPrice": 283000
+        },
+        {
+            "mainKey": 615,
+            "sumCount": 9527,
+            "name": "[Grupo] Elixir de Caça a Humanoide",
+            "grade": 1,
+            "minPrice": 44400
+        },
+        {
+            "mainKey": 616,
+            "sumCount": 112,
+            "name": "[Grupo] Elixir de Caça a Humanoide Feroz",
+            "grade": 2,
+            "minPrice": 95000
+        },
+        {
+            "mainKey": 617,
+            "sumCount": 30,
+            "name": "[Grupo] Elixir de Perfuração",
+            "grade": 1,
+            "minPrice": 129000
+        },
+        {
+            "mainKey": 618,
+            "sumCount": 0,
+            "name": "[Grupo] Elixir de Perfuração Brutal",
+            "grade": 2,
+            "minPrice": 301000
+        },
+        {
+            "mainKey": 623,
+            "sumCount": 1576,
+            "name": "[Grupo] Elixir de Morte",
+            "grade": 1,
+            "minPrice": 114000
+        },
+        {
+            "mainKey": 624,
+            "sumCount": 0,
+            "name": "[Grupo] Elixir de Morte Bruta",
+            "grade": 2,
+            "minPrice": 480000
+        },
+        {
+            "mainKey": 625,
+            "sumCount": 439,
+            "name": "[Grupo] Elixir de Vento",
+            "grade": 1,
+            "minPrice": 102000
+        },
+        {
+            "mainKey": 626,
+            "sumCount": 388,
+            "name": "[Grupo] Elixir de Vento Fluente",
+            "grade": 2,
+            "minPrice": 161000
+        },
+        {
+            "mainKey": 627,
+            "sumCount": 7241,
+            "name": "[Grupo] Elixir de Rapidez",
+            "grade": 1,
+            "minPrice": 82500
+        },
+        {
+            "mainKey": 628,
+            "sumCount": 113,
+            "name": "[Grupo] Elixir de Rapidez Intrépida",
+            "grade": 2,
+            "minPrice": 166000
+        },
+        {
+            "mainKey": 629,
+            "sumCount": 1,
+            "name": "[Grupo] Elixir de Feitiço",
+            "grade": 1,
+            "minPrice": 39100
+        },
+        {
+            "mainKey": 630,
+            "sumCount": 3048,
+            "name": "[Grupo] Elixir de Feitico Ágil",
+            "grade": 2,
+            "minPrice": 64000
+        },
+        {
+            "mainKey": 633,
+            "sumCount": 8853,
+            "name": "[Grupo] Elixir de Assassino",
+            "grade": 1,
+            "minPrice": 132000
+        },
+        {
+            "mainKey": 634,
+            "sumCount": 0,
+            "name": "[Grupo] Elixir de Assassino Letal",
+            "grade": 2,
+            "minPrice": 354000
+        },
+        {
+            "mainKey": 635,
+            "sumCount": 0,
+            "name": "[Grupo] Elixir de Detecção",
+            "grade": 1,
+            "minPrice": 480000
+        },
+        {
+            "mainKey": 636,
+            "sumCount": 0,
+            "name": "[Grupo] Elixir de Detecção Afiada",
+            "grade": 2,
+            "minPrice": 815000
+        },
+        {
+            "mainKey": 637,
+            "sumCount": 4680,
+            "name": "[Grupo] Elixir de Concentração",
+            "grade": 1,
+            "minPrice": 42400
+        },
+        {
+            "mainKey": 638,
+            "sumCount": 0,
+            "name": "[Grupo] Elixir de Concentração Avançada",
+            "grade": 2,
+            "minPrice": 63500
+        },
+        {
+            "mainKey": 641,
+            "sumCount": 45,
+            "name": "[Grupo] Elixir de Fúria",
+            "grade": 1,
+            "minPrice": 59000
+        },
+        {
+            "mainKey": 642,
+            "sumCount": 0,
+            "name": "[Grupo] Elixir de Fúria Infinita",
+            "grade": 2,
+            "minPrice": 89000
+        },
+        {
+            "mainKey": 649,
+            "sumCount": 2652,
+            "name": "[Grupo] Elixir de Ceifador",
+            "grade": 1,
+            "minPrice": 222000
+        },
+        {
+            "mainKey": 650,
+            "sumCount": 0,
+            "name": "[Grupo] Elixir de Ceifador de Alma",
+            "grade": 2,
+            "minPrice": 366000
+        },
+        {
+            "mainKey": 655,
+            "sumCount": 8806,
+            "name": "[Grupo] Elixir de Carnificina",
+            "grade": 1,
+            "minPrice": 190000
+        },
+        {
+            "mainKey": 656,
+            "sumCount": 0,
+            "name": "[Grupo] Elixir de Carnificina Brutal",
+            "grade": 2,
+            "minPrice": 373000
+        },
+        {
+            "mainKey": 657,
+            "sumCount": 0,
+            "name": "[Grupo] Elixir do Céu",
+            "grade": 1,
+            "minPrice": 125000
+        },
+        {
+            "mainKey": 658,
+            "sumCount": 0,
+            "name": "[Grupo] Elixir do Céu Impiedoso",
+            "grade": 2,
+            "minPrice": 393000
+        },
+        {
+            "mainKey": 670,
+            "sumCount": 6002,
+            "name": "Elixir de Caça a Humano",
+            "grade": 1,
+            "minPrice": 8450
+        },
+        {
+            "mainKey": 671,
+            "sumCount": 2672,
+            "name": "Elixir Perfeito de Caça a Humano",
+            "grade": 2,
+            "minPrice": 119000
+        },
+        {
+            "mainKey": 672,
+            "sumCount": 3649,
+            "name": "Elixir do Frenesi",
+            "grade": 1,
+            "minPrice": 125000
+        },
+        {
+            "mainKey": 673,
+            "sumCount": 2353,
+            "name": "Elixir do Frenesi Infinito",
+            "grade": 2,
+            "minPrice": 388000
+        },
+        {
+            "mainKey": 676,
+            "sumCount": 10317,
+            "name": "Elixir de Pilhagem",
+            "grade": 1,
+            "minPrice": 28600
+        },
+        {
+            "mainKey": 677,
+            "sumCount": 2722,
+            "name": "Elixir de Pilhagem Forte",
+            "grade": 2,
+            "minPrice": 240000
+        },
+        {
+            "mainKey": 678,
+            "sumCount": 5330,
+            "name": "Elixir de Caçar a Humanoide",
+            "grade": 1,
+            "minPrice": 21100
+        },
+        {
+            "mainKey": 679,
+            "sumCount": 4126,
+            "name": "Elixir de Caça a Humanoide Feroz",
+            "grade": 2,
+            "minPrice": 64500
+        },
+        {
+            "mainKey": 680,
+            "sumCount": 0,
+            "name": "Elixir de Perfuração",
+            "grade": 1,
+            "minPrice": 182000
+        },
+        {
+            "mainKey": 681,
+            "sumCount": 0,
+            "name": "Elixir de Perfuração Brutal",
+            "grade": 2,
+            "minPrice": 312000
+        },
+        {
+            "mainKey": 686,
+            "sumCount": 851,
+            "name": "Elixir da Morte",
+            "grade": 1,
+            "minPrice": 89500
+        },
+        {
+            "mainKey": 687,
+            "sumCount": 2983,
+            "name": "Elixir de Morte Brutal",
+            "grade": 2,
+            "minPrice": 433000
+        },
+        {
+            "mainKey": 688,
+            "sumCount": 11568,
+            "name": "Elixir do Vento",
+            "grade": 1,
+            "minPrice": 33100
+        },
+        {
+            "mainKey": 689,
+            "sumCount": 1097,
+            "name": "Elixir de Vento Fluente",
+            "grade": 2,
+            "minPrice": 167000
+        },
+        {
+            "mainKey": 690,
+            "sumCount": 737,
+            "name": "Elixir de Rapidez",
+            "grade": 1,
+            "minPrice": 27700
+        },
+        {
+            "mainKey": 691,
+            "sumCount": 3516,
+            "name": "Elixir da Rapidez Intrépida",
+            "grade": 2,
+            "minPrice": 73000
+        },
+        {
+            "mainKey": 692,
+            "sumCount": 1567,
+            "name": "Elixir de Feitiço",
+            "grade": 1,
+            "minPrice": 22500
+        },
+        {
+            "mainKey": 693,
+            "sumCount": 1295,
+            "name": "Elixir de Feitiço Ágil",
+            "grade": 2,
+            "minPrice": 81000
+        },
+        {
+            "mainKey": 696,
+            "sumCount": 9313,
+            "name": "Elixir de Assassinato",
+            "grade": 1,
+            "minPrice": 72500
+        },
+        {
+            "mainKey": 697,
+            "sumCount": 3206,
+            "name": "Elixir de Assassino Letal",
+            "grade": 2,
+            "minPrice": 362000
+        },
+        {
+            "mainKey": 698,
+            "sumCount": 479,
+            "name": "Elixir de Detecção",
+            "grade": 1,
+            "minPrice": 510000
+        },
+        {
+            "mainKey": 699,
+            "sumCount": 0,
+            "name": "Elixir de Detecção Afiada",
+            "grade": 2,
+            "minPrice": 850000
+        },
+        {
+            "mainKey": 700,
+            "sumCount": 5361,
+            "name": "Elixir da Concentração",
+            "grade": 1,
+            "minPrice": 15600
+        },
+        {
+            "mainKey": 701,
+            "sumCount": 0,
+            "name": "Elixir de Concentração Avançada",
+            "grade": 2,
+            "minPrice": 66000
+        },
+        {
+            "mainKey": 704,
+            "sumCount": 6835,
+            "name": "Elixir de Fúria",
+            "grade": 1,
+            "minPrice": 22200
+        },
+        {
+            "mainKey": 705,
+            "sumCount": 392,
+            "name": "Elixir da Fúria Infinita",
+            "grade": 2,
+            "minPrice": 78000
+        },
+        {
+            "mainKey": 712,
+            "sumCount": 356,
+            "name": "Elixir do Ceifador",
+            "grade": 1,
+            "minPrice": 75500
+        },
+        {
+            "mainKey": 713,
+            "sumCount": 4935,
+            "name": "Elixir de Ceifador de Alma",
+            "grade": 2,
+            "minPrice": 273000
+        },
+        {
+            "mainKey": 718,
+            "sumCount": 4159,
+            "name": "Elixir de Carnificina",
+            "grade": 1,
+            "minPrice": 91000
+        },
+        {
+            "mainKey": 719,
+            "sumCount": 0,
+            "name": "Elixir de Carnificina Brutal",
+            "grade": 2,
+            "minPrice": 387000
+        },
+        {
+            "mainKey": 720,
+            "sumCount": 4709,
+            "name": "Elixir do Céu",
+            "grade": 1,
+            "minPrice": 83000
+        },
+        {
+            "mainKey": 721,
+            "sumCount": 306,
+            "name": "Elixir do Céu Impiedoso",
+            "grade": 2,
+            "minPrice": 314000
+        },
+        {
+            "mainKey": 734,
+            "sumCount": 2,
+            "name": "Perfume de Coragem",
+            "grade": 3,
+            "minPrice": 3190000
+        },
+        {
+            "mainKey": 740,
+            "sumCount": 1174,
+            "name": "Elixir de Grifo",
+            "grade": 1,
+            "minPrice": 69000
+        },
+        {
+            "mainKey": 741,
+            "sumCount": 0,
+            "name": "Elixir de Grifo Poderoso",
+            "grade": 2,
+            "minPrice": 208000
+        },
+        {
+            "mainKey": 744,
+            "sumCount": 0,
+            "name": "[Grupo] Elixir de Grifo",
+            "grade": 1,
+            "minPrice": 96000
+        },
+        {
+            "mainKey": 745,
+            "sumCount": 0,
+            "name": "[Grupo] Elixir de Grifo Poderoso",
+            "grade": 2,
+            "minPrice": 192000
+        },
+        {
+            "mainKey": 761,
+            "sumCount": 0,
+            "name": "Reagente de Marcação",
+            "grade": 3,
+            "minPrice": 240000
+        },
+        {
+            "mainKey": 762,
+            "sumCount": 6558,
+            "name": "Elixir de Choque",
+            "grade": 1,
+            "minPrice": 14600
+        },
+        {
+            "mainKey": 763,
+            "sumCount": 2023,
+            "name": "Elixir de Choque Poderoso",
+            "grade": 2,
+            "minPrice": 117000
+        },
+        {
+            "mainKey": 764,
+            "sumCount": 346,
+            "name": "[Grupo] Elixir de Choque",
+            "grade": 1,
+            "minPrice": 85000
+        },
+        {
+            "mainKey": 765,
+            "sumCount": 0,
+            "name": "[Grupo] Elixir de Choque Poderoso",
+            "grade": 2,
+            "minPrice": 167000
+        },
+        {
+            "mainKey": 766,
+            "sumCount": 216,
+            "name": "[Mistura] Experiência - Elixir de Ceifador",
+            "grade": 2,
+            "minPrice": 29800
+        },
+        {
+            "mainKey": 768,
+            "sumCount": 184,
+            "name": "[Mistura] Rapidez - Vento - Elixir de Feitiço",
+            "grade": 2,
+            "minPrice": 376000
+        },
+        {
+            "mainKey": 769,
+            "sumCount": 87,
+            "name": "[Mistura] Caça ao Homem - Elixir de Fúria",
+            "grade": 2,
+            "minPrice": 392000
+        },
+        {
+            "mainKey": 771,
+            "sumCount": 9,
+            "name": "Elixir de Mar Profundo",
+            "grade": 3,
+            "minPrice": 5250000
+        },
+        {
+            "mainKey": 781,
+            "sumCount": 8056,
+            "name": "Perfume de Espírito",
+            "grade": 3,
+            "minPrice": 880000
+        },
+        {
+            "mainKey": 792,
+            "sumCount": 8496,
+            "name": "Elixir da Fera",
+            "grade": 3,
+            "minPrice": 595000
+        },
+        {
+            "mainKey": 793,
+            "sumCount": 5323,
+            "name": "Elixir do Gigante",
+            "grade": 3,
+            "minPrice": 765000
+        },
+        {
+            "mainKey": 794,
+            "sumCount": 1733,
+            "name": "Elixir de Barbaridade",
+            "grade": 3,
+            "minPrice": 675000
+        },
+        {
+            "mainKey": 795,
+            "sumCount": 696,
+            "name": "Elixir do Alvoroço",
+            "grade": 3,
+            "minPrice": 1410000
+        },
+        {
+            "mainKey": 1163,
+            "sumCount": 0,
+            "name": "Imortalidade : Elixir do Gigante",
+            "grade": 3,
+            "minPrice": 2740000
+        }
+    ],
+    "resultCode": 0,
+    "resultMsg": ""
+}

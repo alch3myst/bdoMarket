@@ -1,0 +1,118 @@
+{
+    "marketList": [
+        {
+            "mainKey": 15129,
+            "sumCount": 4,
+            "name": "Cristal Mágico do Infinito - Ataque pelas Costas",
+            "grade": 2,
+            "minPrice": 42600
+        },
+        {
+            "mainKey": 15130,
+            "sumCount": 4,
+            "name": "Cristal Mágico do Infinito - Ataque Baixo",
+            "grade": 2,
+            "minPrice": 30100
+        },
+        {
+            "mainKey": 15131,
+            "sumCount": 5,
+            "name": "Cristal Mágico do Infinito - Ataque Aéreo",
+            "grade": 2,
+            "minPrice": 44700
+        },
+        {
+            "mainKey": 15132,
+            "sumCount": 117,
+            "name": "Cristal Mágico do Infinito - Acerto Crítico",
+            "grade": 2,
+            "minPrice": 765000
+        },
+        {
+            "mainKey": 15133,
+            "sumCount": 9,
+            "name": "Cristal Mágico do Infinito - Ataque Rápido",
+            "grade": 2,
+            "minPrice": 55500
+        },
+        {
+            "mainKey": 15134,
+            "sumCount": 1,
+            "name": "Cristal Mágico do Infinito - Contra-Ataque",
+            "grade": 2,
+            "minPrice": 47200
+        },
+        {
+            "mainKey": 15151,
+            "sumCount": 2,
+            "name": "Cristal Mágico do Infinito - Ignorar Resistência a Empurrão",
+            "grade": 2,
+            "minPrice": 50500
+        },
+        {
+            "mainKey": 15152,
+            "sumCount": 0,
+            "name": "Cristal Mágico do Infinito - Ignorar Resistência a Derrubada",
+            "grade": 2,
+            "minPrice": 46200
+        },
+        {
+            "mainKey": 15153,
+            "sumCount": 8,
+            "name": "Cristal Mágico do Infinito - Ignorar Resistência a Agarramento",
+            "grade": 2,
+            "minPrice": 34600
+        },
+        {
+            "mainKey": 15154,
+            "sumCount": 4,
+            "name": "Cristal Mágico do Infinito - Ignorar Resistência à Atordoamento",
+            "grade": 2,
+            "minPrice": 29000
+        },
+        {
+            "mainKey": 15626,
+            "sumCount": 11,
+            "name": "Cristal de Espírito Negro",
+            "grade": 4,
+            "minPrice": 3510000
+        },
+        {
+            "mainKey": 15627,
+            "sumCount": 2,
+            "name": "Cristal do Espírito Despertado",
+            "grade": 4,
+            "minPrice": 30400000
+        },
+        {
+            "mainKey": 15633,
+            "sumCount": 10,
+            "name": "Cristal do Espírito Red",
+            "grade": 4,
+            "minPrice": 74500000
+        },
+        {
+            "mainKey": 15654,
+            "sumCount": 1,
+            "name": "Cristal de Espírito de Valtarra",
+            "grade": 4,
+            "minPrice": 21400000
+        },
+        {
+            "mainKey": 15672,
+            "sumCount": 56,
+            "name": "Cristal Mágico Impuro",
+            "grade": 4,
+            "minPrice": 100000000
+        },
+        {
+            "mainKey": 15677,
+            "sumCount": 37,
+            "name": "Cristal do Espírito Rebelde",
+            "grade": 4,
+            "minPrice": 69500000
+        }
+    ],
+    "resultCode": 0,
+    "resultMsg": ""
+}

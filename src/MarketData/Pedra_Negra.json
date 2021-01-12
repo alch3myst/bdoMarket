@@ -1,0 +1,83 @@
+{
+    "marketList": [
+        {
+            "mainKey": 4987,
+            "sumCount": 6578,
+            "name": "Cristal Negro de Magia Concentrada",
+            "grade": 4,
+            "minPrice": 7200000
+        },
+        {
+            "mainKey": 4997,
+            "sumCount": 0,
+            "name": "Fragmento Duro de Cristal Negro",
+            "grade": 2,
+            "minPrice": 1040000
+        },
+        {
+            "mainKey": 4998,
+            "sumCount": 541,
+            "name": "Fragmento Afiado de Cristal Negro",
+            "grade": 2,
+            "minPrice": 1800000
+        },
+        {
+            "mainKey": 4999,
+            "sumCount": 159763,
+            "name": "Estilhaço de Cristal Negro",
+            "grade": 2,
+            "minPrice": 220000
+        },
+        {
+            "mainKey": 5000,
+            "sumCount": 3069,
+            "name": "Cristal Negro",
+            "grade": 3,
+            "minPrice": 580000
+        },
+        {
+            "mainKey": 16001,
+            "sumCount": 1223,
+            "name": "Pedra Negra (Arma)",
+            "grade": 4,
+            "minPrice": 156000
+        },
+        {
+            "mainKey": 16002,
+            "sumCount": 7218,
+            "name": "Pedra Negra (Armadura)",
+            "grade": 4,
+            "minPrice": 176000
+        },
+        {
+            "mainKey": 16004,
+            "sumCount": 1978,
+            "name": "Pedra Negra de Magia Concentrada (Arma)",
+            "grade": 4,
+            "minPrice": 2630000
+        },
+        {
+            "mainKey": 16005,
+            "sumCount": 1722,
+            "name": "Pedra Negra de Magia Concentrada (Armadura)",
+            "grade": 4,
+            "minPrice": 1900000
+        },
+        {
+            "mainKey": 44195,
+            "sumCount": 32762,
+            "name": "Estilhaço de Memória",
+            "grade": 0,
+            "minPrice": 2530000
+        },
+        {
+            "mainKey": 721003,
+            "sumCount": 12381,
+            "name": "Pedra de Caphras",
+            "grade": 2,
+            "minPrice": 2320000
+        }
+    ],
+    "resultCode": 0,
+    "resultMsg": ""
+}

@@ -1,0 +1,101 @@
+{
+  "marketList": [
+    {
+      "name": "None",
+      "minPrice": 0
+    },{
+      "name": "Água Purificada",
+      "minPrice": 5000
+    },
+    {
+      "name": "Tempero de Cron Ancestral",
+      "minPrice": 50000
+    },
+    {
+      "name": "Rum",
+      "minPrice": 100
+    },
+    {
+      "name": "Cerveja Escura",
+      "minPrice": 1000
+    },
+    {
+      "name": "Vinho de Qualidade Alta",
+      "minPrice": 200000
+    },
+    {
+      "name": "Sal",
+      "minPrice": 20
+    },
+    {
+      "name": "Açúcar",
+      "minPrice": 20
+    },
+    {
+      "name": "Fermento",
+      "minPrice": 20
+    },
+    {
+      "name": "Óleo de Cozinha",
+      "minPrice": 20
+    },
+    {
+      "name": "Sal Desidratado ao Sol",
+      "minPrice": 200
+    },
+    {
+      "name": "Açúcar Mascavo",
+      "minPrice": 200
+    },
+    {
+      "name": "Azeite de Oliva",
+      "minPrice": 40
+    },
+    {
+      "name": "Óleo para Fritura",
+      "minPrice": 40
+    },
+    {
+      "name": "Vinho para Cozinha",
+      "minPrice": 40
+    },
+    {
+      "name": "Molho Veid",
+      "minPrice": 40
+    },
+    {
+      "name": "Água Mineral",
+      "minPrice": 30
+    },
+    {
+      "name": "Morango",
+      "minPrice": 700
+    },
+    {
+      "name": "Pimentão",
+      "minPrice": 850
+    },
+    {
+      "name": "Lágrima de Aal",
+      "minPrice": 21000
+    },
+    {
+      "name": "Lágrima de Lua do Anoitecer",
+      "minPrice": 100000
+    },
+    {
+      "name": "Sangue de Turo Rígido",
+      "minPrice": 0
+    },
+    {
+      "name": "Coração dos Turos",
+      "minPrice": 0
+    },
+    {
+      "name": "Vestígio do Espírito Queimado",
+      "minPrice": 0
+    }
+  ],
+  "resultCode": 0,
+  "resultMsg": ""
+}

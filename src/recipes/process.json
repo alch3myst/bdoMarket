@@ -1,0 +1,162 @@
+{
+  "allrecipes": [
+    {
+    "canProc": "false",
+      "name": "Pedra Negra de Magia Concentrada (Armadura)",
+      "recipe": [
+        { "name": "Pedra Negra (Armadura)", "qtd": 2 },
+        { "name": "Fragmento Duro de Cristal Negro", "qtd": 1 }
+      ],
+      "result": [
+          { "commum": "Pedra Negra de Magia Concentrada (Armadura)" },
+          { "rare": "None" }
+        ]
+    },{
+      "canProc": "false",
+      "name": "Pedra de Aprimoramento de Arma Definitiva",
+      "recipe": [
+        { "name": "Pedra de Atualização de Arma Nível 3", "qtd": 10 },
+        { "name": "Fragmento Afiado de Cristal Negro", "qtd": 1 }
+      ],
+      "result": [
+          { "commum": "Pedra de Aprimoramento de Arma Definitiva" },
+          { "rare": "None" }
+        ]
+    },{
+      "canProc": "false",
+      "name": "Pedra de Aprimoramento de Armadura Definitiva",
+      "recipe": [
+        { "name": "Pedra de Atualização de Armadura Nível 3", "qtd": 10 },
+        { "name": "Fragmento Duro de Cristal Negro", "qtd": 1 }
+      ],
+      "result": [
+          { "commum": "Pedra de Aprimoramento de Armadura Definitiva" },
+          { "rare": "None" }
+        ]
+    },{
+      "canProc": "false",
+      "name": "Pedra Negra de Magia Concentrada (Arma)",
+      "recipe": [
+        { "name": "Fragmento Afiado de Cristal Negro", "qtd": 1 },
+        { "name": "Pedra Negra (Arma)", "qtd": 2 }
+      ],
+      "result": [
+          { "commum": "Pedra Negra de Magia Concentrada (Arma)" },
+          { "rare": "None" }
+        ]
+    },{
+      "canProc": "false",
+      "name": "Refeição Simples de Cron",
+      "recipe": [
+        { "name": "Tempero de Cron Ancestral", "qtd": 1 },
+        { "name": "Refeição Serendia", "qtd": 3 },
+        { "name": "Refeição Mediah", "qtd": 3 },
+        { "name": "Refeição Especial de Drieghan", "qtd": 1 }
+      ],
+      "result": [
+          { "commum": "Refeição Simples de Cron" },
+          { "rare": "None" }
+        ]
+    },{
+      "canProc": "false",
+      "name": "Refeição de Iguarias de Cron",
+      "recipe": [
+        { "name": "Refeição Serendia", "qtd": 3 },
+        { "name": "Refeição Especial de Arehaza", "qtd": 1 },
+        { "name": "Refeição de Kamasylvia", "qtd": 3 },
+        { "name": "Tempero de Cron Ancestral", "qtd": 1 }
+      ],
+      "result": [
+          { "commum": "Refeição de Iguarias de Cron" },
+          { "rare": "None" }
+        ]
+    },{
+      "canProc": "false",
+      "name": "Refeição de Frutos do Mar de Cron",
+      "recipe": [
+        { "name": "Refeição Balenos", "qtd": 3 },
+        { "name": "Refeição Especial Calpheon", "qtd": 3 },
+        { "name": "Prato Especial de Frutos do Mar de Margória", "qtd": 1 },
+        { "name": "Tempero de Cron Ancestral", "qtd": 1 }
+      ],
+      "result": [
+          { "commum": "Refeição de Frutos do Mar de Cron" },
+          { "rare": "None" }
+        ]
+    },{
+      "canProc": "false",
+      "name": "Cristal Negro",
+      "recipe": [
+        { "name": "Estilhaço de Cristal Negro", "qtd": 1 },
+        { "name": "Pedra Negra (Arma)", "qtd": 1 },
+        { "name": "Pedra Negra (Armadura)", "qtd": 1 }
+      ],
+      "result": [
+          { "commum": "Cristal Negro" },
+          { "rare": "None" }
+        ]
+    },{
+      "canProc": "false",
+      "name": "Cristal Negro de Magia Concentrada",
+      "recipe": [
+        { "name": "Cristal Negro", "qtd": 5 },
+        { "name": "Fragmento Afiado de Cristal Negro", "qtd": 1 },
+        { "name": "Fragmento Duro de Cristal Negro", "qtd": 1 }
+      ],
+      "result": [
+          { "commum": "Cristal Negro de Magia Concentrada" },
+          { "rare": "None" }
+        ]
+    },{
+      "canProc": "false",
+      "name": "[Grupo] Elixir de Choque Poderoso",
+      "recipe": [
+        { "name": "Elixir de Choque Poderoso", "qtd": 2 },
+        { "name": "Lágrima de Aal", "qtd": 1 }
+      ],
+      "result": [
+          { "commum": "[Grupo] Elixir de Choque Poderoso" },
+          { "rare": "None" }
+        ]
+    },{
+      "canProc": "false",
+      "name": "Elixir da Folha Verde",
+      "recipe": [
+        { "name": "Elixir de Operário", "qtd": 3 },
+        { "name": "Elixir do Tempo", "qtd": 3 },
+        { "name": "Elixir de Rapidez", "qtd": 3 },
+        { "name": "Lágrima de Lua do Anoitecer", "qtd": 1 }
+      ],
+      "result": [
+          { "commum": "Elixir da Folha Verde" },
+          { "rare": "None" }
+        ]
+    },{
+      "canProc": "false",
+      "name": "Elixir do Gigante",
+      "recipe": [
+        { "name": "Elixir de Fúria", "qtd": 3 },
+        { "name": "Elixir de Choque", "qtd": 3 },
+        { "name": "Elixir de Perfuração", "qtd": 3 },
+        { "name": "Lágrima de Lua do Anoitecer", "qtd": 1 }
+      ],
+      "result": [
+          { "commum": "Elixir do Gigante" },
+          { "rare": "None" }
+        ]
+    },{
+      "canProc": "false",
+      "name": "Elixir da Fera",
+      "recipe": [
+        { "name": "Elixir do Ceifador", "qtd": 3 },
+        { "name": "Elixir de Experiência", "qtd": 3 },
+        { "name": "Elixir da Vontade", "qtd": 3 },
+        { "name": "Lágrima de Lua do Anoitecer", "qtd": 1 }
+      ],
+      "result": [
+          { "commum": "Elixir da Fera" },
+          { "rare": "None" }
+        ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+    "marketList": [
+        {
+            "mainKey": 6395,
+            "sumCount": 408,
+            "name": "Remédio da Regeneração",
+            "grade": 3,
+            "minPrice": 8950000
+        },
+        {
+            "mainKey": 9701,
+            "sumCount": 175,
+            "name": "Pasta de Isca",
+            "grade": 0,
+            "minPrice": 2770
+        },
+        {
+            "mainKey": 9702,
+            "sumCount": 0,
+            "name": "Isca de Alta Qualidade",
+            "grade": 1,
+            "minPrice": 5250
+        },
+        {
+            "mainKey": 16017,
+            "sumCount": 10201,
+            "name": "Mapa de Viajante",
+            "grade": 2,
+            "minPrice": 500000
+        },
+        {
+            "mainKey": 16242,
+            "sumCount": 0,
+            "name": "Caixa de Tesouro Dourada Lacrada",
+            "grade": 3,
+            "minPrice": 5700000
+        },
+        {
+            "mainKey": 43786,
+            "sumCount": 12,
+            "name": "Restos da Fenda",
+            "grade": 4,
+            "minPrice": 58000000
+        },
+        {
+            "mainKey": 44165,
+            "sumCount": 123852,
+            "name": "Chave de Prata",
+            "grade": 1,
+            "minPrice": 27000
+        }
+    ],
+    "resultCode": 0,
+    "resultMsg": ""
+}

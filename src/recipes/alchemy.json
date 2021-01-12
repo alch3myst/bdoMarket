@@ -1,0 +1,1197 @@
+{
+  "allrecipes": [
+    {
+      "name": "Cristal Mágico de Poder Infinito - Habilidade",
+      "recipe": [
+        { "name": "Fruta da Destruição", "qtd": 2 },
+        { "name": "Cristal Mágico de Chama Carmesim - Poder", "qtd": 1 },
+        { "name": "Rubi", "qtd": 2 },
+        { "name": "Erva Eterna", "qtd": 6 },
+        { "name": "Pedra do Pensamento Intrincada", "qtd": 1 }
+      ],
+      "result": [
+        { "commum": "Cristal Mágico de Poder Infinito - Habilidade" },
+        { "rare": "None" }
+      ]
+    },
+    {
+      "name": "Cristal Variegado Bruto",
+      "recipe": [
+        { "name": "Cristal Translúcido", "qtd": 50 },
+        { "name": "Cristal Lama", "qtd": 50 },
+        { "name": "Cristal Negro", "qtd": 50 },
+        { "name": "Cristal Azul", "qtd": 50 },
+        { "name": "Cristal Violeta", "qtd": 50 }
+      ],
+      "result": [{ "commum": "Cristal Variegado Bruto" }, { "rare": "None" }]
+    },
+    {
+      "name": "Elixir da Concentração",
+      "recipe": [
+        { "name": "Reagente Líquido Limpo", "qtd": 1 },
+        { "name": "Cogumelo Nuvem", "qtd": 3 },
+        { "name": "Grama Selvagem", "qtd": 2 },
+        { "name": "Sangue de Urso", "qtd": 3 }
+      ],
+      "result": [
+        { "commum": "Elixir da Concentração" },
+        { "rare": "Elixir de Concentração Avançada" }
+      ]
+    },
+    {
+      "name": "Elixir da Defesa",
+      "recipe": [
+        { "name": "Reagente Líquido Limpo", "qtd": 1 },
+        { "name": "Seiva de Freixo", "qtd": 6 },
+        { "name": "Sangue de Ovelha", "qtd": 5 },
+        { "name": "Água Purificada", "qtd": 3 }
+      ],
+      "result": [
+        { "commum": "Elixir da Defesa" },
+        { "rare": "Elixir de Defesa de Aço" }
+      ]
+    },
+    {
+      "name": "Elixir da Energia",
+      "recipe": [
+        { "name": "Reagente Pó Puro", "qtd": 1 },
+        { "name": "Sangue de Raposa", "qtd": 4 },
+        { "name": "Água Purificada", "qtd": 3 },
+        { "name": "Poção de MP (Pequena)", "qtd": 2 }
+      ],
+      "result": [
+        { "commum": "Elixir da Energia" },
+        { "rare": "Elixir de Energia Afluente" }
+      ]
+    },
+    {
+      "name": "Elixir da Habilidade",
+      "recipe": [
+        { "name": "Sangue de Homem Sábio", "qtd": 2 },
+        { "name": "Delotia", "qtd": 5 },
+        { "name": "Pó do Tempo", "qtd": 2 },
+        { "name": "Seiva de Espinheiro", "qtd": 5 },
+        { "name": "Traço de Caos", "qtd": 2 }
+      ],
+      "result": [
+        { "commum": "Elixir da Habilidade" },
+        { "rare": "Elixir da Habilidade Infinita" }
+      ]
+    },
+    {
+      "name": "Elixir da HP",
+      "recipe": [
+        { "name": "Reagente Pó Puro", "qtd": 1 },
+        { "name": "Azaleia Prata", "qtd": 3 },
+        { "name": "Sangue de Raposa", "qtd": 5 },
+        { "name": "Poção de HP (Pequena)", "qtd": 3 }
+      ],
+      "result": [
+        { "commum": "Elixir da HP" },
+        { "rare": "Elixir de HP Poderosa" }
+      ]
+    },
+    {
+      "name": "Elixir da Morte",
+      "recipe": [
+        { "name": "Óleo de Tranquilidade", "qtd": 1 },
+        { "name": "Reagente Líquido Limpo", "qtd": 6 },
+        { "name": "Cogumelo Ancestral", "qtd": 2 },
+        { "name": "Seiva de Freixo", "qtd": 7 },
+        { "name": "Traço de Morte", "qtd": 2 }
+      ],
+      "result": [
+        { "commum": "Elixir da Morte" },
+        { "rare": "Elixir de Morte Brutal" }
+      ]
+    },
+    {
+      "name": "Elixir da Resistência",
+      "recipe": [
+        { "name": "Cogumelo Nuvem", "qtd": 3 },
+        { "name": "Seiva de Bétula", "qtd": 1 },
+        { "name": "Sangue de Lobo", "qtd": 7 },
+        { "name": "Água Purificada", "qtd": 3 }
+      ],
+      "result": [
+        { "commum": "Elixir da Resistência" },
+        { "rare": "Elixir da Resistência Afiada" }
+      ]
+    },
+    {
+      "name": "Elixir da Vontade",
+      "recipe": [
+        { "name": "Reagente Pó Puro", "qtd": 1 },
+        { "name": "Erva Aurora", "qtd": 4 },
+        { "name": "Sangue de Lobo", "qtd": 6 },
+        { "name": "Água Purificada", "qtd": 3 }
+      ],
+      "result": [
+        { "commum": "Elixir da Vontade" },
+        { "rare": "Elixir da Vontade Extraordinária" }
+      ]
+    },
+    {
+      "name": "Elixir das Asas",
+      "recipe": [
+        { "name": "Azaleia Prata", "qtd": 2 },
+        { "name": "Seiva de Freixo", "qtd": 1 },
+        { "name": "Sangue de Urso", "qtd": 4 },
+        { "name": "Água Purificada", "qtd": 5 }
+      ],
+      "result": [
+        { "commum": "Elixir das Asas" },
+        { "rare": "Elixir das Asas Ascendentes" }
+      ]
+    },
+    {
+      "name": "Elixir de Amizade",
+      "recipe": [
+        { "name": "Sangue da Fera Lendária", "qtd": 1 },
+        { "name": "Flor de Escama de Fogo", "qtd": 5 },
+        { "name": "Seiva de Freixo", "qtd": 6 },
+        { "name": "Pó de Pedra Negra", "qtd": 3 }
+      ],
+      "result": [
+        { "commum": "Elixir de Amizade" },
+        { "rare": "Elixir de Melhoria de Amizade" }
+      ]
+    },
+    {
+      "name": "Elixir de Antídoto",
+      "recipe": [
+        { "name": "Reagente Pó Puro", "qtd": 1 },
+        { "name": "Grama Selvagem", "qtd": 1 },
+        { "name": "Sangue de Ovelha", "qtd": 2 },
+        { "name": "Azeite de Oliva", "qtd": 3 }
+      ],
+      "result": [{ "commum": "Elixir de Antídoto" }, { "rare": "None" }]
+    },
+    {
+      "name": "Elixir de Assassinato",
+      "recipe": [
+        { "name": "Óleo de Regeneração", "qtd": 1 },
+        { "name": "Reagente Pó Puro", "qtd": 5 },
+        { "name": "Cogumelo Amanita", "qtd": 4 },
+        { "name": "Caroço de Árvore Vermelha", "qtd": 2 },
+        { "name": "Traço de Memória", "qtd": 2 }
+      ],
+      "result": [
+        { "commum": "Elixir de Assassinato" },
+        { "rare": "Elixir de Assassino Letal" }
+      ]
+    },
+    {
+      "name": "Elixir de Boas Lembranças",
+      "recipe": [
+        { "name": "Elemento Imperfeita Ancestral", "qtd": 1 },
+        { "name": "Base de Síntese Especial de Arenda", "qtd": 1 },
+        { "name": "Óleo de Regeneração", "qtd": 1 },
+        { "name": "Traço de Memória", "qtd": 2 }
+      ],
+      "result": [{ "commum": "Elixir de Boas Lembranças" }, { "rare": "None" }]
+    },
+    {
+      "name": "Elixir de Carnificina",
+      "recipe": [
+        { "name": "Óleo da Corrupção", "qtd": 1 },
+        { "name": "Reagente Pó Puro", "qtd": 7 },
+        { "name": "Cogumelo Tigre", "qtd": 2 },
+        { "name": "Folha de Espírito", "qtd": 2 },
+        { "name": "Traço da Terra", "qtd": 3 }
+      ],
+      "result": [
+        { "commum": "Elixir de Carnificina" },
+        { "rare": "Elixir de Carnificina Brutal" }
+      ]
+    },
+    {
+      "name": "Elixir de Caça a Humano",
+      "recipe": [
+        { "name": "Sangue de Palhaço", "qtd": 1 },
+        { "name": "Cogumelo Vidente", "qtd": 4 },
+        { "name": "Seiva de Bordo", "qtd": 4 },
+        { "name": "Pó de Pedra Negra", "qtd": 3 }
+      ],
+      "result": [
+        { "commum": "Elixir de Caça a Humano" },
+        { "rare": "Elixir Perfeito de Caça a Humano" }
+      ]
+    },
+    {
+      "name": "Elixir de Caçar a Humanoide",
+      "recipe": [
+        { "name": "Sangue do Pecador", "qtd": 1 },
+        { "name": "Cogumelo Flecha", "qtd": 4 },
+        { "name": "Seiva de Abeto", "qtd": 4 },
+        { "name": "Pó de Pedra Negra", "qtd": 3 }
+      ],
+      "result": [
+        { "commum": "Elixir de Caçar a Humanoide" },
+        { "rare": "Elixir de Caça a Humanoide Feroz" }
+      ]
+    },
+    {
+      "name": "Elixir de Choque",
+      "recipe": [
+        { "name": "Sangue de Palhaço", "qtd": 1 },
+        { "name": "Cogumelo Tigre", "qtd": 5 },
+        { "name": "Seiva de Cedro", "qtd": 7 },
+        { "name": "Pó do Tempo", "qtd": 3 }
+      ],
+      "result": [
+        { "commum": "Elixir de Choque" },
+        { "rare": "Elixir de Choque Poderoso" }
+      ]
+    },
+    {
+      "name": "Elixir de Detecção",
+      "recipe": [
+        { "name": "Óleo da Tempestade", "qtd": 1 },
+        { "name": "Reagente Pó Puro", "qtd": 6 },
+        { "name": "Trufa", "qtd": 3 },
+        { "name": "Casca de Árvore Velha", "qtd": 2 },
+        { "name": "Traço de Selvageria", "qtd": 3 }
+      ],
+      "result": [
+        { "commum": "Elixir de Detecção" },
+        { "rare": "Elixir de Detecção Afiada" }
+      ]
+    },
+    {
+      "name": "Elixir de Espiral",
+      "recipe": [
+        { "name": "Seiva de Tuia", "qtd": 6 },
+        { "name": "Galho de Monge", "qtd": 3 },
+        { "name": "Sangue de Palhaço", "qtd": 2 },
+        { "name": "Pó de Chama", "qtd": 2 },
+        { "name": "Água Purificada", "qtd": 3 }
+      ],
+      "result": [
+        { "commum": "Elixir de Espiral" },
+        { "rare": "Elixir de Espiral Brilhante" }
+      ]
+    },
+    {
+      "name": "Elixir de Espírito Looney",
+      "recipe": [
+        { "name": "Seiva de Árvore Musgosa", "qtd": 4 },
+        { "name": "Cogumelo Vulcão", "qtd": 2 },
+        { "name": "Pó de Chama", "qtd": 3 },
+        { "name": "Caroço de Árvore Vermelha", "qtd": 5 },
+        { "name": "Malva", "qtd": 1 }
+      ],
+      "result": [
+        { "commum": "Elixir de Espírito Looney" },
+        { "rare": "Elixir de Espírito Looney Poderoso" }
+      ]
+    },
+    {
+      "name": "Elixir de Espírito Weenie",
+      "recipe": [
+        { "name": "Seiva de Árvore Musgosa", "qtd": 4 },
+        { "name": "Cogumelo Azul", "qtd": 2 },
+        { "name": "Pó do Tempo", "qtd": 3 },
+        { "name": "Galho de Monge", "qtd": 5 },
+        { "name": "Flor Celestial", "qtd": 1 }
+      ],
+      "result": [
+        { "commum": "Elixir de Espírito Weenie" },
+        { "rare": "Elixir de Espírito Weenie Afluente" }
+      ]
+    },
+    {
+      "name": "Elixir de Estamina",
+      "recipe": [
+        { "name": "Reagente Pó Puro", "qtd": 1 },
+        { "name": "Cogumelo Anão", "qtd": 2 },
+        { "name": "Seiva de Bétula", "qtd": 5 },
+        { "name": "Sangue de Urso", "qtd": 4 }
+      ],
+      "result": [
+        { "commum": "Elixir de Estamina" },
+        { "rare": "Elixir de Estamina Esmagadora" }
+      ]
+    },
+    {
+      "name": "Elixir de Experiência",
+      "recipe": [
+        { "name": "Sangue de Palhaço", "qtd": 1 },
+        { "name": "Planta Juba de Leão", "qtd": 7 },
+        { "name": "Seiva de Pinheiro", "qtd": 5 },
+        { "name": "Pó de Chama", "qtd": 2 }
+      ],
+      "result": [
+        { "commum": "Elixir de Experiência" },
+        { "rare": "Elixir de Experiência Esplêndida" }
+      ]
+    },
+    {
+      "name": "Elixir de Feitiço",
+      "recipe": [
+        { "name": "Sangue do Tirano", "qtd": 1 },
+        { "name": "Flor de Escama de Fogo", "qtd": 5 },
+        { "name": "Seiva de Bordo", "qtd": 3 },
+        { "name": "Pó de Escuridão", "qtd": 2 }
+      ],
+      "result": [
+        { "commum": "Elixir de Feitiço" },
+        { "rare": "Elixir de Feitiço Ágil" }
+      ]
+    },
+    {
+      "name": "Elixir de Fúria",
+      "recipe": [
+        { "name": "Cogumelo Anão", "qtd": 4 },
+        { "name": "Seiva de Freixo", "qtd": 1 },
+        { "name": "Sangue de Urso", "qtd": 4 },
+        { "name": "Água Purificada", "qtd": 3 }
+      ],
+      "result": [
+        { "commum": "Elixir de Fúria" },
+        { "rare": "Elixir da Fúria Infinita" }
+      ]
+    },
+    {
+      "name": "Elixir de Grifo",
+      "recipe": [
+        { "name": "Garra de Grifo", "qtd": 1 },
+        { "name": "Seiva de Cedro", "qtd": 6 },
+        { "name": "Traço de Batalha", "qtd": 3 },
+        { "name": "Água Purificada", "qtd": 3 },
+        { "name": "Sangue do Pecador", "qtd": 2 }
+      ],
+      "result": [
+        { "commum": "Elixir de Grifo" },
+        { "rare": "Elixir de Grifo Poderoso" }
+      ]
+    },
+    {
+      "name": "Elixir de Hemostasia",
+      "recipe": [
+        { "name": "Reagente Pó Puro", "qtd": 1 },
+        { "name": "Cogumelo Nuvem", "qtd": 1 },
+        { "name": "Seiva de Freixo", "qtd": 1 },
+        { "name": "Água Purificada", "qtd": 3 }
+      ],
+      "result": [{ "commum": "Elixir de Hemostasia" }, { "rare": "None" }]
+    },
+    {
+      "name": "Elixir de Mar Profundo",
+      "recipe": [
+        { "name": "Óleo de Abismo", "qtd": 1 },
+        { "name": "Cristal de Coral", "qtd": 2 },
+        { "name": "Reagente Líquido Limpo", "qtd": 5 },
+        { "name": "Cogumelo Flecha", "qtd": 5 },
+        { "name": "Seiva de Cedro Branco", "qtd": 5 }
+      ],
+      "result": [{ "commum": "Elixir de Mar Profundo" }, { "rare": "None" }]
+    },
+    {
+      "name": "Elixir de Mentalidade",
+      "recipe": [
+        { "name": "Reagente Líquido Limpo", "qtd": 1 },
+        { "name": "Seiva de Freixo", "qtd": 4 },
+        { "name": "Água Purificada", "qtd": 3 },
+        { "name": "Poção de MP (Pequena)", "qtd": 3 }
+      ],
+      "result": [
+        { "commum": "Elixir de Mentalidade" },
+        { "rare": "Elixir de Mentalidade Limpa" }
+      ]
+    },
+    {
+      "name": "Elixir de Mão Dourada",
+      "recipe": [
+        { "name": "Óleo da Tempestade", "qtd": 1 },
+        { "name": "Reagente Líquido Limpo", "qtd": 4 },
+        { "name": "Cogumelo Nevoeiro", "qtd": 4 },
+        { "name": "Vestígio de Caça", "qtd": 3 },
+        { "name": "Seiva de Abeto", "qtd": 6 }
+      ],
+      "result": [
+        { "commum": "Elixir de Mão Dourada" },
+        { "rare": "Elixir de Gloriosa Mão Dourada" }
+      ]
+    },
+    {
+      "name": "Elixir de Operário",
+      "recipe": [
+        { "name": "Sangue do Pecador", "qtd": 1 },
+        { "name": "Azaleia Prata", "qtd": 6 },
+        { "name": "Seiva de Freixo", "qtd": 4 },
+        { "name": "Pó de Chama", "qtd": 2 }
+      ],
+      "result": [
+        { "commum": "Elixir de Operário" },
+        { "rare": "Elixir de Operário Habilidoso" }
+      ]
+    },
+    {
+      "name": "Elixir de Perfuração",
+      "recipe": [
+        { "name": "Óleo da Corrupção", "qtd": 1 },
+        { "name": "Reagente Líquido Limpo", "qtd": 4 },
+        { "name": "Cogumelo Blefista", "qtd": 5 },
+        { "name": "Seiva de Pinheiro", "qtd": 5 },
+        { "name": "Traço de Violência", "qtd": 2 }
+      ],
+      "result": [
+        { "commum": "Elixir de Perfuração" },
+        { "rare": "Elixir de Perfuração Brutal" }
+      ]
+    },
+    {
+      "name": "Elixir de Pescador",
+      "recipe": [
+        { "name": "Sangue de Homem Sábio", "qtd": 1 },
+        { "name": "Erva Aurora", "qtd": 6 },
+        { "name": "Seiva de Abeto", "qtd": 3 },
+        { "name": "Pó de Chama", "qtd": 2 }
+      ],
+      "result": [
+        { "commum": "Elixir de Pescador" },
+        { "rare": "Elixir de Pescador Habilidoso" }
+      ]
+    },
+    {
+      "name": "Elixir de Pilhagem",
+      "recipe": [
+        { "name": "Óleo de Coragem", "qtd": 1 },
+        { "name": "Reagente Líquido Limpo", "qtd": 4 },
+        { "name": "Cogumelo Corcunda", "qtd": 3 },
+        { "name": "Seiva de Bétula", "qtd": 4 },
+        { "name": "Traço de Floresta", "qtd": 2 }
+      ],
+      "result": [
+        { "commum": "Elixir de Pilhagem" },
+        { "rare": "Elixir de Pilhagem Forte" }
+      ]
+    },
+    {
+      "name": "Elixir de Rapidez",
+      "recipe": [
+        { "name": "Sangue da Fera Lendária", "qtd": 1 },
+        { "name": "Cogumelo Flecha", "qtd": 5 },
+        { "name": "Seiva de Bétula", "qtd": 5 },
+        { "name": "Pó de Escuridão", "qtd": 2 }
+      ],
+      "result": [
+        { "commum": "Elixir de Rapidez" },
+        { "rare": "Elixir da Rapidez Intrépida" }
+      ]
+    },
+    {
+      "name": "Elixir de Remoção de Queimadura",
+      "recipe": [
+        { "name": "Reagente Líquido Limpo", "qtd": 1 },
+        { "name": "Água Purificada", "qtd": 1 },
+        { "name": "Frutas", "qtd": 2 },
+        { "name": "Grama Selvagem", "qtd": 2 }
+      ],
+      "result": [
+        { "commum": "Elixir de Remoção de Queimadura" },
+        { "rare": "None" }
+      ]
+    },
+    {
+      "name": "Elixir de Ressurreição",
+      "recipe": [
+        { "name": "Reagente Líquido Limpo", "qtd": 1 },
+        { "name": "Erva Aurora", "qtd": 3 },
+        { "name": "Água Purificada", "qtd": 3 },
+        { "name": "Poção de HP (Pequena)", "qtd": 2 }
+      ],
+      "result": [
+        { "commum": "Elixir de Ressurreição" },
+        { "rare": "Elixir de Ressurreição Poderosa" }
+      ]
+    },
+    {
+      "name": "Elixir de Tendão de Baleia",
+      "canProc": "special",
+      "recipe": [
+        { "name": "Tendão de Baleia Rei", "qtd": 1 },
+        { "name": "Sangue de Palhaço", "qtd": 1 },
+        { "name": "Seiva de Freixo", "qtd": 12 },
+        { "name": "Água Purificada", "qtd": 5 },
+        { "name": "Reagente Líquido Limpo", "qtd": 2 }
+      ],
+      "result": [
+        { "commum": "Elixir de Tendão de Baleia" },
+        { "rare": "Elixir Robusto de Tendão de Baleia" }
+      ]
+    },
+    {
+      "name": "Elixir de Treinamento",
+      "recipe": [
+        { "name": "Sangue da Fera Lendária", "qtd": 1 },
+        { "name": "Azaleia Prata", "qtd": 7 },
+        { "name": "Seiva de Pinheiro", "qtd": 4 },
+        { "name": "Pó de Rachadura", "qtd": 2 }
+      ],
+      "result": [
+        { "commum": "Elixir de Treinamento" },
+        { "rare": "Elixir de Treinamento de Especialistas" }
+      ]
+    },
+    {
+      "name": "Elixir de Treinamento",
+      "recipe": [
+        { "name": "Óleo de Tranquilidade", "qtd": 2 },
+        { "name": "Reagente de Delotia Purificado", "qtd": 3 },
+        { "name": "Seiva de Espinheiro", "qtd": 5 },
+        { "name": "Erva Eterna", "qtd": 5 },
+        { "name": "Traço de Floresta", "qtd": 2 }
+      ],
+      "result": [
+        { "commum": "Elixir de Treinamento" },
+        { "rare": "Elixir de Treinamento Aprimorado" }
+      ]
+    },
+    {
+      "name": "Elixir do Ceifador",
+      "recipe": [
+        { "name": "Óleo de Coragem", "qtd": 1 },
+        { "name": "Reagente Pó Puro", "qtd": 4 },
+        { "name": "Cogumelo Céu", "qtd": 2 },
+        { "name": "Galho de Monge", "qtd": 2 },
+        { "name": "Traço de Origem", "qtd": 4 }
+      ],
+      "result": [
+        { "commum": "Elixir do Ceifador" },
+        { "rare": "Elixir de Ceifador de Alma" }
+      ]
+    },
+    {
+      "name": "Elixir do Céu",
+      "recipe": [
+        { "name": "Óleo de Tranquilidade", "qtd": 1 },
+        { "name": "Reagente Pó Puro", "qtd": 6 },
+        { "name": "Cogumelo Imperador", "qtd": 1 },
+        { "name": "Laço de Árvore Sangrenta", "qtd": 2 },
+        { "name": "Traço de Ascensão", "qtd": 4 }
+      ],
+      "result": [
+        { "commum": "Elixir do Céu" },
+        { "rare": "Elixir do Céu Impiedoso" }
+      ]
+    },
+    {
+      "name": "Elixir do Frenesi",
+      "recipe": [
+        { "name": "Óleo de Regeneração", "qtd": 1 },
+        { "name": "Reagente Líquido Limpo", "qtd": 5 },
+        { "name": "Seiva de Cedro", "qtd": 5 },
+        { "name": "Traço de Batalha", "qtd": 3 },
+        { "name": "Cogumelo Fantasma", "qtd": 2 }
+      ],
+      "result": [
+        { "commum": "Elixir do Frenesi" },
+        { "rare": "Elixir do Frenesi Infinito" }
+      ]
+    },
+    {
+      "name": "Elixir do Khalk",
+      "canProc": "false",
+      "recipe": [
+        { "name": "Pele de Fugitivo Khalk", "qtd": 1 },
+        { "name": "Seiva de Cedro Branco", "qtd": 10 },
+        { "name": "Traço de Caos", "qtd": 5 },
+        { "name": "Água Purificada", "qtd": 4 },
+        { "name": "Óleo da Corrupção", "qtd": 2 }
+      ],
+      "result": [{ "commum": "Elixir do Khalk" }, { "rare": "None" }]
+    },
+    {
+      "name": "Elixir do Selo",
+      "recipe": [
+        { "name": "Cogumelo Anão", "qtd": 3 },
+        { "name": "Seiva de Bétula", "qtd": 1 },
+        { "name": "Sangue de Lobo", "qtd": 4 },
+        { "name": "Água Purificada", "qtd": 5 }
+      ],
+      "result": [
+        { "commum": "Elixir do Selo" },
+        { "rare": "Elixir do Selo Ágil" }
+      ]
+    },
+    {
+      "name": "Elixir do Tempo",
+      "recipe": [
+        { "name": "Sangue de Homem Sábio", "qtd": 1 },
+        { "name": "Flor de Escama de Fogo", "qtd": 6 },
+        { "name": "Pó do Tempo", "qtd": 2 },
+        { "name": "Seiva de Bordo", "qtd": 5 }
+      ],
+      "result": [
+        { "commum": "Elixir do Tempo" },
+        { "rare": "Elixir de Tempo Fluente" }
+      ]
+    },
+    {
+      "name": "Elixir do Trabalho",
+      "recipe": [
+        { "name": "Sangue do Pecador", "qtd": 2 },
+        { "name": "Reagente de Delotia Purificado", "qtd": 2 },
+        { "name": "Pó do Tempo", "qtd": 2 },
+        { "name": "Seiva de Espinheiro", "qtd": 4 }
+      ],
+      "result": [
+        { "commum": "Elixir do Trabalho" },
+        { "rare": "Elixir do Trabalho Duro" }
+      ]
+    },
+    {
+      "name": "Elixir do Vento",
+      "recipe": [
+        { "name": "Sangue de Homem Sábio", "qtd": 1 },
+        { "name": "Cogumelo Vidente", "qtd": 5 },
+        { "name": "Seiva de Pinheiro", "qtd": 5 },
+        { "name": "Pó de Escuridão", "qtd": 2 }
+      ],
+      "result": [
+        { "commum": "Elixir do Vento" },
+        { "rare": "Elixir de Vento Fluente" }
+      ]
+    },
+    {
+      "name": "Endurecedor de Madeira",
+      "canProc":"special",
+      "recipe": [
+        { "name": "Reagente Pó Puro", "qtd": 1 },
+        { "name": "Laço de Árvore Sangrenta", "qtd": 3 },
+        { "name": "Seiva de Abeto", "qtd": 4 },
+        { "name": "Traço da Terra", "qtd": 3 }
+      ],
+      "result": [{ "commum": "Endurecedor de Madeira" }, { "rare": "None" }]
+    },
+    {
+      "name": "Erva Venenosa",
+      "recipe": [
+        { "name": "Seiva da Planta Insetívora", "qtd": 1 },
+        { "name": "Cogumelo Amanita", "qtd": 5 }
+      ],
+      "result": [{ "commum": "Erva Venenosa" }, { "rare": "None" }]
+    },
+    {
+      "name": "Esmalte de Couro",
+      "recipe": [
+        { "name": "Reagente Líquido Limpo", "qtd": 1 },
+        { "name": "Seiva de Bordo", "qtd": 3 },
+        { "name": "Traço de Ascensão", "qtd": 3 },
+        { "name": "Pó de Escuridão", "qtd": 2 }
+      ],
+      "result": [{ "commum": "Esmalte de Couro" }, { "rare": "None" }]
+    },
+    {
+      "name": "Essência da Abundância",
+      "recipe": [
+        { "name": "Fruto da Abundância", "qtd": 2 },
+        { "name": "Cogumelo Nuvem", "qtd": 3 },
+        { "name": "Seiva de Bétula", "qtd": 4 },
+        { "name": "Traço de Ascensão", "qtd": 2 }
+      ],
+      "result": [{ "commum": "Essência da Abundância" }, { "rare": "None" }]
+    },
+    {
+      "name": "Essência da Destruição",
+      "recipe": [
+        { "name": "Fruta da Destruição", "qtd": 2 },
+        { "name": "Azaleia Prata", "qtd": 3 },
+        { "name": "Seiva de Pinheiro", "qtd": 4 },
+        { "name": "Pó de Chama", "qtd": 2 }
+      ],
+      "result": [{ "commum": "Essência da Destruição" }, { "rare": "None" }]
+    },
+    {
+      "name": "Essência da Natureza",
+      "recipe": [
+        { "name": "Fruto da Natureza", "qtd": 2 },
+        { "name": "Cogumelo Vidente", "qtd": 3 },
+        { "name": "Seiva de Bordo", "qtd": 4 },
+        { "name": "Traço da Terra", "qtd": 2 }
+      ],
+      "result": [{ "commum": "Essência da Natureza" }, { "rare": "None" }]
+    },
+    {
+      "name": "Essência da Perfeição",
+      "recipe": [
+        { "name": "Fruto da Perfeição", "qtd": 2 },
+        { "name": "Erva Aurora", "qtd": 3 },
+        { "name": "Seiva de Bordo", "qtd": 4 },
+        { "name": "Pó de Chama", "qtd": 2 }
+      ],
+      "result": [{ "commum": "Essência da Perfeição" }, { "rare": "None" }]
+    },
+    {
+      "name": "Essência de Chama Carmesim",
+      "recipe": [
+        { "name": "Fruta de Chama Carmesim", "qtd": 2 },
+        { "name": "Cogumelo Anão", "qtd": 3 },
+        { "name": "Seiva de Freixo", "qtd": 4 },
+        { "name": "Traço de Ascensão", "qtd": 2 }
+      ],
+      "result": [{ "commum": "Essência de Chama Carmesim" }, { "rare": "None" }]
+    },
+    {
+      "name": "Essência de Encantamento",
+      "recipe": [
+        { "name": "Fruta de Encantamento", "qtd": 2 },
+        { "name": "Flor de Escama de Fogo", "qtd": 3 },
+        { "name": "Seiva de Freixo", "qtd": 4 },
+        { "name": "Pó de Escuridão", "qtd": 2 }
+      ],
+      "result": [{ "commum": "Essência de Encantamento" }, { "rare": "None" }]
+    },
+    {
+      "name": "Essência do Poder Mágico",
+      "recipe": [
+        { "name": "Fruto do Poder Mágico", "qtd": 2 },
+        { "name": "Planta Juba de Leão", "qtd": 3 },
+        { "name": "Seiva de Bétula", "qtd": 4 },
+        { "name": "Pó de Escuridão", "qtd": 2 }
+      ],
+      "result": [{ "commum": "Essência do Poder Mágico" }, { "rare": "None" }]
+    },
+    {
+      "name": "Essência do Sol",
+      "recipe": [
+        { "name": "Fruta do Sol", "qtd": 2 },
+        { "name": "Cogumelo Flecha", "qtd": 3 },
+        { "name": "Seiva de Pinheiro", "qtd": 4 },
+        { "name": "Traço da Terra", "qtd": 2 }
+      ],
+      "result": [{ "commum": "Essência do Sol" }, { "rare": "None" }]
+    },
+    {
+      "name": "Fonte da Vida Persistente",
+      "recipe": [
+        { "name": "Erva Aurora", "qtd": 50 },
+        { "name": "Azaleia Prata", "qtd": 50 },
+        { "name": "Flor de Escama de Fogo", "qtd": 50 },
+        { "name": "Planta Juba de Leão", "qtd": 50 },
+        { "name": "Grama Mel de Seda", "qtd": 50 }
+      ],
+      "result": [{ "commum": "Fonte da Vida Persistente" }, { "rare": "None" }]
+    },
+    {
+      "name": "Fragmento Quebrado de Pedra de Alquimia",
+      "recipe": [
+        { "name": "Pó Brilhante", "qtd": 10 },
+        { "name": "Sangue do Pecador", "qtd": 3 },
+        { "name": "Pó do Tempo", "qtd": 5 },
+        { "name": "Reagente Pó Puro", "qtd": 10 },
+        { "name": "Reagente Líquido Limpo", "qtd": 10 }
+      ],
+      "result": [
+        { "commum": "Fragmento Quebrado de Pedra de Alquimia" },
+        { "rare": "None" }
+      ]
+    },
+    {
+      "name": "Joia de Ardan",
+      "recipe": [
+        { "name": "A Joia Mágica Quebrada de Ardan I", "qtd": 1 },
+        { "name": "A Joia Mágica Quebrada de Ardan II", "qtd": 1 },
+        {
+          "name": "A Joia Mágica Quebrada de Ardan III",
+          "qtd": 1
+        }
+      ],
+      "result": [{ "commum": "Joia de Ardan" }, { "rare": "None" }]
+    },
+    {
+      "name": "Pedra Afiada de Espírito da Destruição",
+      "recipe": [
+        { "name": "Pó Maravilhoso de Espírito", "qtd": 50 },
+        { "name": "Pedra de Espírito Impecável", "qtd": 5 },
+        { "name": "Solvente de Metal", "qtd": 50 },
+        { "name": "Pedra Cron", "qtd": 5 },
+        { "name": "Reagente da Amizade com Espírito", "qtd": 1 }
+      ],
+      "result": [
+        { "commum": "Pedra Afiada de Espírito da Destruição" },
+        { "rare": "Pedra Afiada de Espírito da Destruição" }
+      ]
+    },
+    {
+      "name": "Pedra Afiada de Espírito da Destruição",
+      "recipe": [
+        { "name": "Pedra de Espírito Impecável", "qtd": 5 },
+        { "name": "Pó Maravilhoso de Espírito", "qtd": 50 },
+        { "name": "Solvente de Metal", "qtd": 50 },
+        { "name": "Pedra Cron", "qtd": 5 },
+        { "name": "Reagente da Amizade com Espírito", "qtd": 1 }
+      ],
+      "result": [
+        { "commum": "Pedra Afiada de Espírito da Destruição" },
+        { "rare": "Pedra Afiada de Espírito da Destruição" }
+      ]
+    },
+    {
+      "name": "Pedra de Espírito Impecável",
+      "recipe": [
+        { "name": "Óleo de Tranquilidade", "qtd": 10 },
+        { "name": "Fonte da Vida Persistente", "qtd": 4 },
+        { "name": "Cristal Variegado Bruto", "qtd": 4 }
+      ],
+      "result": [
+        { "commum": "Pedra de Espírito Impecável" },
+        { "rare": "None" }
+      ]
+    },
+    {
+      "name": "Pedra Afiada de Espírito da Proteção",
+      "recipe": [
+        { "name": "Pedra de Espírito Impecável", "qtd": 5 },
+        { "name": "Pó Maravilhoso de Espírito", "qtd": 50 },
+        { "name": "Polidor de Gema", "qtd": 50 },
+        { "name": "Pedra Cron", "qtd": 5 },
+        { "name": "Reagente da Amizade com Espírito", "qtd": 1 }
+      ],
+      "result": [
+        { "commum": "Pedra Afiada de Espírito da Proteção" },
+        { "rare": "Pedra Afiada de Espírito da Proteção" }
+      ]
+    },
+    {
+      "name": "Pedra Imperfeita de Alquimia da Destruição",
+      "recipe": [
+        { "name": "Pó Brilhante", "qtd": 10 },
+        { "name": "Sangue do Pecador", "qtd": 3 },
+        { "name": "Pó do Tempo", "qtd": 5 },
+        { "name": "Reagente Pó Puro", "qtd": 10 },
+        { "name": "Reagente Líquido Limpo", "qtd": 10 }
+      ],
+      "result": [
+        { "commum": "Pedra Imperfeita de Alquimia da Destruição" },
+        { "rare": "None" }
+      ]
+    },
+    {
+      "name": "Pedra Imperfeita de Alquimia da Proteção",
+      "recipe": [
+        { "name": "Sangue do Pecador", "qtd": 3 },
+        { "name": "Pó Brilhante", "qtd": 10 },
+        { "name": "Pó do Tempo", "qtd": 5 },
+        { "name": "Reagente Pó Puro", "qtd": 10 },
+        { "name": "Reagente Líquido Limpo", "qtd": 10 }
+      ],
+      "result": [
+        { "commum": "Pedra Imperfeita de Alquimia da Proteção" },
+        { "rare": "None" }
+      ]
+    },
+    {
+      "name": "Pedra Imperfeita de Alquimia da Vida",
+      "recipe": [
+        { "name": "Pó Brilhante", "qtd": 10 },
+        { "name": "Sangue do Pecador", "qtd": 3 },
+        { "name": "Pó do Tempo", "qtd": 5 },
+        { "name": "Reagente Pó Puro", "qtd": 10 },
+        { "name": "Reagente Líquido Limpo", "qtd": 10 }
+      ],
+      "result": [
+        { "commum": "Pedra Imperfeita de Alquimia da Vida" },
+        { "rare": "None" }
+      ]
+    },
+    {
+      "name": "Perfume de Coragem",
+      "canProc": "false",
+      "recipe": [
+        { "name": "Óleo de Baleia Rei", "qtd": 1 },
+        { "name": "Traço de Violência", "qtd": 3 },
+        { "name": "Laço de Árvore Sangrenta", "qtd": 6 },
+        { "name": "Água Purificada", "qtd": 4 },
+        { "name": "Reagente Líquido Limpo", "qtd": 2 }
+      ],
+      "result": [
+        { "commum": "Perfume de Coragem" },
+        {
+          "rare": "None"
+        }
+      ]
+    },
+    {
+      "name": "Perfume de Espírito",
+      "canProc": "false",
+      "recipe": [
+        { "name": "Essência de Árvore Morta", "qtd": 1 },
+        { "name": "Fruto da Natureza", "qtd": 1 },
+        { "name": "Seiva de Árvore-Anel", "qtd": 10 },
+        { "name": "Pó de Escuridão", "qtd": 10 },
+        { "name": "Malva", "qtd": 2 }
+      ],
+      "result": [{ "commum": "Perfume de Espírito" }, { "rare": "None" }]
+    },
+    {
+      "name": "Perfume de Rapidez",
+      "canProc": "false",
+      "recipe": [
+        { "name": "Óleo de Baleia Rei", "qtd": 1 },
+        { "name": "Pó do Tempo", "qtd": 4 },
+        { "name": "Erva Eterna", "qtd": 6 },
+        { "name": "Água Purificada", "qtd": 4 },
+        { "name": "Reagente Líquido Limpo", "qtd": 2 }
+      ],
+      "result": [{ "commum": "Perfume de Rapidez" }, { "rare": "None" }]
+    },
+    {
+      "name": "Perfume do Encanto",
+      "canProc": "false",
+      "recipe": [
+        { "name": "Óleo do Encanto", "qtd": 2 },
+        { "name": "Pó Brilhante", "qtd": 3 },
+        { "name": "Erva Eterna", "qtd": 5 },
+        { "name": "Essência de Delotia", "qtd": 1 },
+        { "name": "Água Purificada", "qtd": 3 }
+      ],
+      "result": [{ "commum": "Perfume do Encanto" }, { "rare": "None" }]
+    },
+    {
+      "name": "Polidor de Gema",
+      "recipe": [
+        { "name": "Reagente Pó Puro", "qtd": 1 },
+        { "name": "Carvão Processado", "qtd": 4 },
+        { "name": "Traço de Origem", "qtd": 2 },
+        { "name": "Água Purificada", "qtd": 6 }
+      ],
+      "result": [{ "commum": "Polidor de Gema" }, { "rare": "None" }]
+    },
+    {
+      "name": "Pote de Mel Especial",
+      "recipe": [
+        { "name": "Mel de Qualidade Superior", "qtd": 2 },
+        { "name": "Fruto da Abundância", "qtd": 5 },
+        { "name": "Essência do Liquor", "qtd": 1 },
+        { "name": "Água Purificada", "qtd": 2 }
+      ],
+      "result": [{ "commum": "Pote de Mel Especial" }, { "rare": "None" }]
+    },
+    {
+      "name": "Poção da Armadura de Aço",
+      "recipe": [
+        { "name": "Óleo de Coragem", "qtd": 3 },
+        { "name": "Reagente de Delotia Purificado", "qtd": 3 },
+        { "name": "Seiva de Espinheiro", "qtd": 5 },
+        { "name": "Sangue de Turo Rígido", "qtd": 1 }
+      ],
+      "result": [
+        { "commum": "Poção da Armadura de Aço" },
+        { "rare": "Poção da Armadura de Aço Caído" }
+      ]
+    },
+    {
+      "name": "Poção de Tendão de Baleia",
+      "canProc": "false",
+      "recipe": [
+        { "name": "Tendão de Baleia Rei", "qtd": 1 },
+        { "name": "Poção de HP (Média)", "qtd": 3 },
+        { "name": "Poção de MP (Média)", "qtd": 3 },
+        { "name": "Água Purificada", "qtd": 8 }
+      ],
+      "result": [
+        { "commum": "Poção de Tendão de Baleia" },
+        { "rare": "Poção de Tendão de Baleia Superior" }
+      ]
+    },
+    {
+      "name": "Pólvora Vegetal",
+      "recipe": [
+        { "name": "Pó de Planta Insetívora", "qtd": 1 },
+        { "name": "Pó de Escuridão", "qtd": 1 }
+      ],
+      "result": [{ "commum": "Pólvora Vegetal" }, { "rare": "None" }]
+    },
+    {
+      "name": "Reagente de Delotia Purificado",
+      "recipe": [
+        { "name": "Pó de Delotia", "qtd": 3 },
+        { "name": "Reagente Líquido Limpo", "qtd": 1 },
+        { "name": "Reagente Pó Puro", "qtd": 1 }
+      ],
+      "result": [
+        { "commum": "Reagente de Delotia Purificado" },
+        { "rare": "None" }
+      ]
+    },
+    {
+      "name": "Reagente de Marcação",
+      "recipe": [
+        { "name": "Sangue do Pecador", "qtd": 1 },
+        { "name": "Cristal Mágico de Encantamento - Visão", "qtd": 1 },
+        { "name": "Pólvora Vegetal", "qtd": 1 },
+        { "name": "Líquido Pegajoso", "qtd": 1 },
+        { "name": "Pó de Pedra Negra", "qtd": 5 }
+      ],
+      "result": [{ "commum": "Reagente de Marcação" }, { "rare": "None" }]
+    },
+    {
+      "name": "Reagente Líquido Limpo",
+      "recipe": [
+        { "name": "Grama Selvagem", "qtd": 1 },
+        { "name": "Erva Aurora", "qtd": 1 },
+        { "name": "Sal", "qtd": 1 },
+        { "name": "Água Purificada", "qtd": 1 }
+      ],
+      "result": [{ "commum": "Reagente Líquido Limpo" }, { "rare": "None" }]
+    },
+    {
+      "name": "Reagente Pó Puro",
+      "recipe": [
+        { "name": "Grama Selvagem", "qtd": 1 },
+        { "name": "Azaleia Prata", "qtd": 1 },
+        { "name": "Açúcar", "qtd": 1 },
+        { "name": "Água Purificada", "qtd": 1 }
+      ],
+      "result": [{ "commum": "Reagente Pó Puro" }, { "rare": "None" }]
+    },
+    {
+      "name": "Sangue da Fera Lendária",
+      "recipe": [
+        { "name": "Folha de Espírito", "qtd": 1 },
+        { "name": "Traço da Terra", "qtd": 1 },
+        { "name": "Reagente Pó Puro", "qtd": 1 },
+        { "name": "Sangue 5", "qtd": 2 }
+      ],
+      "result": [{ "commum": "Sangue da Fera Lendária" }, { "rare": "None" }]
+    },
+    {
+      "name": "Sangue de Homem Sábio",
+      "recipe": [
+        { "name": "Galho de Monge", "qtd": 1 },
+        { "name": "Traço de Ascensão", "qtd": 1 },
+        { "name": "Reagente Líquido Limpo", "qtd": 1 },
+        { "name": "Sangue de Raposa", "qtd": 2 }
+      ],
+      "result": [{ "commum": "Sangue de Homem Sábio" }, { "rare": "None" }]
+    },
+    {
+      "name": "Sangue de Palhaço",
+      "recipe": [
+        { "name": "Folha de Espírito", "qtd": 1 },
+        { "name": "Pó de Escuridão", "qtd": 1 },
+        { "name": "Reagente Líquido Limpo", "qtd": 1 },
+        { "name": "Sangue de Lobo", "qtd": 2 }
+      ],
+      "result": [{ "commum": "Sangue de Palhaço" }, { "rare": "None" }]
+    },
+    {
+      "name": "Sangue do Pecador",
+      "recipe": [
+        { "name": "Laço de Árvore Sangrenta", "qtd": 1 },
+        { "name": "Pó de Chama", "qtd": 1 },
+        { "name": "Reagente Líquido Limpo", "qtd": 1 },
+        { "name": "Sangue de Ovelha", "qtd": 2 }
+      ],
+      "result": [{ "commum": "Sangue do Pecador" }, { "rare": "None" }]
+    },
+    {
+      "name": "Sangue do Tirano",
+      "recipe": [
+        { "name": "Galho de Monge", "qtd": 1 },
+        { "name": "Traço de Selvageria", "qtd": 1 },
+        { "name": "Reagente Pó Puro", "qtd": 1 },
+        { "name": "Sangue de Urso", "qtd": 2 }
+      ],
+      "result": [{ "commum": "Sangue do Tirano" }, { "rare": "None" }]
+    },
+    {
+      "name": "Solvente de Metal",
+      "recipe": [
+        { "name": "Reagente Líquido Limpo", "qtd": 1 },
+        { "name": "Fragmento do Ferro Derretido", "qtd": 3 },
+        { "name": "Pedra Áspera", "qtd": 4 },
+        { "name": "Traço de Selvageria", "qtd": 2 }
+      ],
+      "result": [{ "commum": "Solvente de Metal" }, { "rare": "None" }]
+    },
+    {
+      "name": "Óleo da Corrupção",
+      "recipe": [
+        { "name": "Sangue do Pecador", "qtd": 1 },
+        { "name": "Folha de Espírito", "qtd": 1 },
+        { "name": "Fruta do Sol", "qtd": 1 },
+        { "name": "Pó de Escuridão", "qtd": 1 }
+      ],
+      "result": [{ "commum": "Óleo da Corrupção" }, { "rare": "None" }]
+    },
+    {
+      "name": "Óleo da Imortalidade Decadente",
+      "recipe": [
+        { "name": "Coração dos Turos", "qtd": 1 },
+        { "name": "Vestígio do Espírito Queimado", "qtd": 1 },
+        { "name": "Óleo de Regeneração", "qtd": 20 },
+        { "name": "Óleo de Coragem", "qtd": 20 },
+        { "name": "Óleo da Corrupção", "qtd": 20 }
+      ],
+      "result": [
+        { "commum": "Óleo da Imortalidade Decadente" },
+        { "rare": "None" }
+      ]
+    },
+    {
+      "name": "Óleo da Tempestade",
+      "recipe": [
+        { "name": "Sangue do Tirano", "qtd": 1 },
+        { "name": "Casca de Árvore Velha", "qtd": 1 },
+        { "name": "Fruto da Abundância", "qtd": 1 },
+        { "name": "Pó do Tempo", "qtd": 1 }
+      ],
+      "result": [{ "commum": "Óleo da Tempestade" }, { "rare": "None" }]
+    },
+    {
+      "name": "Óleo de Abismo",
+      "recipe": [
+        { "name": "Sangue do Tirano", "qtd": 1 },
+        { "name": "Fruto do Mar Profundo", "qtd": 1 },
+        { "name": "Pó do Tempo", "qtd": 2 },
+        { "name": "Laço de Árvore Sangrenta", "qtd": 2 }
+      ],
+      "result": [{ "commum": "Óleo de Abismo" }, { "rare": "None" }]
+    },
+    {
+      "name": "Óleo de Coragem",
+      "recipe": [
+        { "name": "Sangue de Palhaço", "qtd": 1 },
+        { "name": "Galho de Monge", "qtd": 1 },
+        { "name": "Fruto da Natureza", "qtd": 1 },
+        { "name": "Pó de Chama", "qtd": 1 }
+      ],
+      "result": [{ "commum": "Óleo de Coragem" }, { "rare": "None" }]
+    },
+    {
+      "name": "Óleo de Regeneração",
+      "recipe": [
+        { "name": "Sangue da Fera Lendária", "qtd": 1 },
+        { "name": "Caroço de Árvore Vermelha", "qtd": 1 },
+        { "name": "Fruta de Chama Carmesim", "qtd": 1 },
+        { "name": "Pó de Rachadura", "qtd": 1 }
+      ],
+      "result": [{ "commum": "Óleo de Regeneração" }, { "rare": "None" }]
+    },
+    {
+      "name": "Óleo de Tranquilidade",
+      "recipe": [
+        { "name": "Sangue de Homem Sábio", "qtd": 1 },
+        { "name": "Laço de Árvore Sangrenta", "qtd": 1 },
+        { "name": "Fruto do Poder Mágico", "qtd": 1 },
+        { "name": "Pó da Terra", "qtd": 1 }
+      ],
+      "result": [{ "commum": "Óleo de Tranquilidade" }, { "rare": "None" }]
+    },
+    {
+      "name": "Óleo do Encanto",
+      "recipe": [
+        { "name": "Fruta de Encantamento", "qtd": 1 },
+        { "name": "Reagente de Delotia Purificado", "qtd": 1 },
+        { "name": "Água Purificada", "qtd": 2 },
+        { "name": "Erva Eterna", "qtd": 2 },
+        { "name": "Sangue de Turo Rígido", "qtd": 2 }
+      ],
+      "result": [{ "commum": "Óleo do Encanto" }, { "rare": "None" }]
+    }
+  ]
+}

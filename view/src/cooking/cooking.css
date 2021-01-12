@@ -1,0 +1,66 @@
+input {
+  color: black;
+}
+
+.cooking-list {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr 1fr 1fr;
+      grid-template-columns: 1fr 1fr 1fr;
+  padding: 10px 10%;
+  grid-gap: 5px;
+}
+
+.cooking-list * {
+  color: #966850;
+}
+
+.cooking-list ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: stretch;
+      -ms-flex-pack: stretch;
+          justify-content: stretch;
+  background: #fefefe;
+  background: -webkit-gradient(linear, left bottom, left top, color-stop(24%, #ece4d7), color-stop(76%, #ffffff));
+  background: linear-gradient(0deg, #ece4d7 24%, #ffffff 76%);
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 3px;
+}
+
+.cooking-list ul li:nth-child(1) {
+  margin-bottom: 5px;
+}
+
+.recipe-li {
+  padding: 5px 0;
+  background-color: #ece4d7;
+}
+
+.proffit {
+  background-color: #6e5343;
+}
+
+.loss {
+  background-color: #1c1e23;
+}
+
+.proffit, .loss {
+  color: #fefefe;
+  padding: 5px 0;
+}
+
+.proffit *, .loss * {
+  color: #fefefe;
+}
+
+.m5-tb {
+  margin: 5px 0;
+}
+/*# sourceMappingURL=cooking.css.map */

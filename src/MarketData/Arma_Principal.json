@@ -1,0 +1,209 @@
+{
+    "marketList": [
+        {
+            "mainKey": 15001,
+            "sumCount": 43,
+            "name": "Cristal Mágico de Chama Carmesim - Precisão",
+            "grade": 1,
+            "minPrice": 5400
+        },
+        {
+            "mainKey": 15002,
+            "sumCount": 95,
+            "name": "Cristal Mágico de Chama Carmesim - Poder",
+            "grade": 1,
+            "minPrice": 27800
+        },
+        {
+            "mainKey": 15022,
+            "sumCount": 0,
+            "name": "Cristal Mágico - Chama Carmesim",
+            "grade": 3,
+            "minPrice": 1090000
+        },
+        {
+            "mainKey": 15023,
+            "sumCount": 0,
+            "name": "Cristal Mágico - Encantamento",
+            "grade": 3,
+            "minPrice": 1100000
+        },
+        {
+            "mainKey": 15024,
+            "sumCount": 3,
+            "name": "Cristal Mágico - Destruição",
+            "grade": 3,
+            "minPrice": 1100000
+        },
+        {
+            "mainKey": 15025,
+            "sumCount": 0,
+            "name": "Cristal Mágico - Tentação",
+            "grade": 3,
+            "minPrice": 1100000
+        },
+        {
+            "mainKey": 15026,
+            "sumCount": 0,
+            "name": "Cristal Mágico - Agonia",
+            "grade": 3,
+            "minPrice": 1100000
+        },
+        {
+            "mainKey": 15032,
+            "sumCount": 0,
+            "name": "Cristal Mágico - Meditação",
+            "grade": 3,
+            "minPrice": 1090000
+        },
+        {
+            "mainKey": 15101,
+            "sumCount": 165,
+            "name": "Cristal Mágico do Infinito - Precisão",
+            "grade": 2,
+            "minPrice": 955000
+        },
+        {
+            "mainKey": 15102,
+            "sumCount": 26,
+            "name": "Cristal Mágico do Infinito - Poder",
+            "grade": 2,
+            "minPrice": 515000
+        },
+        {
+            "mainKey": 15126,
+            "sumCount": 221,
+            "name": "Cristal Mágico do Infinito - Durabilidade",
+            "grade": 2,
+            "minPrice": 990000
+        },
+        {
+            "mainKey": 15127,
+            "sumCount": 2,
+            "name": "Cristal Mágico do Infinito - Absorção",
+            "grade": 2,
+            "minPrice": 46600
+        },
+        {
+            "mainKey": 15128,
+            "sumCount": 4,
+            "name": "Cristal Mágico do Infinito - Extração",
+            "grade": 2,
+            "minPrice": 137000
+        },
+        {
+            "mainKey": 15201,
+            "sumCount": 0,
+            "name": "Cristal Mágico Negro - Precisão",
+            "grade": 3,
+            "minPrice": 6000000
+        },
+        {
+            "mainKey": 15605,
+            "sumCount": 37,
+            "name": "Cristal Mágico Ancestral - Carmae",
+            "grade": 4,
+            "minPrice": 1120000
+        },
+        {
+            "mainKey": 15606,
+            "sumCount": 14,
+            "name": "Cristal Mágico Ancestral da Chama Carmesim - Poder",
+            "grade": 3,
+            "minPrice": 5600000
+        },
+        {
+            "mainKey": 15632,
+            "sumCount": 0,
+            "name": "Cristal Mágico Negro - Carmae",
+            "grade": 4,
+            "minPrice": 33000000
+        },
+        {
+            "mainKey": 15638,
+            "sumCount": 0,
+            "name": "Cristal do Campo de Batalha Vermelho: Carmae",
+            "grade": 4,
+            "minPrice": 62500000
+        },
+        {
+            "mainKey": 15639,
+            "sumCount": 6,
+            "name": "Cristal do Campo de Batalha Vermelho: Potência",
+            "grade": 4,
+            "minPrice": 66500000
+        },
+        {
+            "mainKey": 15649,
+            "sumCount": 8,
+            "name": "Cristal Mágico Ancestral - Addis",
+            "grade": 4,
+            "minPrice": 499000
+        },
+        {
+            "mainKey": 15650,
+            "sumCount": 0,
+            "name": "Cristal Mágico Negro - Addis",
+            "grade": 4,
+            "minPrice": 33000000
+        },
+        {
+            "mainKey": 15651,
+            "sumCount": 0,
+            "name": "Cristal do Campo de Batalha Vermelho: Addis",
+            "grade": 4,
+            "minPrice": 46900000
+        },
+        {
+            "mainKey": 15674,
+            "sumCount": 29,
+            "name": "Cristal de Elkar",
+            "grade": 4,
+            "minPrice": 303000000
+        },
+        {
+            "mainKey": 15813,
+            "sumCount": 4,
+            "name": "JIN Cristal Mágico - Carmae",
+            "grade": 4,
+            "minPrice": 219000000
+        },
+        {
+            "mainKey": 15814,
+            "sumCount": 0,
+            "name": "BON Cristal Mágico - Carmae",
+            "grade": 4,
+            "minPrice": 147000000
+        },
+        {
+            "mainKey": 15815,
+            "sumCount": 0,
+            "name": "WON Cristal Mágico - Carmae",
+            "grade": 4,
+            "minPrice": 107000000
+        },
+        {
+            "mainKey": 15816,
+            "sumCount": 0,
+            "name": "JIN Cristal Mágico - Addis",
+            "grade": 4,
+            "minPrice": 198000000
+        },
+        {
+            "mainKey": 15817,
+            "sumCount": 2,
+            "name": "BON Cristal Mágico - Addis",
+            "grade": 4,
+            "minPrice": 146000000
+        },
+        {
+            "mainKey": 15818,
+            "sumCount": 0,
+            "name": "WON Cristal Mágico - Addis",
+            "grade": 4,
+            "minPrice": 102000000
+        }
+    ],
+    "resultCode": 0,
+    "resultMsg": ""
+}

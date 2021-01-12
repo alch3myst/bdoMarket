@@ -1,0 +1,1056 @@
+{
+    "marketList": [
+        {
+            "mainKey": 6515,
+            "sumCount": 491,
+            "name": "Ostra",
+            "grade": 0,
+            "minPrice": 16500
+        },
+        {
+            "mainKey": 6516,
+            "sumCount": 2639,
+            "name": "Camarão",
+            "grade": 0,
+            "minPrice": 3280
+        },
+        {
+            "mainKey": 6520,
+            "sumCount": 0,
+            "name": "Marisco de Pérola Desidratado",
+            "grade": 0,
+            "minPrice": 65000
+        },
+        {
+            "mainKey": 6521,
+            "sumCount": 465,
+            "name": "Lagosta Desidratada",
+            "grade": 0,
+            "minPrice": 116000
+        },
+        {
+            "mainKey": 6535,
+            "sumCount": 0,
+            "name": "Marisco Gigante de Trinada",
+            "grade": 2,
+            "minPrice": 113000
+        },
+        {
+            "mainKey": 8501,
+            "sumCount": 0,
+            "name": "Gobião Desidratado",
+            "grade": 0,
+            "minPrice": 3420
+        },
+        {
+            "mainKey": 8502,
+            "sumCount": 32,
+            "name": "Atum Desidratado",
+            "grade": 0,
+            "minPrice": 14600
+        },
+        {
+            "mainKey": 8503,
+            "sumCount": 0,
+            "name": "Guaravira Desidratado",
+            "grade": 0,
+            "minPrice": 7250
+        },
+        {
+            "mainKey": 8504,
+            "sumCount": 0,
+            "name": "Linguado Desidratado",
+            "grade": 0,
+            "minPrice": 5750
+        },
+        {
+            "mainKey": 8505,
+            "sumCount": 0,
+            "name": "Salmon Desidratado",
+            "grade": 0,
+            "minPrice": 5150
+        },
+        {
+            "mainKey": 8506,
+            "sumCount": 0,
+            "name": "Charuteiro Desidratado",
+            "grade": 0,
+            "minPrice": 4690
+        },
+        {
+            "mainKey": 8507,
+            "sumCount": 1158,
+            "name": "Esparideo Desidratado",
+            "grade": 0,
+            "minPrice": 21100
+        },
+        {
+            "mainKey": 8508,
+            "sumCount": 1879,
+            "name": "Baiacu Desidratado",
+            "grade": 0,
+            "minPrice": 19600
+        },
+        {
+            "mainKey": 8509,
+            "sumCount": 0,
+            "name": "Saurel Desidratado",
+            "grade": 0,
+            "minPrice": 2730
+        },
+        {
+            "mainKey": 8510,
+            "sumCount": 0,
+            "name": "Cantarilho Desidratado",
+            "grade": 0,
+            "minPrice": 6200
+        },
+        {
+            "mainKey": 8511,
+            "sumCount": 261,
+            "name": "Calamar Desidratado",
+            "grade": 0,
+            "minPrice": 5700
+        },
+        {
+            "mainKey": 8512,
+            "sumCount": 283,
+            "name": "Polvo Desidratado",
+            "grade": 0,
+            "minPrice": 6950
+        },
+        {
+            "mainKey": 8513,
+            "sumCount": 1,
+            "name": "Caranguejo Desidratado",
+            "grade": 0,
+            "minPrice": 2220
+        },
+        {
+            "mainKey": 8514,
+            "sumCount": 0,
+            "name": "Medusa Desidratada",
+            "grade": 0,
+            "minPrice": 2550
+        },
+        {
+            "mainKey": 8515,
+            "sumCount": 0,
+            "name": "Marisco Desidratado",
+            "grade": 0,
+            "minPrice": 2980
+        },
+        {
+            "mainKey": 8516,
+            "sumCount": 0,
+            "name": "Peixe Encarnado Desidratado",
+            "grade": 0,
+            "minPrice": 8950
+        },
+        {
+            "mainKey": 8517,
+            "sumCount": 0,
+            "name": "Carpa Cruciana",
+            "grade": 0,
+            "minPrice": 4770
+        },
+        {
+            "mainKey": 8518,
+            "sumCount": 0,
+            "name": "Truta Desidratada",
+            "grade": 0,
+            "minPrice": 6800
+        },
+        {
+            "mainKey": 8519,
+            "sumCount": 0,
+            "name": "Bagre Desidratado",
+            "grade": 0,
+            "minPrice": 4070
+        },
+        {
+            "mainKey": 8520,
+            "sumCount": 0,
+            "name": "Enguia de Água Doce Desidratada",
+            "grade": 0,
+            "minPrice": 5200
+        },
+        {
+            "mainKey": 8521,
+            "sumCount": 0,
+            "name": "Cabeça-de-Cobra Desidratado",
+            "grade": 0,
+            "minPrice": 16400
+        },
+        {
+            "mainKey": 8522,
+            "sumCount": 0,
+            "name": "Salmão Cereja Desidratado",
+            "grade": 0,
+            "minPrice": 6850
+        },
+        {
+            "mainKey": 8523,
+            "sumCount": 44,
+            "name": "Cuvier Desidratado",
+            "grade": 0,
+            "minPrice": 23100
+        },
+        {
+            "mainKey": 8524,
+            "sumCount": 80,
+            "name": "Peixe-Lua Desidratado",
+            "grade": 0,
+            "minPrice": 39300
+        },
+        {
+            "mainKey": 8525,
+            "sumCount": 19,
+            "name": "Robalo do Mar Desidratado",
+            "grade": 0,
+            "minPrice": 13700
+        },
+        {
+            "mainKey": 8526,
+            "sumCount": 0,
+            "name": "Tamboril Desidratado",
+            "grade": 0,
+            "minPrice": 8500
+        },
+        {
+            "mainKey": 8527,
+            "sumCount": 560,
+            "name": "Peixe-Espada Desidratado",
+            "grade": 0,
+            "minPrice": 20500
+        },
+        {
+            "mainKey": 8528,
+            "sumCount": 0,
+            "name": "Cavalinha Desidratada",
+            "grade": 0,
+            "minPrice": 6000
+        },
+        {
+            "mainKey": 8529,
+            "sumCount": 0,
+            "name": "Peixe Voador Desidratado",
+            "grade": 0,
+            "minPrice": 6500
+        },
+        {
+            "mainKey": 8530,
+            "sumCount": 0,
+            "name": "Bonito Desidratado",
+            "grade": 0,
+            "minPrice": 7550
+        },
+        {
+            "mainKey": 8531,
+            "sumCount": 0,
+            "name": "Raia Desidratada",
+            "grade": 0,
+            "minPrice": 7250
+        },
+        {
+            "mainKey": 8532,
+            "sumCount": 0,
+            "name": "Cavalo Marinho Desidratado",
+            "grade": 0,
+            "minPrice": 3540
+        },
+        {
+            "mainKey": 8533,
+            "sumCount": 0,
+            "name": "Estrela do Mar Desidratadas",
+            "grade": 0,
+            "minPrice": 2220
+        },
+        {
+            "mainKey": 8534,
+            "sumCount": 0,
+            "name": "Peixe-Porco Desidratado",
+            "grade": 0,
+            "minPrice": 3390
+        },
+        {
+            "mainKey": 8535,
+            "sumCount": 0,
+            "name": "Rascasso Desidratado",
+            "grade": 0,
+            "minPrice": 2980
+        },
+        {
+            "mainKey": 8536,
+            "sumCount": 0,
+            "name": "Tainha Desidratada",
+            "grade": 0,
+            "minPrice": 3390
+        },
+        {
+            "mainKey": 8537,
+            "sumCount": 18,
+            "name": "Swiri Desidratado",
+            "grade": 0,
+            "minPrice": 43500
+        },
+        {
+            "mainKey": 8538,
+            "sumCount": 1,
+            "name": "Esturjão Desidratado",
+            "grade": 0,
+            "minPrice": 49400
+        },
+        {
+            "mainKey": 8539,
+            "sumCount": 0,
+            "name": "Piranha Desidratada",
+            "grade": 0,
+            "minPrice": 12200
+        },
+        {
+            "mainKey": 8540,
+            "sumCount": 16,
+            "name": "Peixe-Mandarim Desidratado",
+            "grade": 0,
+            "minPrice": 17700
+        },
+        {
+            "mainKey": 8541,
+            "sumCount": 0,
+            "name": "Lenok Desidratado",
+            "grade": 0,
+            "minPrice": 8350
+        },
+        {
+            "mainKey": 8542,
+            "sumCount": 404,
+            "name": "Aruanã Desidratado",
+            "grade": 0,
+            "minPrice": 7550
+        },
+        {
+            "mainKey": 8543,
+            "sumCount": 0,
+            "name": "Ayu Desidratado",
+            "grade": 0,
+            "minPrice": 6850
+        },
+        {
+            "mainKey": 8544,
+            "sumCount": 103,
+            "name": "Peixe Tartaruga Desidratado",
+            "grade": 0,
+            "minPrice": 6650
+        },
+        {
+            "mainKey": 8545,
+            "sumCount": 0,
+            "name": "Robalo Desidratado",
+            "grade": 0,
+            "minPrice": 5400
+        },
+        {
+            "mainKey": 8546,
+            "sumCount": 0,
+            "name": "Lagostim Desidratado",
+            "grade": 0,
+            "minPrice": 5900
+        },
+        {
+            "mainKey": 8547,
+            "sumCount": 0,
+            "name": "Peixe Dace Desidratado",
+            "grade": 0,
+            "minPrice": 2560
+        },
+        {
+            "mainKey": 8548,
+            "sumCount": 0,
+            "name": "Peixe-Azul Desidratado",
+            "grade": 0,
+            "minPrice": 2890
+        },
+        {
+            "mainKey": 8549,
+            "sumCount": 0,
+            "name": "Poleiro Desidratado",
+            "grade": 0,
+            "minPrice": 3510
+        },
+        {
+            "mainKey": 8550,
+            "sumCount": 0,
+            "name": "Peixe-Mandíbula Desidratado",
+            "grade": 0,
+            "minPrice": 2890
+        },
+        {
+            "mainKey": 8551,
+            "sumCount": 0,
+            "name": "Peixe-Lama Desidratado",
+            "grade": 0,
+            "minPrice": 2980
+        },
+        {
+            "mainKey": 8552,
+            "sumCount": 0,
+            "name": "Vairão Desidratado",
+            "grade": 0,
+            "minPrice": 2760
+        },
+        {
+            "mainKey": 8553,
+            "sumCount": 0,
+            "name": "Cardume Desidratado",
+            "grade": 0,
+            "minPrice": 3090
+        },
+        {
+            "mainKey": 8554,
+            "sumCount": 0,
+            "name": "Bleeker Desidratado",
+            "grade": 0,
+            "minPrice": 2920
+        },
+        {
+            "mainKey": 8555,
+            "sumCount": 0,
+            "name": "Polegar-de-Moleiro Desidratado",
+            "grade": 0,
+            "minPrice": 9000
+        },
+        {
+            "mainKey": 8556,
+            "sumCount": 5609,
+            "name": "Cero Desidratado",
+            "grade": 0,
+            "minPrice": 19700
+        },
+        {
+            "mainKey": 8557,
+            "sumCount": 114,
+            "name": "Enguia do Mar Desidratada",
+            "grade": 0,
+            "minPrice": 16500
+        },
+        {
+            "mainKey": 8558,
+            "sumCount": 0,
+            "name": "Corvina Desidratada",
+            "grade": 0,
+            "minPrice": 4310
+        },
+        {
+            "mainKey": 8559,
+            "sumCount": 0,
+            "name": "Lorcha Desidratada",
+            "grade": 0,
+            "minPrice": 3740
+        },
+        {
+            "mainKey": 8560,
+            "sumCount": 0,
+            "name": "Peixe Chato Desidratado",
+            "grade": 0,
+            "minPrice": 3510
+        },
+        {
+            "mainKey": 8561,
+            "sumCount": 66,
+            "name": "Peixe Branco Desidratado",
+            "grade": 0,
+            "minPrice": 22200
+        },
+        {
+            "mainKey": 8562,
+            "sumCount": 27,
+            "name": "Arenque Desidratado",
+            "grade": 0,
+            "minPrice": 10200
+        },
+        {
+            "mainKey": 8563,
+            "sumCount": 0,
+            "name": "Sardinha Desidratada",
+            "grade": 0,
+            "minPrice": 4550
+        },
+        {
+            "mainKey": 8564,
+            "sumCount": 0,
+            "name": "Arenque Redondo Desidratado",
+            "grade": 0,
+            "minPrice": 2890
+        },
+        {
+            "mainKey": 8565,
+            "sumCount": 0,
+            "name": "Arenque Redondo Listrado Desidratado",
+            "grade": 0,
+            "minPrice": 3030
+        },
+        {
+            "mainKey": 8566,
+            "sumCount": 0,
+            "name": "Badejo Desidratado",
+            "grade": 0,
+            "minPrice": 2730
+        },
+        {
+            "mainKey": 8567,
+            "sumCount": 0,
+            "name": "Dourado-do-Mar Desidratado",
+            "grade": 0,
+            "minPrice": 3690
+        },
+        {
+            "mainKey": 8568,
+            "sumCount": 0,
+            "name": "Bagre Listrado Desidratado",
+            "grade": 0,
+            "minPrice": 3270
+        },
+        {
+            "mainKey": 8569,
+            "sumCount": 0,
+            "name": "Gunnel Desidratado",
+            "grade": 0,
+            "minPrice": 4380
+        },
+        {
+            "mainKey": 8570,
+            "sumCount": 315,
+            "name": "Peixe Dourado Desidratado",
+            "grade": 0,
+            "minPrice": 17600
+        },
+        {
+            "mainKey": 8571,
+            "sumCount": 187,
+            "name": "Roedora Desidratada",
+            "grade": 0,
+            "minPrice": 14800
+        },
+        {
+            "mainKey": 8572,
+            "sumCount": 4880,
+            "name": "Siganid Desidratado",
+            "grade": 0,
+            "minPrice": 19100
+        },
+        {
+            "mainKey": 8573,
+            "sumCount": 0,
+            "name": "Anchova Desidratada",
+            "grade": 0,
+            "minPrice": 6550
+        },
+        {
+            "mainKey": 8574,
+            "sumCount": 0,
+            "name": "Embiotocidae Desidratado",
+            "grade": 0,
+            "minPrice": 2470
+        },
+        {
+            "mainKey": 8575,
+            "sumCount": 0,
+            "name": "Peixe-Espada Preto Desidratado",
+            "grade": 0,
+            "minPrice": 3330
+        },
+        {
+            "mainKey": 8576,
+            "sumCount": 0,
+            "name": "Peixe-Donzela Amarelo Defumado Desidratado",
+            "grade": 0,
+            "minPrice": 16300
+        },
+        {
+            "mainKey": 8577,
+            "sumCount": 4848,
+            "name": "Maomao Desidratado",
+            "grade": 0,
+            "minPrice": 16900
+        },
+        {
+            "mainKey": 8578,
+            "sumCount": 0,
+            "name": "Sargentinho Desidratado",
+            "grade": 0,
+            "minPrice": 6050
+        },
+        {
+            "mainKey": 8579,
+            "sumCount": 0,
+            "name": "Peixe-Aranha Desidratado",
+            "grade": 0,
+            "minPrice": 3510
+        },
+        {
+            "mainKey": 8581,
+            "sumCount": 1409,
+            "name": "Peixe-Galo Desidratado",
+            "grade": 0,
+            "minPrice": 21200
+        },
+        {
+            "mainKey": 8582,
+            "sumCount": 0,
+            "name": "Scincus Desidratado",
+            "grade": 0,
+            "minPrice": 3180
+        },
+        {
+            "mainKey": 8583,
+            "sumCount": 0,
+            "name": "Peixe Vermelho Desidratado",
+            "grade": 0,
+            "minPrice": 2820
+        },
+        {
+            "mainKey": 8584,
+            "sumCount": 0,
+            "name": "Garoupa Desidratada",
+            "grade": 0,
+            "minPrice": 6200
+        },
+        {
+            "mainKey": 8585,
+            "sumCount": 0,
+            "name": "Fura-Vasos Desidratado",
+            "grade": 0,
+            "minPrice": 7400
+        },
+        {
+            "mainKey": 8586,
+            "sumCount": 0,
+            "name": "Barbudo-Gigante Desidratado",
+            "grade": 0,
+            "minPrice": 2140
+        },
+        {
+            "mainKey": 8587,
+            "sumCount": 344,
+            "name": "Carpa Couro Desidratada",
+            "grade": 0,
+            "minPrice": 15300
+        },
+        {
+            "mainKey": 8588,
+            "sumCount": 0,
+            "name": "Brilhante Listrado Desidratado",
+            "grade": 0,
+            "minPrice": 7850
+        },
+        {
+            "mainKey": 8589,
+            "sumCount": 0,
+            "name": "Corcel Desidratado",
+            "grade": 0,
+            "minPrice": 4890
+        },
+        {
+            "mainKey": 8590,
+            "sumCount": 0,
+            "name": "Peixe-Amargor Desidratado",
+            "grade": 0,
+            "minPrice": 2370
+        },
+        {
+            "mainKey": 8591,
+            "sumCount": 0,
+            "name": "Peixe Olho de Bolha Desidratado",
+            "grade": 0,
+            "minPrice": 2470
+        },
+        {
+            "mainKey": 8592,
+            "sumCount": 22,
+            "name": "Pacu Desidratado",
+            "grade": 0,
+            "minPrice": 14300
+        },
+        {
+            "mainKey": 8593,
+            "sumCount": 0,
+            "name": "Bagre Amarelo Desidratado",
+            "grade": 0,
+            "minPrice": 7250
+        },
+        {
+            "mainKey": 8594,
+            "sumCount": 0,
+            "name": "Esperlano Desidratado",
+            "grade": 0,
+            "minPrice": 5200
+        },
+        {
+            "mainKey": 8595,
+            "sumCount": 0,
+            "name": "Carpa Desidratada",
+            "grade": 0,
+            "minPrice": 3390
+        },
+        {
+            "mainKey": 8596,
+            "sumCount": 0,
+            "name": "Peixe de Cauda Redonda Desidratado",
+            "grade": 0,
+            "minPrice": 3540
+        },
+        {
+            "mainKey": 8597,
+            "sumCount": 0,
+            "name": "Tímalo Desidratado",
+            "grade": 0,
+            "minPrice": 6250
+        },
+        {
+            "mainKey": 8598,
+            "sumCount": 249,
+            "name": "Anchova Desidratada",
+            "grade": 0,
+            "minPrice": 9600
+        },
+        {
+            "mainKey": 8599,
+            "sumCount": 0,
+            "name": "Kuhlia Marginata Desidratada",
+            "grade": 0,
+            "minPrice": 4200
+        },
+        {
+            "mainKey": 8600,
+            "sumCount": 0,
+            "name": "Corça Desidratada",
+            "grade": 0,
+            "minPrice": 2760
+        },
+        {
+            "mainKey": 8601,
+            "sumCount": 0,
+            "name": "Peixe-Borboleta Desidratado",
+            "grade": 0,
+            "minPrice": 3240
+        },
+        {
+            "mainKey": 8602,
+            "sumCount": 0,
+            "name": "Peixe-Palhaço Desidratado",
+            "grade": 0,
+            "minPrice": 5050
+        },
+        {
+            "mainKey": 8603,
+            "sumCount": 0,
+            "name": "Tang Azul Desidratado",
+            "grade": 0,
+            "minPrice": 7350
+        },
+        {
+            "mainKey": 8604,
+            "sumCount": 1995,
+            "name": "Bodião-Xadrez Desidratado",
+            "grade": 0,
+            "minPrice": 14400
+        },
+        {
+            "mainKey": 8605,
+            "sumCount": 1,
+            "name": "Bramidae Desidratado",
+            "grade": 0,
+            "minPrice": 5600
+        },
+        {
+            "mainKey": 8629,
+            "sumCount": 1138,
+            "name": "Moréia Desidratada",
+            "grade": 0,
+            "minPrice": 17300
+        },
+        {
+            "mainKey": 8630,
+            "sumCount": 12,
+            "name": "Peixe-Telha Desidratado",
+            "grade": 0,
+            "minPrice": 20700
+        },
+        {
+            "mainKey": 8631,
+            "sumCount": 0,
+            "name": "Baiacu Espinhoso Desidratado",
+            "grade": 0,
+            "minPrice": 6050
+        },
+        {
+            "mainKey": 8632,
+            "sumCount": 0,
+            "name": "Línguado Desidratado",
+            "grade": 0,
+            "minPrice": 3210
+        },
+        {
+            "mainKey": 8633,
+            "sumCount": 0,
+            "name": "Atka Cavala Desidratada",
+            "grade": 0,
+            "minPrice": 5850
+        },
+        {
+            "mainKey": 8634,
+            "sumCount": 0,
+            "name": "Choco Desidratado",
+            "grade": 0,
+            "minPrice": 5800
+        },
+        {
+            "mainKey": 8635,
+            "sumCount": 0,
+            "name": "Peixe Saury Desidratado",
+            "grade": 0,
+            "minPrice": 2310
+        },
+        {
+            "mainKey": 8636,
+            "sumCount": 0,
+            "name": "Peixe Chifre Desidratado",
+            "grade": 0,
+            "minPrice": 4810
+        },
+        {
+            "mainKey": 8637,
+            "sumCount": 0,
+            "name": "Peixe-Prata Desidratado",
+            "grade": 0,
+            "minPrice": 5500
+        },
+        {
+            "mainKey": 8638,
+            "sumCount": 0,
+            "name": "Galeota Desidratada",
+            "grade": 0,
+            "minPrice": 3360
+        },
+        {
+            "mainKey": 8639,
+            "sumCount": 7,
+            "name": "Peixe Eoreumchi Desidratado",
+            "grade": 0,
+            "minPrice": 20900
+        },
+        {
+            "mainKey": 8640,
+            "sumCount": 3,
+            "name": "Bótia Cara-de-Cavalo Desidratado",
+            "grade": 0,
+            "minPrice": 22800
+        },
+        {
+            "mainKey": 8641,
+            "sumCount": 0,
+            "name": "Peixe Kumgang-Mochi Desidratado",
+            "grade": 0,
+            "minPrice": 11400
+        },
+        {
+            "mainKey": 8642,
+            "sumCount": 13,
+            "name": "Vairão Dourado Desidratado",
+            "grade": 0,
+            "minPrice": 8650
+        },
+        {
+            "mainKey": 8643,
+            "sumCount": 0,
+            "name": "Peixe Phoxinus Desidratado",
+            "grade": 0,
+            "minPrice": 5400
+        },
+        {
+            "mainKey": 8644,
+            "sumCount": 0,
+            "name": "Bagre Ichikawai Desidratado",
+            "grade": 0,
+            "minPrice": 7550
+        },
+        {
+            "mainKey": 8645,
+            "sumCount": 0,
+            "name": "Gobião-Estaca Desidratado",
+            "grade": 0,
+            "minPrice": 4020
+        },
+        {
+            "mainKey": 8646,
+            "sumCount": 0,
+            "name": "Brilhante Dourado Desidratado",
+            "grade": 0,
+            "minPrice": 4380
+        },
+        {
+            "mainKey": 8647,
+            "sumCount": 0,
+            "name": "Bótia-Zebra Desidratado",
+            "grade": 0,
+            "minPrice": 7300
+        },
+        {
+            "mainKey": 8648,
+            "sumCount": 0,
+            "name": "Peixe-Arroz Delgado Desidratado",
+            "grade": 0,
+            "minPrice": 5350
+        },
+        {
+            "mainKey": 8649,
+            "sumCount": 0,
+            "name": "Peixe-Cereja Desidratado",
+            "grade": 0,
+            "minPrice": 5150
+        },
+        {
+            "mainKey": 8650,
+            "sumCount": 0,
+            "name": "Verdemã Desidratado",
+            "grade": 0,
+            "minPrice": 7550
+        },
+        {
+            "mainKey": 8651,
+            "sumCount": 0,
+            "name": "Carpa Delgada Desidratada",
+            "grade": 0,
+            "minPrice": 5400
+        },
+        {
+            "mainKey": 8652,
+            "sumCount": 0,
+            "name": "Carpa-Pedra Desidratada",
+            "grade": 0,
+            "minPrice": 6600
+        },
+        {
+            "mainKey": 8653,
+            "sumCount": 0,
+            "name": "Gobião Amur Desidratado",
+            "grade": 0,
+            "minPrice": 15500
+        },
+        {
+            "mainKey": 8654,
+            "sumCount": 11,
+            "name": "Esgana-Gato Desidratado",
+            "grade": 0,
+            "minPrice": 11300
+        },
+        {
+            "mainKey": 8655,
+            "sumCount": 2,
+            "name": "Peixe-Gato Delgado Desidratado",
+            "grade": 0,
+            "minPrice": 8450
+        },
+        {
+            "mainKey": 8656,
+            "sumCount": 0,
+            "name": "Carpa-Grama Desidratada",
+            "grade": 0,
+            "minPrice": 7400
+        },
+        {
+            "mainKey": 8657,
+            "sumCount": 2,
+            "name": "Brilhante Negro Desidratado",
+            "grade": 0,
+            "minPrice": 23000
+        },
+        {
+            "mainKey": 8658,
+            "sumCount": 17,
+            "name": "Peixe-Lota Delgado Desidratado",
+            "grade": 0,
+            "minPrice": 18200
+        },
+        {
+            "mainKey": 8659,
+            "sumCount": 0,
+            "name": "Chub Escuro Desidratado",
+            "grade": 0,
+            "minPrice": 7800
+        },
+        {
+            "mainKey": 8660,
+            "sumCount": 40,
+            "name": "Peixe-Gelo Florido Desidratado",
+            "grade": 0,
+            "minPrice": 13700
+        },
+        {
+            "mainKey": 8661,
+            "sumCount": 93,
+            "name": "Truta Dolly Varden Desidratada",
+            "grade": 0,
+            "minPrice": 29300
+        },
+        {
+            "mainKey": 8662,
+            "sumCount": 170,
+            "name": "Limanda Aspera Desidratada",
+            "grade": 0,
+            "minPrice": 7450
+        },
+        {
+            "mainKey": 8663,
+            "sumCount": 167,
+            "name": "Gunnel Pontilhado Desidratado",
+            "grade": 0,
+            "minPrice": 7350
+        },
+        {
+            "mainKey": 8664,
+            "sumCount": 126,
+            "name": "Caranguejo-Vermelho Desidratado",
+            "grade": 0,
+            "minPrice": 12400
+        },
+        {
+            "mainKey": 8665,
+            "sumCount": 436,
+            "name": "Bodião Raiado Desidratado",
+            "grade": 0,
+            "minPrice": 30600
+        },
+        {
+            "mainKey": 8666,
+            "sumCount": 80,
+            "name": "Esturjão Verde Desidratado",
+            "grade": 0,
+            "minPrice": 30700
+        },
+        {
+            "mainKey": 8667,
+            "sumCount": 4,
+            "name": "Tubarão-Raposa Desidratado",
+            "grade": 0,
+            "minPrice": 32000
+        },
+        {
+            "mainKey": 8668,
+            "sumCount": 8,
+            "name": "Tubarão-Tigre Desidratado",
+            "grade": 0,
+            "minPrice": 33400
+        },
+        {
+            "mainKey": 8669,
+            "sumCount": 3,
+            "name": "Tubarão-Frade Desidratado",
+            "grade": 0,
+            "minPrice": 36200
+        }
+    ],
+    "resultCode": 0,
+    "resultMsg": ""
+}
